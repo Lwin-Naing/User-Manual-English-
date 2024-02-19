@@ -64,7 +64,7 @@ You can find the switching the languages feature on the settings page of the acc
 
 ![1-1-f1b4022af1fc3464a63d4c005ed288d4](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/f3ce01fa-3590-4523-8aaf-4fe815d8b74b)
 
-![1-2-01ebe6ffbc2566cadd974487c3345b9c.png](Environment%20Setting%20e027c98b5975455a8efbfe9bd1453d70/1-2-01ebe6ffbc2566cadd974487c3345b9c.png)
+![1-2-01ebe6ffbc2566cadd974487c3345b9c](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/2f4454b8-1abe-4d46-bd9c-304a1437931c)
 
 ## **Color theme switch**
 
