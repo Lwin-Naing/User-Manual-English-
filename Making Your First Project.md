@@ -47,13 +47,12 @@ open this URL
 
 ![sdf_2_(4)](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/a18a792c-c389-4ee1-b069-d95efacca74d)
 
-![sdf 2 (4).png](Making%20Your%20First%20Project%207af2788c82ee4c43ad6ef72026c79fd6/sdf_2_(4).png)
 
 ① Click "Start now" at the top right of the screen
 
 **Convert to the user registration screen**
 
-![fghj_2](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/c29cc56c-98a5-41be-93bd-7f88ecd5574f)
+![2023-03-20_13h33_16_1](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/158041bd-ae94-4b4c-9b36-9722939bbae8)
 
 ② Click Login
 
@@ -65,4 +64,5 @@ open this URL
 
 **You have successfully logged in**
 
-![2023-03-20_13h45_40 1.png](Making%20Your%20First%20Project%207af2788c82ee4c43ad6ef72026c79fd6/2023-03-20_13h45_40_1.png)
+![2023-03-20_13h45_40_1](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/550b24e9-6487-429d-a08f-fad01f454231)
+
