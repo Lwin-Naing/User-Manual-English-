@@ -74,6 +74,6 @@ The feature of switching between the UI color themes is available on the account
 
 - Dashboard header > Account Settings
 
-![2-1-f1b4022af1fc3464a63d4c005ed288d4.png](Environment%20Setting%20e027c98b5975455a8efbfe9bd1453d70/2-1-f1b4022af1fc3464a63d4c005ed288d4.png)
+![2-1-f1b4022af1fc3464a63d4c005ed288d4](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/0ab82185-fcbc-45d4-a375-3086c7bb2c35)
 
 ![2-2-68c64aee11098b657638b82760e8c012](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/361e6edb-6a7b-4e0f-bab2-8611958cf4c3)
