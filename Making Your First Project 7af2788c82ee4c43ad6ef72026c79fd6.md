@@ -13,7 +13,7 @@ Because Re-Earth is still in the stage of internal development, we do not yet su
 
 After obtaining an account and completing verification, please open [**https://app.reearth.io/**](https://app.reearth.io/) and enter your account information to log in.
 
-![sdf_2_(1)](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/743918e5-a9be-4c55-9fb3-ad3c81ccd841)
+![fghj_2](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/05cff520-0443-4491-965b-098677c7467e)
 
 **Convert to the user registration screen**
 
