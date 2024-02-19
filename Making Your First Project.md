@@ -17,7 +17,7 @@ After obtaining an account and completing verification, please open [**https://
 
 **Convert to the user registration screen**
 
-![sdf_2_(1)](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/63ee2fd6-4e15-4205-9738-f9250f857f1b)
+![fghj_2](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/13873129-c678-414b-9211-d89775f51f79)
 
 ② Click Sign Up
 
