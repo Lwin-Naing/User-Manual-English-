@@ -4,15 +4,15 @@ Creating a project is easy and you'll be ready to go in no time.
 
 When you log in to Re: Earth, you will see a page called Dashboard. From this screen you can create a new project.
 
-![sef 1.png](Create%20A%20New%20Project%20663077dd2163491fb48e27debfae1471/sef_1.png)
+![sef_1](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/45d8d2d6-58c2-42d0-b7c0-c038b74dd9f6)
 
 (1) Click the [New Project] button 
 
-![sef 1 (1).png](Create%20A%20New%20Project%20663077dd2163491fb48e27debfae1471/sef_1_(1).png)
+![sef_1_(1)](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/5a5a4a28-c9e9-4e64-b45d-4c27d10dc727)
 
 A window titled Create New Project will appear.
 
-![dfg 1.png](Create%20A%20New%20Project%20663077dd2163491fb48e27debfae1471/dfg_1.png)
+![dfg_1](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/443e60b2-bb8c-4eb8-9d0f-7c08a848037b)
 
 ② Enter the project name
 
@@ -24,8 +24,8 @@ A window titled Create New Project will appear.
 
 Once complete, you'll see a new project card in your project list.
 
-![sd 1 (1).png](Create%20A%20New%20Project%20663077dd2163491fb48e27debfae1471/sd_1_(1).png)
+![sd_1_(1)](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/1433da71-b375-47ed-9b98-6d33be3a6092)
 
 You've just created your first Re:Earth project! You can move to the edit screen of the created project by clicking the edit button on the project card here.
 
-![dg 1.png](Create%20A%20New%20Project%20663077dd2163491fb48e27debfae1471/dg_1.png)
+![dg_1](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/70b58a2a-08bd-4625-82d5-69c63834e728)
