@@ -2,7 +2,7 @@
 
 Workspace is a section in the Re-Earth app, where you can build and create your projects.
 
-![Untitled](Overview%20b4e7717ec68d4c22a978620933fb8d34/Untitled.png)
+![Untitled](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/0c1ba70f-b9e5-4a6f-96ae-b314c63d7b12)
 
 [Create A New Team Workspace](Create%20A%20New%20Team%20Workspace%208153437ad9134376a3b5b9a435bd5274.md)
 
