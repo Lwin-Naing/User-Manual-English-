@@ -1,2 +1,14 @@
 # User-Manual-English-
-Re-Earth User Manual-English Version 
+- Re-Earth layers
+
+  Marker
+
+  Photo Overlay
+
+  Sphere
+
+  3D Model
+
+  3D Tiles
+
+  File
