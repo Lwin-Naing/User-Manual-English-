@@ -3,7 +3,7 @@
 
 - **Getting Started**
     
-    [**Environment Setting**](User%20Manual%20d2a30f9add9245048e8458db86f7de66/Environment%20Setting%20e027c98b5975455a8efbfe9bd1453d70.md)
+    [**Environment Setting**](https://github.com/CS-eukarya/User-Manual-English-/blob/653862029d0c30e3ddbe3853020a453e9d1d229e/Environment%20Setting.md)
     
     [**Making Your First Project**](User%20Manual%20d2a30f9add9245048e8458db86f7de66/Making%20Your%20First%20Project%207af2788c82ee4c43ad6ef72026c79fd6.md)
     
