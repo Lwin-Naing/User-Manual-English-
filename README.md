@@ -13,7 +13,7 @@
         
         [**Dashboard**](https://github.com/CS-eukarya/User-Manual-English-/blob/038f72c2f76a8822827d8e3618433be7885fce55/Dashboard.md)
         
-        [**Editor**](User%20Manual%20d2a30f9add9245048e8458db86f7de66/Editor%20df1532479d364ec48165660794f8d1e2.md)
+        [**Editor**](https://github.com/CS-eukarya/User-Manual-English-/blob/64ef28ed49478be026668a87c6918b3954b218d4/Editor.md)
         
         [**Setting Page**](User%20Manual%20d2a30f9add9245048e8458db86f7de66/Setting%20Page%204c749b78cc2642ebb2c57ae3481d48c3.md)
         
