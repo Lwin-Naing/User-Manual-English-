@@ -36,4 +36,4 @@ When you find that some projects are no longer needed, you can delete them compl
 
 In the danger zone at the bottom of the setting page, you can find the Delete project button.
 
-![562.png](Settings,%20Archiving%20And%20Deleting%20eba9dfc58f4042f8ad064602fae9afbc/562.png)
+![562](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/9a3ec4c1-f578-4dfc-802e-0d85c65c75ef)
