@@ -2,7 +2,7 @@
 
 "For the purpose of editing and managing projects, Re-Earth offers three main pages, each serving a distinct role in facilitating a seamless user experience:
 
-1. **Dashboard**: **[Dashboard Link]([Dashboard%20e1d3557aed1749e491c3bb8b8ddc1d48.md](https://github.com/CS-eukarya/User-Manual-English-/blob/038f72c2f76a8822827d8e3618433be7885fce55/Dashboard.md))**
+1. **Dashboard**: **[Dashboard Link](Dashboard%20e1d3557aed1749e491c3bb8b8ddc1d48.md](https://github.com/CS-eukarya/User-Manual-English-/blob/038f72c2f76a8822827d8e3618433be7885fce55/Dashboard.md))**
     - The Dashboard serves as the central hub where users can gain an overview of their ongoing projects, access vital information, and track progress. It provides a quick glance at project statuses, notifications, and key performance indicators.
 2. **Editor**: **[Editor Link](Editor%20df1532479d364ec48165660794f8d1e2.md)**
     - The Editor page is the creative workspace where users can dive into project details, make edits, collaborate with team members, and create content. It offers a suite of tools and features for seamless project customization.
