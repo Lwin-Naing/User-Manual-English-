@@ -8,19 +8,17 @@ The Re-Earth APP workspace Settings is a section that users can use to edit basi
 
 Click on the settings icon that looks like a gear to locate the Workspace settings
 
-![Untitled](Settings%20And%20Deleting%208f198ea780b04049ada1080273d2d76e/Untitled.png)
-
-       
+![Untitled](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/164d4908-f219-47f8-96a8-d9da09626133)       
 
 **The Re-Earth app Workspace settings**
 
-![Untitled](Settings%20And%20Deleting%208f198ea780b04049ada1080273d2d76e/Untitled%201.png)
+![Untitled 1](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/4a6bd35c-2165-4ee8-bfaf-705ae0d73606)
 
 **(A) Workspace name:**
 
 This is a section where you can the name of the workspace a user has created. In this section, the user can rename the workspace. 
 
-![Untitled](Settings%20And%20Deleting%208f198ea780b04049ada1080273d2d76e/Untitled.gif)
+![Untitled](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/7d18a9ae-07cf-4b3e-8fd7-b0193b1c00c5)
 
 **(B) New member:**
 
@@ -36,15 +34,15 @@ It is the process of Deleting a workspace from the Re-Earth App. Once the action
 
 ### How to Delete a Workspace
 
-![Untitled](Settings%20And%20Deleting%208f198ea780b04049ada1080273d2d76e/Untitled%202.png)
+![Untitled 2](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/7b1dda2b-288d-4c1a-996c-f56b4f73ccb3)
 
 1. Click on Delete Workspace in the Danger Zone of the Workspace settings.
 
-![Untitled](Settings%20And%20Deleting%208f198ea780b04049ada1080273d2d76e/Untitled%203.png)
+![Untitled 3](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/70b21306-e6b1-4586-9752-6c326959dd62)
 
 1. Type in the name of the workspace you want to delete.
 2. Then, Click on (I am sure I want to delete workspace) and then the workspace will be deleted.
 
 **Illustration** 
 
-![Untitled](Settings%20And%20Deleting%208f198ea780b04049ada1080273d2d76e/Untitled%201.gif)
+![Untitled 1](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/3acb30b5-0132-43ac-828d-66641bf93306)
