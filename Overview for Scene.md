@@ -8,7 +8,7 @@ This section explains how to locate the scene.
 
 I**n the scene, there are Nine Boxes that you can manipulate :**
 
-![basic 1.png](Overview%2002596916c49f49cca15a6040edb0c583/basic_1.png)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/3c4f99f4-6c38-435a-98af-a32732ef4da2)
 
 Scene allows you to experience geographic information similarly to the way you would in the real world.
 
