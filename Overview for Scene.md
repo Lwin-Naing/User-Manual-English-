@@ -23,7 +23,7 @@ This helps you to understand large and complex data and its spatial relationship
 In Re-Earth the default setting is to display all of North America. You can change the camera position to be displayed on the page load by setting the initial camera position.
 and Click on (not set)
 
-![45 1.png](Overview%2002596916c49f49cca15a6040edb0c583/45_1.png)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/e2a0eab7-e6c5-4216-bccc-4c64b438360f)
 
 Move the digital earth to the desired location. Click (Capture) to add the coordinates that you want
 
