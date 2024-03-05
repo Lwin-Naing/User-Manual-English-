@@ -27,7 +27,7 @@ and Click on (not set)
 
 Move the digital earth to the desired location. Click (Capture) to add the coordinates that you want
 
-![45 1.png](Overview%2002596916c49f49cca15a6040edb0c583/45_1%201.png)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/43bd5347-843a-4330-b85c-cfc83f35e2c8)
 
 ### **Enter the ground**
 
