@@ -18,7 +18,7 @@ This helps you to understand large and complex data and its spatial relationship
 
 ### Set the initial camera position
 
-![basic 1.png](Overview%2002596916c49f49cca15a6040edb0c583/basic_1%201.png)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/c9985282-f5e8-4747-a7c8-94da1be88aef)
 
 In Re-Earth the default setting is to display all of North America. You can change the camera position to be displayed on the page load by setting the initial camera position.
 and Click on (not set)
