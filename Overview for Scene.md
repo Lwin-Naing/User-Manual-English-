@@ -39,7 +39,7 @@ Set the true to allow the camera to enter the surface of the earth by clicking o
 
 In Scene mode, we get three options are different viewing modes you can use to visualize 3D data
 
-![sdf 1.png](Overview%2002596916c49f49cca15a6040edb0c583/sdf_1.png)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/1d382eb4-460b-47dd-9b53-b2da8b869de1)
 
 ### Scene 3D
 
