@@ -33,7 +33,7 @@ Move the digital earth to the desired location. Click (Capture) to add the coord
 
 Set the true to allow the camera to enter the surface of the earth by clicking on The Enter the ground toggle on/off on allow / off not allow
 
-![basic 1.png](Overview%2002596916c49f49cca15a6040edb0c583/basic_1%202.png)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/f9e85804-cbc8-4a38-904e-dc06ce898211)
 
 ### Scene mode
 
