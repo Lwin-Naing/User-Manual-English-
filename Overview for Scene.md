@@ -75,39 +75,39 @@ Click the (Sky) toggle Such as (on) enabled the Sky and  Stars
 
 Click the (Sky) toggle Such as (off) disabled the Sky and  Stars
 
-![dfgd.png](Overview%2002596916c49f49cca15a6040edb0c583/dfgd.png)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/f1e01444-fea9-40e3-9e59-79d3a790f71d)
 
-![3_008-a4738709e14b68815caa38a060cd0661.png](Overview%2002596916c49f49cca15a6040edb0c583/3_008-a4738709e14b68815caa38a060cd0661.png)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/77a32714-636b-4c68-80ce-44d925aa4d4b)
 
 ### Background color
 
 Set background color
 
-![basic 1.png](Overview%2002596916c49f49cca15a6040edb0c583/basic_1%204.png)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/e6949559-2f1a-4208-a9e0-8aa50f306eb4)
 
 Disable the Sky and Click (not set) for the background color.
 
-![wre.png](Overview%2002596916c49f49cca15a6040edb0c583/wre.png)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/28058a46-4bbe-45af-b34a-ba97ae191c4f)
 
 With the background color setting, you can set the background color seen if the sky is not enabled.
 
-![sdf.png](Overview%2002596916c49f49cca15a6040edb0c583/sdf.png)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/2fddea24-56a2-46d7-a980-e3d1c3a7d55d)
 
 Select any color from the displayed color panel and click Save
 
-![864 1.png](Overview%2002596916c49f49cca15a6040edb0c583/864_1.png)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/d3089775-b721-4385-99eb-fdb19d7651cf)
 
 The background color will be changed immediately
 
-![Screenshot 2023-02-03 113048.png](Overview%2002596916c49f49cca15a6040edb0c583/Screenshot_2023-02-03_113048.png)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/64a1c54d-7970-4849-a970-c58fa7e4f524)
 
 Before Setting the Color 
 
-![sdf.png](Overview%2002596916c49f49cca15a6040edb0c583/sdf%201.png)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/791a2d42-169d-41e1-960a-1a144ecf3ba3)
 
 After Setting the Color 
 
-![Screenshot 2023-02-03 113231.png](Overview%2002596916c49f49cca15a6040edb0c583/Screenshot_2023-02-03_113231.png)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/aef62acf-68d2-4904-9f5a-8290742db3b5)
 
 ### Cesium Ion API access token
 
@@ -119,18 +119,19 @@ The Cesium ion API access token enables the use of Cesium ion assets (map tile d
 
 To do so, register with Cesium Ion and set the API key issued by your Cesium Ion account to your project.
 
-![basic 1.png](Overview%2002596916c49f49cca15a6040edb0c583/basic_1%205.png)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/97a8e4fa-c607-4cfc-8e7d-ba9dbd5eb546)
 
 ### VR
 
 Enable VR mode to split the screen info left and right
 
-![574.png](Overview%2002596916c49f49cca15a6040edb0c583/574.png)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/3615f781-e7e1-4ba6-aade-285d456ccb8a)
 
 Enable the toggle
 
-![564.png](Overview%2002596916c49f49cca15a6040edb0c583/564.png)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/6deb9309-bf69-440f-ae72-7f63ad0500c1)
 
 Disable the toggle
 
-![574.png](Overview%2002596916c49f49cca15a6040edb0c583/574%201.png)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/4758710f-11d8-4616-8af8-6a6f5e43d3af)
+
