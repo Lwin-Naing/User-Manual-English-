@@ -46,32 +46,32 @@ In Scene mode, we get three options are different viewing modes you can use to v
 3D mode. A traditional 3D perspective view of the globe.
 Working in 3D can incorporate real-world elements with your content, highlighting influences such as the movement of the terrain and the 3D extent of features such as trees, buildings, and subsurface geology.
 
-![sdf 1.png](Overview%2002596916c49f49cca15a6040edb0c583/sdf_1%201.png)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/58800f10-5e5b-4d48-9ceb-c394b37daf11)
 
 ### Scene 2D
 
 2D mode. The map is viewed top-down with an orthographic projection
 This option can acquire high-quality 2D images at various angles of the place the paper focuses on. Identifying the feature points from a 2D image acquired from the calibrated camera and reconstructing those features using depth analysis to obtain the 3D view of the object or image
 
-![2 D 1.png](Overview%2002596916c49f49cca15a6040edb0c583/2_D_1.png)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/02a4056a-5273-4d2d-b78f-49f27d0ad2dc)
 
 ### Columbus View
 
 Columbus View mode. A 2.5D perspective view where the map is laid out flat and objects with nonzero height are drawn above it.
 
-![View 1.png](Overview%2002596916c49f49cca15a6040edb0c583/View_1.png)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/3d949f24-9eb9-4765-a1e1-4b9b53f21390)
 
 ### Sky
 
 The Sky toggle enables using space as the background.
 
-![basic 1.png](Overview%2002596916c49f49cca15a6040edb0c583/basic_1%203.png)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/a60188c8-c46a-4946-832c-aa5bbddd9e73)
 
 Click the (Sky) toggle Such as (on) enabled the Sky and  Stars 
 
-![fhg.png](Overview%2002596916c49f49cca15a6040edb0c583/fhg.png)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/9a0bda55-f93d-4c1d-980d-af7e6f5f98a8)
 
-![3_009-73a86289356eefe7d32c1e3379cdd8a4.png](Overview%2002596916c49f49cca15a6040edb0c583/3_009-73a86289356eefe7d32c1e3379cdd8a4.png)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/f1aea320-228e-4907-9e8b-ec8fc2ede6cb)
 
 Click the (Sky) toggle Such as (off) disabled the Sky and  Stars
 
