@@ -86,23 +86,23 @@
             
 - **Infobox**
     
-    [Overview ](User%20Manual%20d2a30f9add9245048e8458db86f7de66/Overview%2031f25adf73224435905b5c993b913c14.md)
+    [Overview ](https://github.com/CS-eukarya/User-Manual-English-/blob/d67b077c0cc0b60a31390c1c0ce7b71574d3f759/Overview%20for%20Info%20Box.md)
     
-    [Create A New Infobox](User%20Manual%20d2a30f9add9245048e8458db86f7de66/Create%20A%20New%20Infobox%20a0d7638b7a9a4067a9991f4950fbc2a3.md)
+    [Create A New Infobox](https://github.com/CS-eukarya/User-Manual-English-/blob/d67b077c0cc0b60a31390c1c0ce7b71574d3f759/Create%20A%20New%20Infobox.md)
     
-    [Infobox Properties ](User%20Manual%20d2a30f9add9245048e8458db86f7de66/Infobox%20Properties%20cbe5ddc866c84903b41d55c0c1b24660.md)
+    [Infobox Properties ](https://github.com/CS-eukarya/User-Manual-English-/blob/d67b077c0cc0b60a31390c1c0ce7b71574d3f759/Infobox%20Properties.md)
     
     - **Blocks**
         
-        [Text Block ](User%20Manual%20d2a30f9add9245048e8458db86f7de66/Text%20Block%20080e66fb9b6740f69df9218402fa763f.md)
+        [Text Block ](https://github.com/CS-eukarya/User-Manual-English-/blob/5cd3059b06e1c90d3966a0af4af0990ec00c3326/Text%20Block.md)
         
-        [Image Block ](User%20Manual%20d2a30f9add9245048e8458db86f7de66/Image%20Block%20d75fac92b39d4fa78fea27601cacb501.md)
+        [Image Block ](https://github.com/CS-eukarya/User-Manual-English-/blob/5cd3059b06e1c90d3966a0af4af0990ec00c3326/Image%20Block.md)
         
-        [Video Block ](User%20Manual%20d2a30f9add9245048e8458db86f7de66/Video%20Block%20d333776cd1574ef3847b853c8b55ff9d.md)
+        [Video Block ](https://github.com/CS-eukarya/User-Manual-English-/blob/5cd3059b06e1c90d3966a0af4af0990ec00c3326/Video%20Block.md)
         
-        [Location Block ](User%20Manual%20d2a30f9add9245048e8458db86f7de66/Location%20Block%20600592b0388c43dd867414d622ddc27f.md)
+        [Location Block ](https://github.com/CS-eukarya/User-Manual-English-/blob/5cd3059b06e1c90d3966a0af4af0990ec00c3326/Location%20Block.md)
         
-        [Table Block ](User%20Manual%20d2a30f9add9245048e8458db86f7de66/Table%20Block%2088fc1989554f4aaa803237d7f2aefc30.md)
+        [Table Block ](https://github.com/CS-eukarya/User-Manual-English-/blob/5cd3059b06e1c90d3966a0af4af0990ec00c3326/Table%20Block.md)
         
 - **Widget**
     
