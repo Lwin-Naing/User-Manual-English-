@@ -128,31 +128,31 @@
         
 - **Plugin**
     
-    [Overview](User%20Manual%20d2a30f9add9245048e8458db86f7de66/Overview%20ce224e1d8e1043e493d98a6e5c4444e6.md)
+    [Overview](https://github.com/CS-eukarya/User-Manual-English-/blob/d8cdb329579b130ae64cef42876e63d5f58a9233/Overview%20for%20Plugin.md)
     
-    [Plugin Marketplace ](User%20Manual%20d2a30f9add9245048e8458db86f7de66/Plugin%20Marketplace%20751f7a9caaff41c7a0d31a4a6e8529ff.md)
+    [Plugin Marketplace ](https://github.com/CS-eukarya/User-Manual-English-/blob/d8cdb329579b130ae64cef42876e63d5f58a9233/Plugin%20Marketplace.md)
     
-    [Install And Remove Plugins](User%20Manual%20d2a30f9add9245048e8458db86f7de66/Install%20And%20Remove%20Plugins%20a9f2c04d2f0a49af98e19bffb4836f8d.md)
+    [Install And Remove Plugins](https://github.com/CS-eukarya/User-Manual-English-/blob/d8cdb329579b130ae64cef42876e63d5f58a9233/Install%20And%20Remove%20Plugins.md)
     
-    [Types Of Plugins](User%20Manual%20d2a30f9add9245048e8458db86f7de66/Types%20Of%20Plugins%2023f2fb6872174128b561e76f53d0b459.md)
+    [Types Of Plugins](https://github.com/CS-eukarya/User-Manual-English-/blob/d8cdb329579b130ae64cef42876e63d5f58a9233/Types%20Of%20Plugins.md)
     
     - **What can users do with the plugin**
         
-        [Various Plugins](User%20Manual%20d2a30f9add9245048e8458db86f7de66/Various%20Plugins%205d90198ecf214c4485b2bf9af499f12e.md)
+        [Various Plugins](https://github.com/CS-eukarya/User-Manual-English-/blob/dc400a9d8bf336b3d5df37befdfd17c6b946e5e9/Various%20Plugins.md)
         
-        [Data that can be handled by developing plugins](User%20Manual%20d2a30f9add9245048e8458db86f7de66/Data%20that%20can%20be%20handled%20by%20developing%20plugins%20794a571b945a4288b0ec63bee4333658.md)
+        [Data that can be handled by developing plugins](https://github.com/CS-eukarya/User-Manual-English-/blob/dc400a9d8bf336b3d5df37befdfd17c6b946e5e9/Data%20that%20can%20be%20handled%20by%20developing%20plugins.md)
         
 - **Asset**
     
-    [Idea Of Assets](User%20Manual%20d2a30f9add9245048e8458db86f7de66/Idea%20Of%20Assets%20549c746ef5894855854d60bef01da855.md)
+    [Idea Of Assets](https://github.com/CS-eukarya/User-Manual-English-/blob/e0770b686bf93933acea425fd2fc34065cf56c0b/Idea%20Of%20Assets.md)
     
-    [Manage Assets](User%20Manual%20d2a30f9add9245048e8458db86f7de66/Manage%20Assets%20f2d78750c1c64221b15faa7b7416bec2.md)
+    [Manage Assets](https://github.com/CS-eukarya/User-Manual-English-/blob/e0770b686bf93933acea425fd2fc34065cf56c0b/Manage%20Assets.md)
     
 - **Publication**
     
-    [Subdomains And Custom Domains](User%20Manual%20d2a30f9add9245048e8458db86f7de66/Subdomains%20And%20Custom%20Domains%20ac4fa9226d3d4d119c84bc7495c63dbd.md)
+    [Subdomains And Custom Domains](https://github.com/CS-eukarya/User-Manual-English-/blob/2d84705b0dd08e0a1b55d43003706517579361ff/Subdomains%20And%20Custom%20Domains.md)
     
-    [Basic Authorization](User%20Manual%20d2a30f9add9245048e8458db86f7de66/Basic%20Authorization%20a498c60933d845a89a063ea72efe426a.md)
+    [Basic Authorization](https://github.com/CS-eukarya/User-Manual-English-/blob/2d84705b0dd08e0a1b55d43003706517579361ff/Basic%20Authorization.md)
     
-    [**Public Info** SEO ＆ OGP](User%20Manual%20d2a30f9add9245048e8458db86f7de66/Public%20Info%20SEO%20%EF%BC%86%20OGP%203e30b40502c7405a9d83a0b946e1ab79.md)
+    [**Public Info** SEO ＆ OGP](https://github.com/CS-eukarya/User-Manual-English-/blob/2d84705b0dd08e0a1b55d43003706517579361ff/Public%20Info%20SEO%20%EF%BC%86%20OGP.md)
     
