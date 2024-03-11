@@ -15,22 +15,22 @@
         
         [**Editor**](https://github.com/CS-eukarya/User-Manual-English-/blob/64ef28ed49478be026668a87c6918b3954b218d4/Editor.md)
         
-        [**Setting Page**](User%20Manual%20d2a30f9add9245048e8458db86f7de66/Setting%20Page%204c749b78cc2642ebb2c57ae3481d48c3.md)
+        [**Setting Page**](https://github.com/CS-eukarya/User-Manual-English-/blob/64ef28ed49478be026668a87c6918b3954b218d4/Setting%20Page.md)
         
-        [Preview Page](User%20Manual%20d2a30f9add9245048e8458db86f7de66/Preview%20Page%2002523931122c4cf0aa1d061ab8dd26c6.md)
+        [Preview Page](https://github.com/CS-eukarya/User-Manual-English-/blob/64ef28ed49478be026668a87c6918b3954b218d4/Preview%20Page.md)
         
-        [Publish Page](User%20Manual%20d2a30f9add9245048e8458db86f7de66/Publish%20Page%206dfb01ed7e22445a908620899235d569.md)
+        [Publish Page](https://github.com/CS-eukarya/User-Manual-English-/blob/64ef28ed49478be026668a87c6918b3954b218d4/Publish%20Page.md)
         
 - **Project & Workspace**
     - **Project**
         
-        [Overview](User%20Manual%20d2a30f9add9245048e8458db86f7de66/Overview%20026c6bdc69fb47cca139bedcd6ce6342.md)
+        [Overview](https://github.com/CS-eukarya/User-Manual-English-/blob/96d54ce0b2045e18fe263998655997c0a0c9a073/Overview%20for%20Project.md)
         
-        [**Create A New Project** ](User%20Manual%20d2a30f9add9245048e8458db86f7de66/Create%20A%20New%20Project%20663077dd2163491fb48e27debfae1471.md)
+        [**Create A New Project** ](https://github.com/CS-eukarya/User-Manual-English-/blob/96d54ce0b2045e18fe263998655997c0a0c9a073/Create%20A%20New%20Project.md)
         
-        [**Settings, Archiving And Deleting**](User%20Manual%20d2a30f9add9245048e8458db86f7de66/Settings,%20Archiving%20And%20Deleting%20eba9dfc58f4042f8ad064602fae9afbc.md)
+        [**Settings, Archiving And Deleting**](https://github.com/CS-eukarya/User-Manual-English-/blob/96d54ce0b2045e18fe263998655997c0a0c9a073/Settings%2C%20Archiving%20And%20Deleting.md)
         
-        [**Dataset Library**](User%20Manual%20d2a30f9add9245048e8458db86f7de66/Dataset%20Library%20f8d8e04ff93f42d294404901732867c5.md)
+        [**Dataset Library**](https://github.com/CS-eukarya/User-Manual-English-/blob/96d54ce0b2045e18fe263998655997c0a0c9a073/Dataset%20Library.md)
         
     - **Workspace**
         
