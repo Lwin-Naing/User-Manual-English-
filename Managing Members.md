@@ -3,17 +3,24 @@
 The Managing Member is a section in the Re-Earth App workspace, where you can add, rename, delete, and change member roles.
 
 ![Untitled](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/788f64da-708d-4c5a-8428-c75b35943255)
+<br>
+<br>
+<br>
 
-### Steps to Add a New Member
+## Steps to Add a New Member
 
 ![Untitled 1](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/b011de2f-eff6-4001-b1a4-9022c2a91c58)
 
-1. **New Member:**  The NEW MEMBER button is used to add a new Member to the USER Workspace. The button will be your first step to adding new members.
+1. New Member: The NEW MEMBER button is used to add a new Member to the USER Workspace. The button will be your first step to adding new members.
+<br>
+<br>
 
 ![Untitled 2](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/818ce44d-cffc-4f4a-a9ba-7753cb6aa1df)
 
-1. In the Add a team member Section, the Users will have to add an Email address or the user name of the person.
-2. Add: click on the ADD button to be able to add a new team member to your workspace.
+2. In the Add a team member Section, the Users will have to add an Email address or the user name of the person.
+3. Add: click on the ADD button to be able to add a new team member to your workspace.
+<br>
+<br>
 
 ## Invite new members[](https://docs.reearth.io/user-manual/project-and-workspace/workspace/managing-members#invite-new-members)
 
