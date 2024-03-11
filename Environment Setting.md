@@ -53,8 +53,10 @@ Therefore, Re-Earth requires a graphics card or graphics chip that supports WebG
 If you want to work more comfortably on a desktop PC, we recommend installing a graphics card such as the recently released Nvidia GeForce series or AMD Radeon series.
 
 For the best performance, please update your graphics card or graphics chip driver regularly to use the latest version.
+<br>
+<br>
 
-## **Language switch**
+## Language switch
 
 Re: Earth supports two languages at least, English and Japanese. now our development team has members from a wide variety of language backgrounds, we will work to support more languages in the future.
 
@@ -65,8 +67,10 @@ You can find the switching the languages feature on the settings page of the acc
 ![1-1-f1b4022af1fc3464a63d4c005ed288d4](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/f3ce01fa-3590-4523-8aaf-4fe815d8b74b)
 
 ![1-2-01ebe6ffbc2566cadd974487c3345b9c](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/2f4454b8-1abe-4d46-bd9c-304a1437931c)
+<br>
+<br>
 
-## **Color theme switch**
+## Color theme switch
 
 Re-Earth system provides two UI color themes, a **Light theme,** and a **Dark theme**, which you can switch between them at any time according to your needs.
 
