@@ -26,7 +26,7 @@ This is a section where you can the name of the workspace a user has created. In
 
 **(B) New member:**
 
-This section allows users to manage the members in the workspace. For details, please refer to **[Managing Members](Managing%20Members%209493472f978a43c98150023cd719421c.md)**
+This section allows users to manage the members in the workspace. For details, please refer to [Managing Members](https://github.com/CS-eukarya/User-Manual-English-/blob/a664173779612eab10d1eef00cf891e6645e19d5/Managing%20Members.md)
 
 **(C) Delete Workspace:**
 
