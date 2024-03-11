@@ -66,23 +66,23 @@
             
     - **Layers**
         
-        [Overview](User%20Manual%20d2a30f9add9245048e8458db86f7de66/Overview%20bbfadcfd250f45e7b22ddb12c5e3ed31.md)
+        [Overview](https://github.com/CS-eukarya/User-Manual-English-/blob/8f4c780b9e4c8c6a5eef4fa998fa4838ed4a6adf/Overview%20for%20Layer.md)
         
-        [Create, Delete And Update Layers ](User%20Manual%20d2a30f9add9245048e8458db86f7de66/Create,%20Delete%20And%20Update%20Layers%203e2287f72ac24706a003ba8a7e0497e2.md)
+        [Create, Delete And Update Layers ](https://github.com/CS-eukarya/User-Manual-English-/blob/8f4c780b9e4c8c6a5eef4fa998fa4838ed4a6adf/Create%2C%20Delete%20And%20Update%20Layers.md)
         
         - **Re: Earth layers**
             
-            [Marker](User%20Manual%20d2a30f9add9245048e8458db86f7de66/Marker%20db5af60c61944d5a886ac07f48229c05.md)
+            [Marker](https://github.com/CS-eukarya/User-Manual-English-/blob/fd8b66d91369ac5f97d02439c38f67ac4fdcab76/Marker.md)
             
-            [Photo Overlay](User%20Manual%20d2a30f9add9245048e8458db86f7de66/Photo%20Overlay%20f1370f4ff46c4c4cbf363bc0b328b905.md)
+            [Photo Overlay](https://github.com/CS-eukarya/User-Manual-English-/blob/fd8b66d91369ac5f97d02439c38f67ac4fdcab76/Photo%20Overlay.md)
             
-            [Sphere](User%20Manual%20d2a30f9add9245048e8458db86f7de66/Sphere%2036e0d7150abf41708dfae2e38de2c2ed.md)
+            [Sphere](https://github.com/CS-eukarya/User-Manual-English-/blob/fd8b66d91369ac5f97d02439c38f67ac4fdcab76/Sphere.md)
             
-            [3D Model](User%20Manual%20d2a30f9add9245048e8458db86f7de66/3D%20Model%20da62e64ec7ee4774a377c4cb7fbf7d23.md)
+            [3D Model](https://github.com/CS-eukarya/User-Manual-English-/blob/fd8b66d91369ac5f97d02439c38f67ac4fdcab76/3D%20Model.md)
             
-            [3D Tiles](User%20Manual%20d2a30f9add9245048e8458db86f7de66/3D%20Tiles%20749704e73f67454fafb239503f133c19.md)
+            [3D Tiles](https://github.com/CS-eukarya/User-Manual-English-/blob/fd8b66d91369ac5f97d02439c38f67ac4fdcab76/3D%20Tiles.md)
             
-            [File](User%20Manual%20d2a30f9add9245048e8458db86f7de66/File%20726fa52e66e547778bb380b2d97b6076.md)
+            [File](https://github.com/CS-eukarya/User-Manual-English-/blob/fd8b66d91369ac5f97d02439c38f67ac4fdcab76/File.md)
             
 - **Infobox**
     
