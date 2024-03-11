@@ -33,6 +33,8 @@ Within a Workspace, users can create and manage different projects, Add team Mem
 
 ![Untitled (7)](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/90d429a6-db13-4793-bcc6-5605d437c7c2)
 
+![Untitled (8)](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/2921fd58-5ac6-4c62-a223-d02485a0b42a)
+
 ### Illustration of How to Create a New Team Workspace
 
 ![Untitled](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/3a177cf4-de2d-4603-a46c-05422377fbf6)
