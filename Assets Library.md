@@ -1,14 +1,20 @@
 # Assets Library
 
 When making a project, a lot of pictures, models and other resources are often needed. In Re-Earth, we collectively refer to them as Assets. Asset resources are stored and managed by the workspace, which means that different projects can share the same asset library, which is helpful if a workspace has multiple related projects.
+<br>
+<br>
 
 You can find the assets library in Settings under your current workspace in the navigation bar, where you can easily view and manage all the assets.
 
 ![https://docs.reearth.io/assets/images/6-1-622dfbc568f3f3560368fc669de39544.png](https://docs.reearth.io/assets/images/6-1-622dfbc568f3f3560368fc669de39544.png)
 
-1. **Upload file** and **Delete** asset(s) buttons.
-2. **Asset filtering, display, and search** functionality panel.
-3. **Assets cards** showcasing your library however you have chosen in the functionality panel. Defaults to showing the full library as large cards and is filtered by time.
+A. Upload file and Delete asset(s) buttons.
+
+B. Asset filtering, display, and search functionality panel.
+
+C. Assets cards showcasing your library however you have chosen in the functionality panel. Defaults to showing the full library as large cards and is filtered by time.
+<br>
+<br>
 
 ## How to add assets[](https://docs.reearth.io/user-manual/project-and-workspace/workspace/assets-library#how-to-add-assets)
 
@@ -20,10 +26,11 @@ We can add new assets to the library through the settings, and we can convenient
 
 ![https://docs.reearth.io/assets/images/6-4-19b236849a007e9b6d7d2b3e563ad5f4.png](https://docs.reearth.io/assets/images/6-4-19b236849a007e9b6d7d2b3e563ad5f4.png)
 
-1. Click the **Upload file** button.
+1. Click the Upload file button.
 2. Select the file(s) you want to upload in the opened system window.
-3. Click the **Open** button.
+3. Click the Open button.
 4. You should find that the new assets have been successfully uploaded and are now displayed in your library.
+<br>
 
 ## How to delete assets[](https://docs.reearth.io/user-manual/project-and-workspace/workspace/assets-library#how-to-delete-assets)
 
@@ -36,13 +43,16 @@ Whereas adding an asset is possible from both the settings and while editing you
 ![https://docs.reearth.io/assets/images/6-7-86a728297765858d5b5ff0dfaf1ad6ba.png](https://docs.reearth.io/assets/images/6-7-86a728297765858d5b5ff0dfaf1ad6ba.png)
 
 1. Select the asset(s) you want to delete.
-2. Click the **Delete** button in the upper right corner.
+2. Click the Delete button in the upper right corner.
 3. Confirm your actions.
 4. All selected assets should be deleted.
+<br>
 
 ## Find the asset you want[](https://docs.reearth.io/user-manual/project-and-workspace/workspace/assets-library#find-the-asset-you-want)
 
 As the number of assets increases, there will be more and more items in your library making it harder for you to find the one you want to use. We provide a panel of card management functions to help you.
+<br>
+<br>
 
 ### Filtering[](https://docs.reearth.io/user-manual/project-and-workspace/workspace/assets-library#filtering)
 
@@ -50,10 +60,15 @@ Re-Earth provides a drop-down list of filters so you can customize the viewing o
 
 ![https://docs.reearth.io/assets/images/6-8-fdefbbfb395bdd489bc8916e5e375b10.png](https://docs.reearth.io/assets/images/6-8-fdefbbfb395bdd489bc8916e5e375b10.png)
 
-1. Arrange asset cards in order of file upload **time**.
-2. Arrange asset cards in order of file **size**.
-3. Arrange asset cards by file **name**.
-4. For each filter, you can use this button to toggle the reverse order.
+A. Arrange asset cards in order of file upload time.
+
+B. Arrange asset cards in order of file size.
+
+C. Arrange asset cards by file name.
+
+D. For each filter, you can use this button to toggle the reverse order.
+<br>
+<br>
 
 ### Card style[](https://docs.reearth.io/user-manual/project-and-workspace/workspace/assets-library#card-style)
 
@@ -61,9 +76,13 @@ Re-Earth currently provides three ways to view the asset library:
 
 ![https://docs.reearth.io/assets/images/6-9-803a1f78ae2cd1bf7296edf8b08f4782.png](https://docs.reearth.io/assets/images/6-9-803a1f78ae2cd1bf7296edf8b08f4782.png)
 
-1. **List style** prioritizes showing the file information (name, file size, and import date) in a simple list. Ideal for many data-oriented assets.
-2. **Small card** styles can see more assets on the page at once.
-3. **Large cards** have a larger preview space. Ideal for many picture assets.
+A. **List style** prioritizes showing the file information (name, file size, and import date) in a simple list. Ideal for many data-oriented assets.
+
+B. **Small card** styles can see more assets on the page at once.
+
+C. **Large cards** have a larger preview space. Ideal for many picture assets.
+<br>
+<br>
 
 ### Search by file name[](https://docs.reearth.io/user-manual/project-and-workspace/workspace/assets-library#search-by-file-name)
 
