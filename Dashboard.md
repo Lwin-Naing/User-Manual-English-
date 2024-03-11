@@ -9,12 +9,16 @@ After successfully logging into the application, you will be taken to the home s
 - **Quick Start** : is a collection of quick operation buttons. We will add more buttons in the future.
 - **Plugins** : allows you to configure plugin settings.
 - **Project Card**
+<br>
+<br>
 
 ![e4t.png](Dashboard%20e1d3557aed1749e491c3bb8b8ddc1d48/e4t.png)
 
 When moving your cursor over one Project Card, you can see more information(project name, description and public status). The three buttons will lead you to the Editor Page, Preview Page and Project Setting Page.
+<br>
+<br>
 
-I**n the future**
+**In the future**
 
 In future version updates, we plan to add other feature modules such as development changelogs, new feature introductions, and news from the community.
     
