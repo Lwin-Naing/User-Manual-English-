@@ -6,7 +6,7 @@
 
 To create a layer, click to move the box icon.
 
-![Untitled](Create,%20Delete%20And%20Update%20Layers%203e2287f72ac24706a003ba8a7e0497e2/Untitled%202.png)
+![Untitled (8)](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/58f70c6d-fc5c-4a2a-9745-b22299e9f610)
 
 Then the Layer folder will be created
 
@@ -16,7 +16,7 @@ Then the Layer folder will be created
 
 ### After Creating a Layer
 
-![Untitled](Create,%20Delete%20And%20Update%20Layers%203e2287f72ac24706a003ba8a7e0497e2/Untitled%203.png)
+![Untitled (10)](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/cf11e0da-5f27-4fe7-8a1f-d78e2098ada8)
 
 ### Creating Layer illustration
 
