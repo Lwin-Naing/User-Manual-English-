@@ -80,7 +80,8 @@ Toggles between showing and hiding the atmosphere aura above the Digital Earth
 
 Toggle on / showing the atmosphere aura
 
-![بل.png](Atmospheric%20Conditions%201be85055d5a747cbb2ab215b2e08c960.png)
+![بل](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/1acc086e-9620-43f0-961a-93924ae9290f)
+
 
 ![e 1.png](Atmospheric%20Conditions%201be85055d5a747cbb2ab215b2e08c960/e_1.png)
 <br>
