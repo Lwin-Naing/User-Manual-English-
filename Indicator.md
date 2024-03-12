@@ -5,12 +5,16 @@
 The indicator is used to indicate a particular object in the Re-Earth app.
 
 You can also change the selecting indicator on the editor page. The re-Earth app also supports customizing the indicator by uploading your own image.
+<br>
+<br>
 
 ### Types Of Indicators in the Re-Earth Workspace
 
 **The Indicator contains** three types which are; **Default, Crosshair, and Custom.**
 
 ![Untitled](Indicator%208803995fbffe4ad0b4fad296a3b47b63/Untitled%201.png)
+<br>
+<br>
 
 **(A)Default**
 
@@ -22,7 +26,9 @@ You can also change the selecting indicator on the editor page. The re-Earth app
 
 ![Untitled](Indicator%208803995fbffe4ad0b4fad296a3b47b63/Untitled%203.png)
 
-                                           Diagram of the Default Indicator
+*Diagram of the Default Indicator*
+<br>
+<br>
 
 **(B) Crosshair**
 
@@ -34,11 +40,15 @@ It’s the second type of Indicator in the workspace Re-Earth app. Crosshairs ar
 
 ![Untitled](Indicator%208803995fbffe4ad0b4fad296a3b47b63/Untitled%205.png)
 
-                                    *Diagram of Crosshair Indicator*
+*Diagram of Crosshair Indicator*
+<br>
+<br>
 
 **(C)Custom**
 
 ![Untitled](Indicator%208803995fbffe4ad0b4fad296a3b47b63/Untitled%206.png)
+<br>
+<br>
 
 ***Custom*** is the third type of Indicator in the Re-earth app workspace.
 In Custom you can customers your own personal Indicator as an IMAGE or any diagram.
@@ -46,16 +56,22 @@ In Custom you can customers your own personal Indicator as an IMAGE or any diagr
 ![Untitled](Indicator%208803995fbffe4ad0b4fad296a3b47b63/Untitled%207.png)
 
 You can also choose your Image scale in the IMAGE SCALE filed
+<br>
+<br>
 
 **Image**
 
 ![Untitled](Indicator%208803995fbffe4ad0b4fad296a3b47b63/Untitled%208.png)
 
 In the Image field, you can set your choice of image.
+<br>
+<br>
 
 **IMAGE FILED Component:**
 
 ![Untitled](Indicator%208803995fbffe4ad0b4fad296a3b47b63/Untitled%209.png)
+<br>
+<br>
 
 **(A) Assets Library:**
 
@@ -68,6 +84,8 @@ Step to select and upload your image to the Re-Earth Map.
 ![Untitled](Indicator%208803995fbffe4ad0b4fad296a3b47b63/Untitled%2011.png)
 
 ![Untitled](Indicator%208803995fbffe4ad0b4fad296a3b47b63/Untitled%2012.png)
+<br>
+<br>
 
 **(B) Use URL**
 
@@ -76,6 +94,8 @@ Step to select and upload your image to the Re-Earth Map.
 You can Upload your Image using a URL.
 
 ![Untitled](Indicator%208803995fbffe4ad0b4fad296a3b47b63/Untitled%2014.png)
+<br>
+<br>
 
 **(C)IMAGE SCALE**
 
