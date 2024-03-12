@@ -2,17 +2,17 @@
 
 ## Create layers
 
-![Untitled](Create,%20Delete%20And%20Update%20Layers%203e2287f72ac24706a003ba8a7e0497e2/Untitled.png)
+![Untitled (7)](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/f8b49e4c-8d01-4f90-b626-86c4a1242e5d)
 
 To create a layer, click to move the box icon.
-
-### Before creating a Layer
-
-![Untitled](Create,%20Delete%20And%20Update%20Layers%203e2287f72ac24706a003ba8a7e0497e2/Untitled%201.png)
 
 ![Untitled](Create,%20Delete%20And%20Update%20Layers%203e2287f72ac24706a003ba8a7e0497e2/Untitled%202.png)
 
 Then the Layer folder will be created
+
+### Before creating a Layer
+
+![Untitled](Create,%20Delete%20And%20Update%20Layers%203e2287f72ac24706a003ba8a7e0497e2/Untitled%201.png)
 
 ### After Creating a Layer
 
