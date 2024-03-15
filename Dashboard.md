@@ -4,7 +4,7 @@ After successfully logging into the application, you will be taken to the home s
 
 ![s 1.png](Dashboard%20e1d3557aed1749e491c3bb8b8ddc1d48/s_1.png)
 
-- **Workspace Section :**  displays the current Workspace you are in, including members' avatars. The ⚙️ button in the lower right corner can direct you to the current Workspace's settings page.
+- **Workspace Section** :  displays the current Workspace you are in, including members' avatars. The ⚙️ button in the lower right corner can direct you to the current Workspace's settings page.
 - **Project Section** : displays all projects under the current Workspace, except for archived projects.
 - **Quick Start** : is a collection of quick operation buttons. We will add more buttons in the future.
 - **Plugins** : allows you to configure plugin settings.
