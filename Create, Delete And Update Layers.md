@@ -28,7 +28,7 @@ Then the Layer folder will be created
 
 ### Creating Layer illustration
 
-![Untitled](Create,%20Delete%20And%20Update%20Layers%203e2287f72ac24706a003ba8a7e0497e2/Untitled.gif)
+![Untitled](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/48756d3a-1025-466d-b963-d336ef4b85d4)
 <br>
 <br>
 <br>
