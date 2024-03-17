@@ -65,7 +65,7 @@ By adjusting the settings of other layers, you can achieve different effects and
 
 **Steps to Delete Layers**
 
-![Untitled](Create,%20Delete%20And%20Update%20Layers%203e2287f72ac24706a003ba8a7e0497e2/Untitled%204.png)
+![Untitled 4](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/dc55e157-fe6b-4018-8a5d-1c8fd816a14f)
 
 To **Delete** a Layer, Click on the Layer folder, then click on **Delete,** and the Layer will be Deleted. 
 
@@ -81,10 +81,10 @@ Layers update can be done by double-clicking the Folder. u can double-click to c
 
 ### Updating Layers illustration
 
-![Untitled](Create,%20Delete%20And%20Update%20Layers%203e2287f72ac24706a003ba8a7e0497e2/Untitled%202.gif)
+![Untitled 2](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/b19e975f-d93c-4328-9fc2-72716f800035)
 
-**Before updating Layer Folder                                     After updating Layer  Folder**
+**Before updating Layer Folder**                                     
+![Untitled 3](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/3ba293a7-d52a-4446-af70-135e237fa9c3)
 
-![Untitled](Create,%20Delete%20And%20Update%20Layers%203e2287f72ac24706a003ba8a7e0497e2/Untitled%205.png)
-
-![Untitled](Create,%20Delete%20And%20Update%20Layers%203e2287f72ac24706a003ba8a7e0497e2/Untitled%206.png)
+**After updating Layer  Folder**
+![Untitled 1](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/5649d51b-e2ba-4249-80a8-0eaa94a42a0c)
