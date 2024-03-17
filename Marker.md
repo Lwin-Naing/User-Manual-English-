@@ -8,7 +8,7 @@ This function is used when you want to pinpoint a position on the globe.
 
 The Marker is the leftmost icon of the six functions on the toolbar.
 
-![2023-03-07_12h15_52 1.png](Marker%20db5af60c61944d5a886ac07f48229c05/2023-03-07_12h15_52_1.png)
+![2023-03-07_12h15_52_1](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/925f38d1-2a22-4810-af0a-80ef4cea1030)
 
 ## How to use Markers
 
@@ -16,27 +16,27 @@ The Marker is the leftmost icon of the six functions on the toolbar.
 
 Drag the marker icon to the desired position and drop it to drop the marker on the earth.
 
-![54 2.png](Marker%20db5af60c61944d5a886ac07f48229c05/54_2.png)
+![54_2](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/b2de6b87-10c2-4f77-b798-220d83dd7cad)
 
 When the marker is dropped on the earth, the text of the marker written in blue is displayed in the "layer" on the left side of the screen. This is the icon of the marker that you drop on the globe. Also, as you drop the point of the marker, the number of markers will increase in the layer.
 
-![987 1.png](Marker%20db5af60c61944d5a886ac07f48229c05/987_1.png)
+![987_1](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/1fcce5f2-5321-4a5f-957e-631021bcbbe9)
 
 ### Creating Marker illustration
 
-![Untitled](Marker%20db5af60c61944d5a886ac07f48229c05/Untitled.gif)
+![Untitled](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/c2c0093b-db62-4027-a559-8513467690f0)
 
 ### Renaming Markers
 
 You can change the name by double-clicking on the marker character in the layer.
 
-![754 1.png](Marker%20db5af60c61944d5a886ac07f48229c05/754_1.png)
+![754_1](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/e0423538-0a8a-4a43-ae3b-9e8739bfec59)
 
 ### Hide Marker Icons
 
 If you click the eye mark on the right side of the marker on the left side of the screen, the icon on the globe will disappear.
 
-![2023-03-07_12h59_29 1.png](Marker%20db5af60c61944d5a886ac07f48229c05/2023-03-07_12h59_29_1.png)
+![2023-03-07_12h59_29_1](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/0cd0d995-0c52-4fa6-89a5-889d63406a0c)
 
 ## Reposition marker
 
@@ -46,7 +46,7 @@ Move the mouse to the marker icon on the earth, hold down the left click until i
 
 Click the marker you want to delete in "Layer" on the left side of the screen, select it in blue, and press the "Trash " can mark to delete it.
 
-![987 1 (1).png](Marker%20db5af60c61944d5a886ac07f48229c05/987_1_(1).png)
+![987_1_(1)](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/6b980642-5f3e-478e-b70d-7784367b323e)
 
 ## Marker Properties
 
@@ -86,7 +86,7 @@ The following items can be set in the marker properties.
 
 (17) Extend line from ground: Sets whether to draw a line between the marker and the ground surface when setting the altitude to the marker.
 
-![54 3.png](Marker%20db5af60c61944d5a886ac07f48229c05/54_3.png)
+![54_3](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/1437fda0-2ad7-445a-aca9-c5695f2a5cb5)
 
 (18) Point color: Displayed when a point is selected. Sets the color of the points.
 
@@ -96,7 +96,7 @@ The following items can be set in the marker properties.
 
 (21) Width of point line: Displayed when a point is selected. You can set the width of the edge around the point.
 
-![2023-03-08_14h15_03 1.png](Marker%20db5af60c61944d5a886ac07f48229c05/2023-03-08_14h15_03_1.png)
+![2023-03-08_14h15_03_1](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/39097749-b29b-4a9e-9e3c-b96abcbfdd29)
 
 (22) Label text: Enter the name for icons, dots, and images.
 
@@ -106,6 +106,6 @@ The following items can be set in the marker properties.
 
 (25) Label background: You can add a background to the label text.
 
-![2023-03-08_14h27_47 1.png](Marker%20db5af60c61944d5a886ac07f48229c05/2023-03-08_14h27_47_1.png)
+![2023-03-08_14h27_47_1](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/ba063164-692a-4c8a-bd9e-365ecd59280c)
 
 ##
