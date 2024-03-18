@@ -1,6 +1,8 @@
 # 3D Model
 
 This tool is for placing your 3D model data on the Re-Earth App.
+<br>
+<br>
 
 ### Supported Data Formats
 
@@ -15,14 +17,18 @@ The glTF Separated (`.gltf` + `.bin` + image file, etc.) format, split into mult
 However, if you directly specify a file URL distributed on a server with appropriate CORS settings, you may be able to display the file.
 
 Other formats (e.g. `.obj` `.fbx`) are not supported. Please convert the file to glTF format by yourself beforehand.
+<br>
+<br>
 
 ### How to place your 3D model in the Re-Earth App
 
 1. Drag and drop a marker on the 3D model to the desired position. At this point, no markers or icons will be displayed.
 
 ![Untitled](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/5a53df56-9017-4df4-a7d3-510c442b5a0b)
+<br>
+<br>
 
-1. When the "3D Model" item is newly added to the layer list on the left and a blue band is attached, the 3D model layer setting screen opens on the right.
+2. When the "3D Model" item is newly added to the layer list on the left and a blue band is attached, the 3D model layer setting screen opens on the right.
 
 ![Untitled 1](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/fd865083-bfcc-4a03-8a0d-5ab88f2f0ab4)
 
@@ -49,6 +55,8 @@ I. **Max Scale**: The Max Scale is the Maximum scale displayed on the screen. Th
 J. **Minimum display size**: Minimum size to be displayed on the screen. The unit is a pixel. It will not display any smaller size regard than the pixel.
 
 K. **Animation**: Turn on/off the animation included in the 3D model data. Note that if you want to enable animation, you must also enable animation in the scene settings.
+<br>
+<br>
 
 ![Untitled 2](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/e1fc7763-16a6-45f6-af80-75eb6d974fa6)
 
@@ -69,30 +77,42 @@ Q. **Silhouette**: display the outline of the 3D model.
 R. **Silhouette Color**: specify the outline color of the 3D model, HTML color code is valid.
 
 S. **Silhouette size**: set the width of the outline of the 3D model. Unit is the pixel.
+<br>
+<br>
 
 ### Renaming a 3D model
 
 To rename a 3D Model, Double-click on the word "3D Model" in the layer to rename it.
 
 ![Untitled 3](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/8f228cec-2e59-4e67-934a-882384788423)
+<br>
+<br>
 
 ### Renaming a 3D Model Illustration
 
 ![Untitled-min](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/5eeb64ab-90ee-4ee5-b2ec-f8463f0e98fc)
+<br>
+<br>
 
 **Before Renaming a 3D Model**
 
 ![Untitled 4](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/d7490025-84df-4fbc-bcb2-c33cc1160c58)
+<br>
+<br>
 
 **After Renaming a 3D Model**
 
 ![Untitled 5](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/a5d8d21d-eff3-415d-9580-fb1955c34a4a)
+<br>
+<br>
 
 ### Deleting a 3D model
 
 To Delete a **3D Model**, Click on the 3D model(3D name) you wish to delete in the layer on the left panel, make sure it is selected in blue, then click the "trash can" symbol to delete it.
 
 ![Untitled 6](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/55fdd8c8-4e65-4d25-a095-5249f59e25fc)
+<br>
+<br>
 
 ### Deleting a 3D Model Illustration
 
