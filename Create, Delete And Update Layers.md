@@ -62,7 +62,7 @@ You can change the style, size, color, and other attributes of this marker layer
 
 You can also add labels to the marker layer and adjust the font type for customization.
 
-For marker layers, there are various customizable items available. You can find more information **[here](Marker%20db5af60c61944d5a886ac07f48229c05.md)**. Each layer type has different parameters and functionalities, allowing for detailed settings in the layer properties.
+For marker layers, there are various customizable items available. You can find more information **[here](https://github.com/CS-eukarya/User-Manual-English-/blob/Re-Earth-layers/Marker.md)**. Each layer type has different parameters and functionalities, allowing for detailed settings in the layer properties.
 
 By adjusting the settings of other layers, you can achieve different effects and outcomes.
 <br>
