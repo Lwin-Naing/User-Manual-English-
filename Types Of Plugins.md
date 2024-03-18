@@ -5,6 +5,8 @@
 **"Widget Plugins" and "Info Box Plugins.”**
 
 Both types of plugins serve different purposes and can be customized and integrated into Re-Earth's platform to enhance the overall functionality and user experience.
+<br>
+<br>
 
 ### Widget Plugins
 
@@ -13,6 +15,8 @@ Widget Plugins are a type of plugin where the plugin's content is displayed on t
 Widgets can be placed freely at the edge or corner of the screen. They allow you to toggle the display of various data or perform actions on any active layer within Re-Earth. With Widget Plugins, you have the flexibility to customize and control the visibility and interaction of specific content on the screen.
 
 ![Untitled](Types%20Of%20Plugins%2023f2fb6872174128b561e76f53d0b459/Untitled.png)
+<br>
+<br>
 
 ### Infobox Plugin
 
@@ -21,14 +25,19 @@ Infobox Plugins are plugins that appear in the InfoBox when a layer is selected.
 These plugins allow you to display various data based on the selected layer's content. They provide additional information, context, or details related to the selected layer, enhancing the user's understanding and interaction with the displayed data. InfoBox Plugins offer a convenient way to present relevant information associated with a specific layer in Re-Earth.
 
 ![Untitled](Types%20Of%20Plugins%2023f2fb6872174128b561e76f53d0b459/Untitled%201.png)
+<br>
+<br>
+<br>
 
-## **Plugin Structure**
+## Plugin Structure
 
 When creating plugins for Re-Earth, it is important to understand the underlying execution environments: "**WebAssembly**" for the map display and "IFrame" as the execution environment for plugins such as widgets and InfoBoxes.
 
 ![Untitled](Types%20Of%20Plugins%2023f2fb6872174128b561e76f53d0b459/Untitled%202.png)
+<br>
+<br>
 
-### **WebAssembly**
+### WebAssembly
 
 WebAssembly allows you to synchronize your code for faster execution and access to Re-Earth data. However, you cannot use the APIs supported by web browsers or create UI using HTML.
 
