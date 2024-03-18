@@ -5,6 +5,8 @@
 It is used when you want to specify a wide range at a certain point on the globe.
 
 It's the third icon from the left in the toolbar.
+<br>
+<br>
 
 ## How to use sphere
 
@@ -19,6 +21,9 @@ It's the third icon from the left in the toolbar.
 5: Detailed settings such as the position of this sphere, color, size of the sphere, etc. can be set in the property "sphere" on the right side of the screen.
 
 ![dfryt_1](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/7a67e04e-f1a4-46b6-8b50-d552b245d902)
+<br>
+<br>
+<br>
 
 ## Sphere tool properties
 
