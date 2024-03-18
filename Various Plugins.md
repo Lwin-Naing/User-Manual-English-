@@ -2,7 +2,8 @@
 
 With Re-Earth plugins, you can develop your desired functionalities by combining the "iframe," which displays widgets and info box blocks, with the Re-Earth operating environment called "WebAssembly.”
 <br>
-<br>]
+<br>
+
 ## Sample
 
 ### Measure the distance from the starting point to the endpoint.
