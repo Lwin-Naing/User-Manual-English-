@@ -1,14 +1,18 @@
 # Move, Resize And Align
 
-# How to operate
+## How to operate
 
 If "**Edit widget sequence"** is activated, you can edit the placement of widgets in the extended layout.
+<br>
+<br>
 
-## Move
+### Move
 
 In the colored areas, you can drag and drop widgets to change their location.
 
 ![Screen Shot 2021-10-06 at 10.51.51.png](Move,%20Resize%20And%20Align%20e8de2bdf689a428fb973aad2e5fca9fb/Screen_Shot_2021-10-06_at_10.51.51.png)
+<br>
+<br>
 
 ### Container
 
@@ -21,6 +25,9 @@ In the colored areas, you can drag and drop widgets to change their location.
 **C. Align Center:** when activated, the widget is centered within the area.
 
 **D. Background color:** specifies the background color of the widget. users can change the color of the **Container** the way they like
+<br>
+<br>
+<br>
 
 ## Resize
 
@@ -37,6 +44,9 @@ The `Storytelling' installed by default is a good example of this. Move the` Sto
 - After Changing
 
 ![Untitled](Move,%20Resize%20And%20Align%20e8de2bdf689a428fb973aad2e5fca9fb/Untitled%203.png)
+<br>
+<br>
+<br>
 
 ## Placement
 
