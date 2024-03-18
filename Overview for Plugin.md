@@ -5,6 +5,8 @@ The plugin system is one of Re: Earth's greatest features. You can extend the fu
 For example, displaying a new item in the info box that appears when a marker is selected, or placing an original function widget on the screen, executing processing that cannot be achieved with existing Re: Earth functions. becomes possible.
 
 In the future, we plan to make it possible to use plug-ins to perform calculations for streamlining scene editing and data processing.
+<br>
+<br>
 
 The Plugin Library page manages plugins for your project.
 
