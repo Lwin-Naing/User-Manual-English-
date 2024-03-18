@@ -57,7 +57,8 @@ You can change the style, size, color, and other attributes of this marker layer
 
 ### Adding Labels
 
-![Adding Label.gif](Create,%20Delete%20And%20Update%20Layers%203e2287f72ac24706a003ba8a7e0497e2/Adding_Label.gif)
+![Adding Labels](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/757c5a9e-93e5-41e3-aea7-6fd237a05f1e)
+
 
 You can also add labels to the marker layer and adjust the font type for customization.
 
@@ -96,9 +97,13 @@ Layers update can be done by double-clicking the Folder. u can double-click to c
 ### Updating Layers illustration
 
 ![Untitled 2](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/b19e975f-d93c-4328-9fc2-72716f800035)
+<br>
+<br>
 
 **Before updating Layer Folder**                                     
 ![Untitled 3](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/3ba293a7-d52a-4446-af70-135e237fa9c3)
+<br>
+<br>
 
 **After updating Layer  Folder**
 ![Untitled 1](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/5649d51b-e2ba-4249-80a8-0eaa94a42a0c)
