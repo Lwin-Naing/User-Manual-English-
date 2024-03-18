@@ -41,15 +41,19 @@ When you select a layer, you have the power to change its properties and transfo
 
 ### Changing the position
 
-![Change Position.gif](Create,%20Delete%20And%20Update%20Layers%203e2287f72ac24706a003ba8a7e0497e2/Change_Position.gif)
+![Change Position](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/d2fdc388-b429-43e4-869d-222ab4dc8340)
 
 After clicking on the layer, hover the mouse over the icon on the globe, and hold down the left-click for more than one second until it changes to a hand shape. While in this state, you can drag and drop to move the position.
+<br>
+<br>
 
-### **Changing the Appearance**
+### Changing the Appearance
 
 ![Change Pointer.gif](Create,%20Delete%20And%20Update%20Layers%203e2287f72ac24706a003ba8a7e0497e2/Change_Pointer.gif)
 
 You can change the style, size, color, and other attributes of this marker layer.
+<br>
+<br>
 
 ### Adding Labels
 
@@ -60,6 +64,9 @@ You can also add labels to the marker layer and adjust the font type for customi
 For marker layers, there are various customizable items available. You can find more information **[here](Marker%20db5af60c61944d5a886ac07f48229c05.md)**. Each layer type has different parameters and functionalities, allowing for detailed settings in the layer properties.
 
 By adjusting the settings of other layers, you can achieve different effects and outcomes.
+<br>
+<br>
+<br>
 
 ## Delete layers
 
@@ -68,16 +75,23 @@ By adjusting the settings of other layers, you can achieve different effects and
 ![Untitled 4](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/dc55e157-fe6b-4018-8a5d-1c8fd816a14f)
 
 To **Delete** a Layer, Click on the Layer folder, then click on **Delete,** and the Layer will be Deleted. 
+<br>
+<br>
 
 ### Deleting Layer illustration
 
 ![Untitled](Create,%20Delete%20And%20Update%20Layers%203e2287f72ac24706a003ba8a7e0497e2/Untitled%201.gif)
+<br>
+<br>
+<br>
 
 ## Update layers
 
 This is a process by which you can update some information in the Layer.
 
 Layers update can be done by double-clicking the Folder. u can double-click to change the layer folder name, you can drag to move the marker inside the layer folder. you can change the Folder position.
+<br>
+<br>
 
 ### Updating Layers illustration
 
