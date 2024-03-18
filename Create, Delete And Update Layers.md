@@ -80,7 +80,7 @@ To **Delete** a Layer, Click on the Layer folder, then click on **Delete,** and 
 
 ### Deleting Layer illustration
 
-![Untitled](Create,%20Delete%20And%20Update%20Layers%203e2287f72ac24706a003ba8a7e0497e2/Untitled%201.gif)
+![Daleting Layers](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/fb0f94d1-d8ed-4c94-9698-52724337f608)
 <br>
 <br>
 <br>
