@@ -49,7 +49,7 @@ After clicking on the layer, hover the mouse over the icon on the globe, and hol
 
 ### Changing the Appearance
 
-![Change Pointer.gif](Create,%20Delete%20And%20Update%20Layers%203e2287f72ac24706a003ba8a7e0497e2/Change_Pointer.gif)
+![Change Pointer](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/aabc05be-e2d9-4acd-b018-70e5bdf1e4d4)
 
 You can change the style, size, color, and other attributes of this marker layer.
 <br>
