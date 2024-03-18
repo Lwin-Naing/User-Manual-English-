@@ -4,7 +4,7 @@
 
 3D Tiling is an open specification for sharing, visualizing, fusing, and interacting with massive heterogenous 3D geospatial content across desktop, web, and mobile applications in Re-earth App. This feature allows various objects, such as three-dimensional buildings, to be displayed on the globe over a wide area.
 
-![Untitled](3D%20Tiles%20749704e73f67454fafb239503f133c19/Untitled.png)
+![Untitled](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/fb597000-9a81-4e56-8438-a9c5de4aa5aa)
 
 ## **How to use 3D tiles in Re-Earth App.**
 
@@ -12,55 +12,58 @@
 
 - Drag and drop the 3D tile icon anywhere on the globe. (**Note**: The icon will not be displayed like a marker.)
 
-![Untitled](3D%20Tiles%20749704e73f67454fafb239503f133c19/Untitled%201.png)
+![Untitled 1](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/3f449005-25fd-4e1f-a1ce-ed86b482f91f)
 
 When a 3D tile is dropped on the globe in the Re-Earth App, the word "3D tile" appears in blue in the layer on the left panel. The more 3D tiles you drop on the Re-earth app, the more 3D tiles appear in the layer.
 
-![Untitled](3D%20Tiles%20749704e73f67454fafb239503f133c19/Untitled%202.png)
+![Untitled 2](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/00160d7f-a9da-44ab-a8e8-bd00455c2e51)
 
 ### Illustration of Adding a 3D tile
 
-![Untitled](3D%20Tiles%20749704e73f67454fafb239503f133c19/Untitled.gif)
+![Untitled-min](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/668afc83-bb1d-4fbe-a88d-353b6af18dd4)
 
 ### Renaming a 3D tile
 
 To rename a 3D Tile, Double-click on any of the words (Letter) titled "3D Tile" in the layers to rename it.
 
-![Untitled](3D%20Tiles%20749704e73f67454fafb239503f133c19/Untitled%203.png)
+![Untitled 3](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/ff6b0027-91e0-460a-a6ff-045003c4fb80)
 
 ### Illustration of Renaming 3D Tiles
 
-![Untitled](3D%20Tiles%20749704e73f67454fafb239503f133c19/Untitled%201.gif)
+![Untitled 1](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/f13d307a-5036-4c43-a02b-a6a2f4c1cd8a)
 
 ### Hiding the 3D tiles
 
 Click on the eye symbol on the right side of the 3D tile in the left panel to make the 3D portion of the globe disappear in the Re-earth APP.
 
-**Before Hiding 3D Tiles　　　　　　　　　　　　　　　After Hiding 3D Tiles**
+**Before Hiding 3D Tiles**
 
-![Untitled](3D%20Tiles%20749704e73f67454fafb239503f133c19/Untitled%204.png)
+![Untitled 4](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/076448f5-25c2-498a-8776-9815988e1457)
 
-![Untitled](3D%20Tiles%20749704e73f67454fafb239503f133c19/Untitled%205.png)
+**After Hiding 3D Tiles**
+
+![Untitled 5](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/f01ad8f0-4254-4716-b9ea-2c34d64e87fb)
 
 ### Illustration of Hiding 3D Tiles in Re-Earth App
 
-![Untitled](3D%20Tiles%20749704e73f67454fafb239503f133c19/Untitled%202.gif)
+![Untitled 2-min](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/e4e5f742-8df4-4637-92d7-ea1b9f642efe)
+
 
 ### Deleting a 3D tile
 
 To delete a 3D tile, click on the 3D tile you wish to delete in the layers in the left panel, make sure it is selected in blue, and then press the "trash can" symbol on the right side of the layer to delete it.
 
-![Untitled](3D%20Tiles%20749704e73f67454fafb239503f133c19/Untitled%206.png)
+![Untitled 6](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/ecb8b5d3-2edb-4a44-89f3-55e8dfc4c66a)
 
 ### Illustration of Deleting 3D Tiles in Re-Earth App.
 
-![Untitled](3D%20Tiles%20749704e73f67454fafb239503f133c19/Untitled%203.gif)
+![Untitled 3](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/88264829-393c-4a20-86bd-d138be115a03)
 
 ## 3D Tile Properties
 
 The properties of a 3D tile allow you to set the following items
 
-![Untitled](3D%20Tiles%20749704e73f67454fafb239503f133c19/Untitled%207.png)
+![Untitled 7](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/89633bec-f79d-4529-96a8-8e5944b6f74d)
 
 **A. Type:** Select from URL or OSMBuildings.
 
@@ -73,7 +76,7 @@ OSM Buildings is an open-source project that uses OpenStreetMap (OSM) data to ge
 3. You can enter a URL. 
 4. click the select button in the lower right corner.
 
-![Untitled](3D%20Tiles%20749704e73f67454fafb239503f133c19/Untitled%208.png)
+![Untitled 8](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/417c8758-b9bd-4d4b-b51c-1084fbc57565)
 
 **C.** **Style URL:** Specify the URL of a JSON file in 3D tiles styles format when you want to change the style of 3D tiles, separate them by color, attribute, etc.
 
@@ -82,7 +85,7 @@ OSM Buildings is an open-source project that uses OpenStreetMap (OSM) data to ge
 3. Select the uploaded jsond file in the asset. 
 4. Click the Select button in the lower right corner.
 
-![Untitled](3D%20Tiles%20749704e73f67454fafb239503f133c19/Untitled%209.png)
+![Untitled 9](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/789824a5-b8cb-4467-92ba-b3e2bcbbdec6)
 
 **D. Shadow:** Enable/disable shadow expression for 3D objects and other objects. Note that if you want to enable shadows, you must also enable shadows in the scene settings.
 
