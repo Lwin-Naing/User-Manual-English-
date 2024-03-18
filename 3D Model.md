@@ -20,11 +20,11 @@ Other formats (e.g. `.obj` `.fbx`) are not supported. Please convert the file to
 
 1. Drag and drop a marker on the 3D model to the desired position. At this point, no markers or icons will be displayed.
 
-![Untitled](3D%20Model%20da62e64ec7ee4774a377c4cb7fbf7d23/Untitled.png)
+![Untitled](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/5a53df56-9017-4df4-a7d3-510c442b5a0b)
 
 1. When the "3D Model" item is newly added to the layer list on the left and a blue band is attached, the 3D model layer setting screen opens on the right.
 
-![Untitled](3D%20Model%20da62e64ec7ee4774a377c4cb7fbf7d23/Untitled%201.png)
+![Untitled 1](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/fd865083-bfcc-4a03-8a0d-5ab88f2f0ab4)
 
 A. **URL**: This is where you can enter the URL of the uploaded **3D model** data to display it.
 
@@ -50,7 +50,7 @@ J. **Minimum display size**: Minimum size to be displayed on the screen. The uni
 
 K. **Animation**: Turn on/off the animation included in the 3D model data. Note that if you want to enable animation, you must also enable animation in the scene settings.
 
-![Untitled](3D%20Model%20da62e64ec7ee4774a377c4cb7fbf7d23/Untitled%202.png)
+![Untitled 2](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/e1fc7763-16a6-45f6-af80-75eb6d974fa6)
 
 L. **3D Model Shadows**: Turn on/off shadows on the 3D model. Note that if you want to use the 3D Model Shadows, you must also enable them in the scene settings.
 
@@ -74,26 +74,26 @@ S. **Silhouette size**: set the width of the outline of the 3D model. Unit is th
 
 To rename a 3D Model, Double-click on the word "3D Model" in the layer to rename it.
 
-![Untitled](3D%20Model%20da62e64ec7ee4774a377c4cb7fbf7d23/Untitled%203.png)
+![Untitled 3](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/8f228cec-2e59-4e67-934a-882384788423)
 
 ### Renaming a 3D Model Illustration
 
-![Untitled](3D%20Model%20da62e64ec7ee4774a377c4cb7fbf7d23/Untitled.gif)
+![Untitled-min](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/5eeb64ab-90ee-4ee5-b2ec-f8463f0e98fc)
 
 **Before Renaming a 3D Model**
 
-![Untitled](3D%20Model%20da62e64ec7ee4774a377c4cb7fbf7d23/Untitled%204.png)
+![Untitled 4](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/d7490025-84df-4fbc-bcb2-c33cc1160c58)
 
 **After Renaming a 3D Model**
 
-![Untitled](3D%20Model%20da62e64ec7ee4774a377c4cb7fbf7d23/Untitled%205.png)
+![Untitled 5](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/a5d8d21d-eff3-415d-9580-fb1955c34a4a)
 
 ### Deleting a 3D model
 
 To Delete a **3D Model**, Click on the 3D model(3D name) you wish to delete in the layer on the left panel, make sure it is selected in blue, then click the "trash can" symbol to delete it.
 
-![Untitled](3D%20Model%20da62e64ec7ee4774a377c4cb7fbf7d23/Untitled%206.png)
+![Untitled 6](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/55fdd8c8-4e65-4d25-a095-5249f59e25fc)
 
 ### Deleting a 3D Model Illustration
 
-![Untitled](3D%20Model%20da62e64ec7ee4774a377c4cb7fbf7d23/Untitled%201.gif)
+![Untitled 1](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/db502f89-0db5-424c-8614-1a2758596e19)
