@@ -18,7 +18,7 @@ It's the third icon from the left in the toolbar.
 
 5: Detailed settings such as the position of this sphere, color, size of the sphere, etc. can be set in the property "sphere" on the right side of the screen.
 
-![dfryt 1.png](Sphere%2036e0d7150abf41708dfae2e38de2c2ed/dfryt_1.png)
+![dfryt_1](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/7a67e04e-f1a4-46b6-8b50-d552b245d902)
 
 ## Sphere tool properties
 
@@ -32,4 +32,4 @@ The following items can be set with the sphere tool :
 - Shadow: Enables shadows. Also, shadows in the scene should be enabled.
 Rendering may become overloaded.
 
-![dfryt 1 (1).png](Sphere%2036e0d7150abf41708dfae2e38de2c2ed/dfryt_1_(1).png)
+![dfryt_1_(1)](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/088692a3-2c40-4fce-9139-1b673a03434c)
