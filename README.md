@@ -66,43 +66,43 @@
             
     - Layers
         
-        [Overview](https://github.com/CS-eukarya/User-Manual-English-/blob/8f4c780b9e4c8c6a5eef4fa998fa4838ed4a6adf/Overview%20for%20Layer.md)
+        [Overview](https://github.com/CS-eukarya/User-Manual-English-/blob/Layers/Overview%20for%20Layer.md)
         
-        [Create, Delete And Update Layers ](https://github.com/CS-eukarya/User-Manual-English-/blob/8f4c780b9e4c8c6a5eef4fa998fa4838ed4a6adf/Create%2C%20Delete%20And%20Update%20Layers.md)
+        [Create, Delete And Update Layers ](https://github.com/CS-eukarya/User-Manual-English-/blob/Layers/Create%2C%20Delete%20And%20Update%20Layers.md)
         
         - Re: Earth layers
             
-            [Marker](https://github.com/CS-eukarya/User-Manual-English-/blob/fd8b66d91369ac5f97d02439c38f67ac4fdcab76/Marker.md)
+            [Marker](https://github.com/CS-eukarya/User-Manual-English-/blob/Re-Earth-layers/Marker.md)
             
-            [Photo Overlay](https://github.com/CS-eukarya/User-Manual-English-/blob/fd8b66d91369ac5f97d02439c38f67ac4fdcab76/Photo%20Overlay.md)
+            [Photo Overlay](https://github.com/CS-eukarya/User-Manual-English-/blob/Re-Earth-layers/Photo%20Overlay.md)
             
-            [Sphere](https://github.com/CS-eukarya/User-Manual-English-/blob/fd8b66d91369ac5f97d02439c38f67ac4fdcab76/Sphere.md)
+            [Sphere](https://github.com/CS-eukarya/User-Manual-English-/blob/Re-Earth-layers/Sphere.md)
             
-            [3D Model](https://github.com/CS-eukarya/User-Manual-English-/blob/fd8b66d91369ac5f97d02439c38f67ac4fdcab76/3D%20Model.md)
+            [3D Model](https://github.com/CS-eukarya/User-Manual-English-/blob/Re-Earth-layers/3D%20Model.md)
             
-            [3D Tiles](https://github.com/CS-eukarya/User-Manual-English-/blob/fd8b66d91369ac5f97d02439c38f67ac4fdcab76/3D%20Tiles.md)
+            [3D Tiles](https://github.com/CS-eukarya/User-Manual-English-/blob/Re-Earth-layers/3D%20Tiles.md)
             
-            [File](https://github.com/CS-eukarya/User-Manual-English-/blob/fd8b66d91369ac5f97d02439c38f67ac4fdcab76/File.md)
+            [File](https://github.com/CS-eukarya/User-Manual-English-/blob/Re-Earth-layers/File.md)
             
 - Infobox
     
-    [Overview ](https://github.com/CS-eukarya/User-Manual-English-/blob/d67b077c0cc0b60a31390c1c0ce7b71574d3f759/Overview%20for%20Info%20Box.md)
+    [Overview ](https://github.com/CS-eukarya/User-Manual-English-/blob/Infobox/Overview%20for%20Infobox.md)
     
-    [Create A New Infobox](https://github.com/CS-eukarya/User-Manual-English-/blob/d67b077c0cc0b60a31390c1c0ce7b71574d3f759/Create%20A%20New%20Infobox.md)
+    [Create A New Infobox](https://github.com/CS-eukarya/User-Manual-English-/blob/Infobox/Create%20A%20New%20Infobox.md)
     
-    [Infobox Properties ](https://github.com/CS-eukarya/User-Manual-English-/blob/d67b077c0cc0b60a31390c1c0ce7b71574d3f759/Infobox%20Properties.md)
+    [Infobox Properties ](https://github.com/CS-eukarya/User-Manual-English-/blob/Infobox/Infobox%20Properties.md)
     
     - Blocks
         
-        [Text Block ](https://github.com/CS-eukarya/User-Manual-English-/blob/5cd3059b06e1c90d3966a0af4af0990ec00c3326/Text%20Block.md)
+        [Text Block ](https://github.com/CS-eukarya/User-Manual-English-/blob/Blocks/Text%20Block.md)
         
-        [Image Block ](https://github.com/CS-eukarya/User-Manual-English-/blob/5cd3059b06e1c90d3966a0af4af0990ec00c3326/Image%20Block.md)
+        [Image Block ](https://github.com/CS-eukarya/User-Manual-English-/blob/Blocks/Image%20Block.md)
         
-        [Video Block ](https://github.com/CS-eukarya/User-Manual-English-/blob/5cd3059b06e1c90d3966a0af4af0990ec00c3326/Video%20Block.md)
+        [Video Block ](https://github.com/CS-eukarya/User-Manual-English-/blob/Blocks/Video%20Block.md)
         
-        [Location Block ](https://github.com/CS-eukarya/User-Manual-English-/blob/5cd3059b06e1c90d3966a0af4af0990ec00c3326/Location%20Block.md)
+        [Location Block ](https://github.com/CS-eukarya/User-Manual-English-/blob/Blocks/Location%20Block.md)
         
-        [Table Block ](https://github.com/CS-eukarya/User-Manual-English-/blob/5cd3059b06e1c90d3966a0af4af0990ec00c3326/Table%20Block.md)
+        [Table Block ](https://github.com/CS-eukarya/User-Manual-English-/blob/Blocks/Table%20Block.md)
         
 - Widget
     
