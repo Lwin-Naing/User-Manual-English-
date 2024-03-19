@@ -3,23 +3,23 @@
 
 - Getting Started
     
-    [Environment Setting](https://github.com/CS-eukarya/User-Manual-English-/blob/653862029d0c30e3ddbe3853020a453e9d1d229e/Environment%20Setting.md)
+    [Environment Setting](https://github.com/CS-eukarya/User-Manual-English-/blob/Getting-Started/Environment%20Setting.md)
     
-    [Making Your First Project](https://github.com/CS-eukarya/User-Manual-English-/blob/653862029d0c30e3ddbe3853020a453e9d1d229e/Making%20Your%20First%20Project.md)
+    [Making Your First Project](https://github.com/CS-eukarya/User-Manual-English-/blob/Getting-Started/Making%20Your%20First%20Project.md)
     
     - Understanding Re-Earth UI
         
-        [Overview](https://github.com/CS-eukarya/User-Manual-English-/blob/038f72c2f76a8822827d8e3618433be7885fce55/Overview%20for%20Understanding%20Re-Earth%20UI.md)
+        [Overview](https://github.com/CS-eukarya/User-Manual-English-/blob/Understanding-Re-Earth-UI/Overview%20for%20Understanding%20Re-Earth%20UI.md)
         
-        [Dashboard](https://github.com/CS-eukarya/User-Manual-English-/blob/038f72c2f76a8822827d8e3618433be7885fce55/Dashboard.md)
+        [Dashboard](https://github.com/CS-eukarya/User-Manual-English-/blob/Understanding-Re-Earth-UI/Dashboard.md)
         
-        [Editor](https://github.com/CS-eukarya/User-Manual-English-/blob/64ef28ed49478be026668a87c6918b3954b218d4/Editor.md)
+        [Editor](https://github.com/CS-eukarya/User-Manual-English-/blob/Understanding-Re-Earth-UI/Editor.md)
         
-        [Setting Page](https://github.com/CS-eukarya/User-Manual-English-/blob/64ef28ed49478be026668a87c6918b3954b218d4/Setting%20Page.md)
+        [Setting Page](https://github.com/CS-eukarya/User-Manual-English-/blob/Understanding-Re-Earth-UI/Setting%20Page.md)
         
-        [Preview Page](https://github.com/CS-eukarya/User-Manual-English-/blob/64ef28ed49478be026668a87c6918b3954b218d4/Preview%20Page.md)
+        [Preview Page](https://github.com/CS-eukarya/User-Manual-English-/blob/Understanding-Re-Earth-UI/Preview%20Page.md)
         
-        [Publish Page](https://github.com/CS-eukarya/User-Manual-English-/blob/64ef28ed49478be026668a87c6918b3954b218d4/Publish%20Page.md)
+        [Publish Page](https://github.com/CS-eukarya/User-Manual-English-/blob/Understanding-Re-Earth-UI/Publish%20Page.md)
         
 - Project & Workspace
     - Project
