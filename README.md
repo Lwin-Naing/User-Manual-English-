@@ -106,35 +106,35 @@
         
 - Widget
     
-    [Idea Of Widget](https://github.com/CS-eukarya/User-Manual-English-/blob/e0a8a0057e6a9164039d26b90cba9f2420491010/Idea%20Of%20Widget.md)
+    [Idea Of Widget](https://github.com/CS-eukarya/User-Manual-English-/blob/Widget/Idea%20Of%20Widget.md)
     
     - Official Widgets
         
-        [Button](https://github.com/CS-eukarya/User-Manual-English-/blob/407ee7d45025329d6edf4614f13986322ecb24c4/Button.md)
+        [Button](https://github.com/CS-eukarya/User-Manual-English-/blob/Official-Widgets/Button.md)
         
-        [Splash Screen](https://github.com/CS-eukarya/User-Manual-English-/blob/407ee7d45025329d6edf4614f13986322ecb24c4/Splash%20Screen.md)
+        [Splash Screen](https://github.com/CS-eukarya/User-Manual-English-/blob/Official-Widgets/Splash%20Screen.md)
         
-        [Storytelling](https://github.com/CS-eukarya/User-Manual-English-/blob/407ee7d45025329d6edf4614f13986322ecb24c4/Storytelling.md)
+        [Storytelling](https://github.com/CS-eukarya/User-Manual-English-/blob/Official-Widgets/Storytelling.md)
         
-        [Timeline](https://github.com/CS-eukarya/User-Manual-English-/blob/407ee7d45025329d6edf4614f13986322ecb24c4/Timeline%20for%20Widget.md)
+        [Timeline](https://github.com/CS-eukarya/User-Manual-English-/blob/Official-Widgets/Timeline%20for%20Widget.md)
         
-        [Navigator](https://github.com/CS-eukarya/User-Manual-English-/blob/407ee7d45025329d6edf4614f13986322ecb24c4/Navigator.md)
+        [Navigator](https://github.com/CS-eukarya/User-Manual-English-/blob/Official-Widgets/Navigator.md)
         
     - How To Use Align System
         
-        [Editor Mode](https://github.com/CS-eukarya/User-Manual-English-/blob/b5f25d4d507e6305d61ea2c745c227d59aa4adf9/Editor%20Mode.md)
+        [Editor Mode](https://github.com/CS-eukarya/User-Manual-English-/blob/How-To-Use-Align-System/Editor%20Mode.md)
         
-        [Move, Resize And Align](https://github.com/CS-eukarya/User-Manual-English-/blob/b5f25d4d507e6305d61ea2c745c227d59aa4adf9/Move%2C%20Resize%20And%20Align.md)
+        [Move, Resize And Align](https://github.com/CS-eukarya/User-Manual-English-/blob/How-To-Use-Align-System/Move%2C%20Resize%20And%20Align.md)
         
 - Plugin
     
-    [Overview](https://github.com/CS-eukarya/User-Manual-English-/blob/d8cdb329579b130ae64cef42876e63d5f58a9233/Overview%20for%20Plugin.md)
+    [Overview](https://github.com/CS-eukarya/User-Manual-English-/blob/Plugin/Overview%20for%20Plugin.md)
     
-    [Plugin Marketplace ](https://github.com/CS-eukarya/User-Manual-English-/blob/d8cdb329579b130ae64cef42876e63d5f58a9233/Plugin%20Marketplace.md)
+    [Plugin Marketplace ](https://github.com/CS-eukarya/User-Manual-English-/blob/Plugin/Plugin%20Marketplace.md)
     
-    [Install And Remove Plugins](https://github.com/CS-eukarya/User-Manual-English-/blob/d8cdb329579b130ae64cef42876e63d5f58a9233/Install%20And%20Remove%20Plugins.md)
+    [Install And Remove Plugins](https://github.com/CS-eukarya/User-Manual-English-/blob/Plugin/Install%20And%20Remove%20Plugins.md)
     
-    [Types Of Plugins](https://github.com/CS-eukarya/User-Manual-English-/blob/d8cdb329579b130ae64cef42876e63d5f58a9233/Types%20Of%20Plugins.md)
+    [Types Of Plugins](https://github.com/CS-eukarya/User-Manual-English-/blob/Plugin/Types%20Of%20Plugins.md)
     
     - What can users do with the plugin
         
