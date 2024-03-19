@@ -138,21 +138,21 @@
     
     - What can users do with the plugin
         
-        [Various Plugins](https://github.com/CS-eukarya/User-Manual-English-/blob/dc400a9d8bf336b3d5df37befdfd17c6b946e5e9/Various%20Plugins.md)
+        [Various Plugins](https://github.com/CS-eukarya/User-Manual-English-/blob/What-can-users-do-with-the-plugin/Various%20Plugins.md)
         
-        [Data that can be handled by developing plugins](https://github.com/CS-eukarya/User-Manual-English-/blob/dc400a9d8bf336b3d5df37befdfd17c6b946e5e9/Data%20that%20can%20be%20handled%20by%20developing%20plugins.md)
+        [Data that can be handled by developing plugins](https://github.com/CS-eukarya/User-Manual-English-/blob/What-can-users-do-with-the-plugin/Data%20that%20can%20be%20handled%20by%20developing%20plugins.md)
         
 - Asset
     
-    [Idea Of Assets](https://github.com/CS-eukarya/User-Manual-English-/blob/e0770b686bf93933acea425fd2fc34065cf56c0b/Idea%20Of%20Assets.md)
+    [Idea Of Assets](https://github.com/CS-eukarya/User-Manual-English-/blob/Asset/Idea%20Of%20Assets.md)
     
-    [Manage Assets](https://github.com/CS-eukarya/User-Manual-English-/blob/e0770b686bf93933acea425fd2fc34065cf56c0b/Manage%20Assets.md)
+    [Manage Assets](https://github.com/CS-eukarya/User-Manual-English-/blob/Asset/Manage%20Assets.md)
     
 - Publication
     
-    [Subdomains And Custom Domains](https://github.com/CS-eukarya/User-Manual-English-/blob/2d84705b0dd08e0a1b55d43003706517579361ff/Subdomains%20And%20Custom%20Domains.md)
+    [Subdomains And Custom Domains](https://github.com/CS-eukarya/User-Manual-English-/blob/Publication/Subdomains%20And%20Custom%20Domains.md)
     
-    [Basic Authorization](https://github.com/CS-eukarya/User-Manual-English-/blob/2d84705b0dd08e0a1b55d43003706517579361ff/Basic%20Authorization.md)
+    [Basic Authorization](https://github.com/CS-eukarya/User-Manual-English-/blob/Publication/Basic%20Authorization.md)
     
-    [Public Info SEO ＆ OGP](https://github.com/CS-eukarya/User-Manual-English-/blob/2d84705b0dd08e0a1b55d43003706517579361ff/Public%20Info%20SEO%20%EF%BC%86%20OGP.md)
+    [Public Info SEO ＆ OGP](https://github.com/CS-eukarya/User-Manual-English-/blob/Publication/Public%20Info%20SEO%20%EF%BC%86%20OGP.md)
     
