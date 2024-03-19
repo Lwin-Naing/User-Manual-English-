@@ -89,7 +89,7 @@ Subdomain settings are above.
 
 After entering the domain into the box, click the Confirm button.
 
-Example: [mapmihon.com](http://mapmihon.com/)
+Example: mapmihon.com
 
 ![2023-03-27_13h09_07 1.png](Subdomains%20And%20Custom%20Domains%20ac4fa9226d3d4d119c84bc7495c63dbd/2023-03-27_13h09_07_1.png)
 
@@ -99,4 +99,4 @@ Confirm this custom domain setting screen from time to time, and it will be outp
 
 Your custom domain settings are now complete.
 
-Example: [mapmihon.com](http://mapmihon.com/)
+Example: mapmihon.com
