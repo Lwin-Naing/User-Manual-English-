@@ -60,13 +60,13 @@ The navigation bar on the left allows you to access different settings related t
 
 A.Project List page will display all the projects under the current workspace. Use this page to select different projects to access their individual settings.
 
-B.Current Project page allows you to modify the basic information of the project as well as archive or delete the project. For more details, please check the [Settings, Archiving And Deleting](https://github.com/CS-eukarya/User-Manual-English-/blob/90c94495ddee0c71cb705f6da0337613016c3471/Settings%2C%20Archiving%20And%20Deleting.md)
+B.Current Project page allows you to modify the basic information of the project as well as archive or delete the project. For more details, please check the [Settings, Archiving And Deleting](https://github.com/CS-eukarya/User-Manual-English-/blob/Project/Settings%2C%20Archiving%20And%20Deleting.md)
 
-C.Public settings page provides some settings about publishing your project. For more details, please check [Publish Page](https://github.com/CS-eukarya/User-Manual-English-/blob/209e1569862090d970a613e66fa8fa1d56b28853/Publish%20Page.md).
+C.Public settings page provides some settings about publishing your project. For more details, please check [Publish Page](https://github.com/CS-eukarya/User-Manual-English-/blob/Understanding-Re-Earth-UI/Publish%20Page.md).
 
-D. Dataset library page is used to manage the datasets that have been imported into the current project. For more details, please check the [Dataset Library](https://github.com/CS-eukarya/User-Manual-English-/blob/90c94495ddee0c71cb705f6da0337613016c3471/Dataset%20Library.md) and [the Dataset section].
+D. Dataset library page is used to manage the datasets that have been imported into the current project. For more details, please check the [Dataset Library](https://github.com/CS-eukarya/User-Manual-English-/blob/Project/Dataset%20Library.md) and [the Dataset section].
 
-E.Plugin Marketplace page is used to manage the installed plugins of the current project. For more details, please check [Plugin Marketplace](https://github.com/CS-eukarya/User-Manual-English-/blob/d8cdb329579b130ae64cef42876e63d5f58a9233/Plugin%20Marketplace.md) and the entire [Plugin section].
+E.Plugin Marketplace page is used to manage the installed plugins of the current project. For more details, please check [Plugin Marketplace](https://github.com/CS-eukarya/User-Manual-English-/blob/Plugin/Plugin%20Marketplace.md) and the entire [Plugin section].
 <br>
 <br>
 
