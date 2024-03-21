@@ -16,7 +16,7 @@ As described in the previous chapters, you can add and build various content on 
 
 The following operations are available on a project:
 
-- [Create](ttps://github.com/CS-eukarya/User-Manual-English-/blob/Project/Create%20A%20New%20Project.md)
+- [Create](https://github.com/CS-eukarya/User-Manual-English-/blob/Project/Create%20A%20New%20Project.md)
 - [Archive](https://github.com/CS-eukarya/User-Manual-English-/blob/Project/Settings%2C%20Archiving%20And%20Deleting.md)
 - [Delete](https://github.com/CS-eukarya/User-Manual-English-/blob/Project/Settings%2C%20Archiving%20And%20Deleting.md#deleting-your-project)
 <br>
