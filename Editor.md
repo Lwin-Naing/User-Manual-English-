@@ -31,7 +31,7 @@ The down arrow will open a menu. Through this menu, you can complete various ope
 
 Click ∨ next to the account name or project name to display the menu.
 
-The preview and publish status buttons in the upper right are used to quickly preview or publish your project. See also [here](Publish%20Page%206dfb01ed7e22445a908620899235d569.md) for publishing features.
+The preview and publish status buttons in the upper right are used to quickly preview or publish your project. See also [here](https://github.com/CS-eukarya/User-Manual-English-/blob/Understanding-Re-Earth-UI/Publish%20Page.md) for publishing features.
 <br>
 <br>
 <br>
