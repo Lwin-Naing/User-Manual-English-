@@ -1,6 +1,6 @@
 # Environment Setting
 
-### Browser
+### Browser Setup
 Re-Earth is an application that runs on a web browser.
 
 It is compatible with all desktops, OS (Windows, macOS, Linux, Chrome OS) as well as mobiles, OS's (iOS, Android) that can run modern web browsers.
