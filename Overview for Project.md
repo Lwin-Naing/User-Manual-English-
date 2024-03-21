@@ -16,9 +16,9 @@ As described in the previous chapters, you can add and build various content on 
 
 The following operations are available on a project:
 
-- [Create](https://github.com/CS-eukarya/User-Manual-English-/blob/90c94495ddee0c71cb705f6da0337613016c3471/Create%20A%20New%20Project.md)
-- [Archive](https://github.com/CS-eukarya/User-Manual-English-/blob/90c94495ddee0c71cb705f6da0337613016c3471/Settings%2C%20Archiving%20And%20Deleting.md#archive-your-project)
-- [Delete](https://github.com/CS-eukarya/User-Manual-English-/blob/90c94495ddee0c71cb705f6da0337613016c3471/Settings%2C%20Archiving%20And%20Deleting.md#deleting-your-project)
+- [Create](ttps://github.com/CS-eukarya/User-Manual-English-/blob/Project/Create%20A%20New%20Project.md)
+- [Archive](https://github.com/CS-eukarya/User-Manual-English-/blob/Project/Settings%2C%20Archiving%20And%20Deleting.md)
+- [Delete](https://github.com/CS-eukarya/User-Manual-English-/blob/Project/Settings%2C%20Archiving%20And%20Deleting.md#deleting-your-project)
 <br>
 <br>
 <br>
@@ -94,4 +94,4 @@ In the upper right corner of the Editor page, you can also see and change the st
 
 ### Collaborative Editing
 
-With the workspace system, it becomes possible for team members to collaborate and edit together. Members who are in the same workspace can edit the same project. For specific instructions on how to do this, please refer to the [Workspace](https://github.com/CS-eukarya/User-Manual-English-/blob/5efc259110ffba26524fa9f281c5405d8581b5d1/Create%20A%20New%20Team%20Workspace.md)documentation.
+With the workspace system, it becomes possible for team members to collaborate and edit together. Members who are in the same workspace can edit the same project. For specific instructions on how to do this, please refer to the [Workspace](https://github.com/CS-eukarya/User-Manual-English-/blob/Workspace/Create%20A%20New%20Team%20Workspace.md)documentation.
