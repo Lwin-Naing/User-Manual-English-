@@ -1,26 +1,5 @@
 # User-Manual-English-
-# User Manual
 
-- **Getting Started**
-    
-    [**Environment Setting**](https://github.com/CS-eukarya/User-Manual-English-/blob/653862029d0c30e3ddbe3853020a453e9d1d229e/Environment%20Setting.md)
-    
-    [**Making Your First Project**](https://github.com/CS-eukarya/User-Manual-English-/blob/653862029d0c30e3ddbe3853020a453e9d1d229e/Making%20Your%20First%20Project.md)
-    
-    - **Understanding Re-Earth UI**
-        
-        [**Overview**](https://github.com/CS-eukarya/User-Manual-English-/blob/038f72c2f76a8822827d8e3618433be7885fce55/Overview%20for%20Understanding%20Re-Earth%20UI.md)
-        
-        [**Dashboard**](https://github.com/CS-eukarya/User-Manual-English-/blob/038f72c2f76a8822827d8e3618433be7885fce55/Dashboard.md)
-        
-        [**Editor**](https://github.com/CS-eukarya/User-Manual-English-/blob/64ef28ed49478be026668a87c6918b3954b218d4/Editor.md)
-        
-        [**Setting Page**](User%20Manual%20d2a30f9add9245048e8458db86f7de66/Setting%20Page%204c749b78cc2642ebb2c57ae3481d48c3.md)
-        
-        [Preview Page](User%20Manual%20d2a30f9add9245048e8458db86f7de66/Preview%20Page%2002523931122c4cf0aa1d061ab8dd26c6.md)
-        
-        [Publish Page](User%20Manual%20d2a30f9add9245048e8458db86f7de66/Publish%20Page%206dfb01ed7e22445a908620899235d569.md)
-        
 - **Project & Workspace**
     - **Project**
         
