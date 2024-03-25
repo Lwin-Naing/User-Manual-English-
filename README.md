@@ -63,4 +63,4 @@
             
             [File](https://github.com/CS-eukarya/User-Manual-English-/blob/Re-Earth-layers/File.md)
 
-          -**[Infobox](https://github.com/CS-eukarya/User-Manual-English-/tree/Infobox)**
+- **NEXT page:** **[Infobox](https://github.com/CS-eukarya/User-Manual-English-/tree/Infobox)**
