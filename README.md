@@ -62,3 +62,5 @@
             [3D Tiles](https://github.com/CS-eukarya/User-Manual-English-/blob/Re-Earth-layers/3D%20Tiles.md)
             
             [File](https://github.com/CS-eukarya/User-Manual-English-/blob/Re-Earth-layers/File.md)
+
+          -**[Infobox](https://github.com/CS-eukarya/User-Manual-English-/tree/Infobox)**
