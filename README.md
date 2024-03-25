@@ -5,4 +5,6 @@
 
   [Create A New Infobox](https://github.com/CS-eukarya/User-Manual-English-/blob/Infobox/Create%20A%20New%20Infobox.md)
 
-  [Infobox Properties](https://github.com/CS-eukarya/User-Manual-English-/blob/Infobox/Infobox%20Properties.md) 
+  [Infobox Properties](https://github.com/CS-eukarya/User-Manual-English-/blob/Infobox/Infobox%20Properties.md)
+
+  **NEXT Page: [Blocks](https://github.com/CS-eukarya/User-Manual-English-/tree/Blocks)**
