@@ -9,4 +9,6 @@
 
   [Location Block](https://github.com/CS-eukarya/User-Manual-English-/blob/Blocks/Location%20Block.md)
 
-  [Table Block](https://github.com/CS-eukarya/User-Manual-English-/blob/Blocks/Table%20Block.md) 
+  [Table Block](https://github.com/CS-eukarya/User-Manual-English-/blob/Blocks/Table%20Block.md)
+
+  **NEXT page:[Widget](https://github.com/CS-eukarya/User-Manual-English-/tree/Widget)**
