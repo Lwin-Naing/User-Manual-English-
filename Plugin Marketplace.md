@@ -1,6 +1,8 @@
 # Plugin Marketplace
 
-The Re-Earth Plugin marketplace is a platform dedicated to plugin sharing, fostering collaboration and innovation. It is a centralized hub where users can create and share their plugins, making them publicly available to others in the Plugin marketplace. With an extensive collection of plugins, users can easily search for and find the specific functionalities they need to enhance and customize their projects. This vibrant ecosystem encourages knowledge exchange and empowers users to leverage the collective creativity and expertise of the community. **[Click here](https://marketplace.reearth.io)** to view the Re-Earth plugin Marketplace
+The Re-Earth Plugin marketplace is a platform dedicated to plugin sharing, fostering collaboration and innovation. It is a centralized hub where users can create and share their plugins, making them publicly available to others in the Plugin marketplace. With an extensive collection of plugins, users can easily search for and find the specific functionalities they need to enhance and customize their projects. This vibrant ecosystem encourages knowledge exchange and empowers users to leverage the collective creativity and expertise of the community.
+
+**[Click here](https://marketplace.reearth.io)** to view the Re-Earth plugin Marketplace
 <br>
 <br>
 <br>
@@ -49,8 +51,10 @@ The Re-Earth Plugin marketplace is a platform dedicated to plugin sharing, foste
 <br>
 
 Once you click on install, the plugin will be successfully added. 
+<br>
+<br>
 
-![Untitled](Plugin%20Marketplace%20751f7a9caaff41c7a0d31a4a6e8529ff/Untitled%206.png)
+
 
 **Additionally, you can click the heart button on the plugin page to add it to your favorites.**
 
