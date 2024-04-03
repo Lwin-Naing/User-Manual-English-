@@ -34,13 +34,14 @@ With Re-Earth plugins, you can develop your desired functionalities by combining
 ### Get the current location using GPS and move the map to the location.
 
 - Use this Link for easy access [**https://myposition-sample.reearth.io/**](https://myposition-sample.reearth.io/)
-1. Once it opens Click on Get Direction.
+
 
 **Operating Instructions**
 
 ![Group 134.png](Various%20Plugins%205d90198ecf214c4485b2bf9af499f12e/Group_134.png)
 
-1. The location information will be retrieved, and the person icon will move to the acquired location.
+1. Once it opens Click on Get Direction.
+2. The location information will be retrieved, and the person icon will move to the acquired location.
 <br>
 <br>
 
@@ -67,32 +68,26 @@ With Re-Earth plugins, you can develop your desired functionalities by combining
 ![Group 135.png](Various%20Plugins%205d90198ecf214c4485b2bf9af499f12e/Group_135.png)
 <br>
 <br>
-
-**If you are not logged in or don’t have a Twitter account, Please create a Twitter account and log in** 
+ 
 
 ![Untitled](Various%20Plugins%205d90198ecf214c4485b2bf9af499f12e/Untitled.png)
 <br>
 <br>
 
-**Click on the login process or create a New Twitter account, if you don’t have any.**
 
 ![Untitled](Various%20Plugins%205d90198ecf214c4485b2bf9af499f12e/Untitled%201.png)
 <br>
 <br>
 
-**Enter your password to login into your Twitter account.**
 
 ![Untitled](Various%20Plugins%205d90198ecf214c4485b2bf9af499f12e/Untitled%202.png)
 <br>
 <br>
 
-**Click Tweet to share the plugin and your location.**
-
 ![Untitled](Various%20Plugins%205d90198ecf214c4485b2bf9af499f12e/Untitled%203.png)
 <br>
 <br>
 
-**Your Tweet has been shared.**
 
 ![Untitled](Various%20Plugins%205d90198ecf214c4485b2bf9af499f12e/Untitled%204.png)
 <br>
