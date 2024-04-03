@@ -107,21 +107,22 @@ After you click on the **+ icon** the **Menu List** will be listed according to 
 
 ## Placing the camera movement button
 
-To place the **Camera,** From the **Type** Section of the Button Properties Click on it to open, then select **Camera Flight**, this is the third type on the type button widget
+We will place a button that moves the camera to a specified position when clicked. This allows you to set the camera angle at the destination.
+
 
 ![Untitled](Button%2009a15c6bd9c843f4b7b6a8f9cf4f2427/Untitled%209.png)
 <br>
 <br>
 
-We will place a button that moves the camera to a specified position when clicked. This allows you to set the camera angle at the destination.
-
-Select **"Camera Flight"** from the **Type** action. then click on “**Not Set”** to set the Camera angle settings.
+1. To place the **Camera,** From the **Type** Section of the Button Properties Click on it to open, then select **Camera Flight**, this is the third type on the type button widget
+2. Click on “**Not Set”** to set the Camera angle settings.
 
 ![Untitled](Button%2009a15c6bd9c843f4b7b6a8f9cf4f2427/Untitled%2010.png)
 <br>
 <br>
 
-- **Camera:** From the camera angle setting window, set the camera angle at the destination. Enter values for latitude and longitude, e.tc., or use the mouse to move the Re-Earth and click **"Capture**"  to set the angle of view.
+3. **Camera:** From the camera angle setting window, set the camera angle at the destination. Enter values for latitude and longitude, e.tc., or use the mouse to move the Re-Earth and click **"Capture**"  to set the angle of view.
+
 
 ![Untitled](Button%2009a15c6bd9c843f4b7b6a8f9cf4f2427/Untitled%2011.png)
 <br>
