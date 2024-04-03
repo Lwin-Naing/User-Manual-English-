@@ -60,7 +60,7 @@ There is an error in the format of reearth.yml.
 <br>
 <br>
 
-###GitHub public repository
+### GitHub public repository
 
 1. Access the plugin library and select "GitHub public repository".
 
