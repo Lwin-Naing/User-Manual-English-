@@ -1,8 +1,8 @@
 # Install And Remove Plugins
 
-## Installing and removing plugins
+This section explains how to install and remove plugins.
 
-### Accessing the plugin library
+## Accessing the plugin library
 
 1 Open the project settings screen from the settings button on the dashboard screen.
 
@@ -22,7 +22,7 @@
 <br>
 <br>
 
-### Install plugin
+## Install plugin
 
 There are two ways to install the plugin.
 
@@ -57,8 +57,12 @@ There is an error in the format of reearth.yml.
 - A plugin with the same ID is already installed. Please remove the existing plugin and run the installation again.
 - The ZIP file does not contain reearth.yml or there are multiple directories in the root. Compress a single folder containing reearth.yml or multiple files containing reearth.yml.
 - An invalid ZIP file may be output depending on the application that generates the ZIP file. Please compress using other applications.
+<br>
+<br>
 
-1. GitHub public repository
+###GitHub public repository
+
+1. Access the plugin library and select "GitHub public repository".
 
 ![s 2 (2).png](Install%20And%20Remove%20Plugins%20a9f2c04d2f0a49af98e19bffb4836f8d/s_2_(2).png)
 <br>
@@ -82,7 +86,7 @@ There is an error in the format of reearth.yml.
 <br>
 <br>
 
-### Remove plugin
+## Remove plugin
 
 1.  Access the plugin library and place the cursor on the `installed` button on the right side of the row where the plugin name is displayed.
 
@@ -96,7 +100,7 @@ There is an error in the format of reearth.yml.
 <br>
 <br>
 
-Click the `Uninstall` button on the displayed pop-up.
+3.Click the `Uninstall` button on the displayed pop-up.
 
 ![45 1.png](Install%20And%20Remove%20Plugins%20a9f2c04d2f0a49af98e19bffb4836f8d/45_1.png)
 <br>
