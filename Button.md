@@ -86,9 +86,8 @@ Users can set up a menu button that expands when clicked. This allows you to com
 
 ![Untitled](Button%2009a15c6bd9c843f4b7b6a8f9cf4f2427/Untitled%206.png)
 
-From the **Type** Button Properties, select **Menu** which is the second list in the **Type** Button properties.
-
-After you have selected **Menu**, the **Menu list** will show up, Then click on the pulse Icon **(+)** to add a **Menu list**
+1. From the **Type** Button Properties, select **Menu** which is the second list in the **Type** Button properties.
+2. After you have selected **Menu**, the **Menu list** will show up, Then click on the pulse Icon **(+)** to add a **Menu list**
 
 ![Untitled](Button%2009a15c6bd9c843f4b7b6a8f9cf4f2427/Untitled%207.png)
 
