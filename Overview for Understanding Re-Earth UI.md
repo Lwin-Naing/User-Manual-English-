@@ -1,4 +1,5 @@
 # Overview
+For the purpose of editing and managing projects, Re:Earth has five main pages.
 
 [Dashboard Link](https://github.com/CS-eukarya/User-Manual-English-/blob/Understanding-Re-Earth-UI/Dashboard.md)
      <br>
