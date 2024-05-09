@@ -1,6 +1,6 @@
 ## Login
 
-open this URL
+open this URL: https://reearth.io again and click "Start now".
 
 ![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/c01a63a1-2c4a-413d-8157-8d3d852bfa56)
 
