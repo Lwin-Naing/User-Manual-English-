@@ -18,9 +18,11 @@
 3. A confirmation screen will appear in the center of the screen.
    Confirm the scope of publication below and click Publish.
     
-    ![gfh 1 (1).png](Publish%20Page%206dfb01ed7e22445a908620899235d569/gfh_1_(1).png)
+ ![publish image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/d572265a-521d-4b3c-9210-d9f8c7347c02)
+<br>
     
-    ![URL  1.png](Publish%20Page%206dfb01ed7e22445a908620899235d569/URL__1.png)
+   ![Project published](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/49cbd4da-cb83-4b33-9a13-3cc6aed17c02)
+
     
 
 A. `Public URL`: Anyone on the internet with the link can view it.
