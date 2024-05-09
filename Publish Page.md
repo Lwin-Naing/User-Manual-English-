@@ -15,7 +15,8 @@
  <br>
  
 
-3. A confirmation screen will appear in the center of the screen. Click Publish.
+3. A confirmation screen will appear in the center of the screen.
+   Confirm the scope of publication below and click Publish.
     
     ![gfh 1 (1).png](Publish%20Page%206dfb01ed7e22445a908620899235d569/gfh_1_(1).png)
     
