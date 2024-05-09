@@ -20,7 +20,7 @@ After obtaining an account and completing verification, please open [https://ap
 <br>
 
 
-**Convert to the user registration screen**
+**Create account from user registration screen**
 
 ![fghj_2](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/13873129-c678-414b-9211-d89775f51f79)
 
@@ -57,14 +57,14 @@ After obtaining an account and completing verification, please open [https://ap
 
 open this URL
 
-![sdf_2_(4)](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/a18a792c-c389-4ee1-b069-d95efacca74d)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/c01a63a1-2c4a-413d-8157-8d3d852bfa56)
 
 
 ① Click "Start now" at the top right of the screen
 <br>
 <br>
 
-**Convert to the user registration screen**
+**Login to the user screen**
 
 ![2023-03-20_13h33_16_1](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/158041bd-ae94-4b4c-9b36-9722939bbae8)
 
