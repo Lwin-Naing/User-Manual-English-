@@ -54,7 +54,7 @@ Example: mihon
 
 ![2023-03-27_12h57_17 1.png](Subdomains%20And%20Custom%20Domains%20ac4fa9226d3d4d119c84bc7495c63dbd/2023-03-27_12h57_17_1.png)
 
-Subdomain settings are above.
+Subdomain settings are finished.
 <br>
 <br>
 
