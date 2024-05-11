@@ -9,16 +9,8 @@ The Re-Earth Plugin marketplace is a platform dedicated to plugin sharing, foste
 
 ## How to access the Re-Earth Plugin Marketplace
 
+Go to the dashboard and click on "Plugin Marketplace."
 ![Untitled](Plugin%20Marketplace%20751f7a9caaff41c7a0d31a4a6e8529ff/Untitled.png)
-<br>
-<br>
-
-### To access the Re-Earth Plugin Marketplace, follow these steps:
-
-1. Open your web browser and go to the Re-Earth website.
-2. Navigate to the main page you will see the Plugin Marketplace section.
-3. “ Click on it, and you will be directed to Re-Earth **[Marketplace](https://marketplace.reearth.io).** The Re-Earth Marketplace will open in a new tab.
-<br>
 <br>
 <br>
 
@@ -58,7 +50,9 @@ Once you click on install, the plugin will be successfully added.
 
 **Additionally, you can click the heart button on the plugin page to add it to your favorites.**
 
-**The plugins that you have added to your favorites can be accessed from the "Favorites" button on the home screen.**
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/d201c83b-0990-4c21-946e-817a6a5b684d)
+
+**The plugins that you have added to your favorites can be accessed from the "Liked" button on the home screen.**
 
 ![Untitled](Plugin%20Marketplace%20751f7a9caaff41c7a0d31a4a6e8529ff/Untitled%207.png)
 <br>
