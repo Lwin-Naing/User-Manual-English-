@@ -6,26 +6,19 @@ Re: Earth allows you to set up subdomains and custom domains.
 
 **A** . You can set a subdomain from the site name.
 
-For example, if there is a domain "[example.com](http://example.com/)", then "[blog.example.com](http://blog.example.com/)"
+For example, if you have a domain called "[example.com]", you can set up subdomains under it, such as "[blog.example.com]" or "[shop.example.com]".
 
-or "[shop.example.com](http://shop.example.com/)".
+In this way, subdomains are used to distinguish different sites or services and provide different content within the same domain.
 
-In this way, subdomains distinguish different sites or services within the same domain
+**B** . Custom domains are **only available for paid users**. 
 
-Used to serve different content.
+You can acquire a domain externally and then configure the acquired domain using the "Add Domain" feature in Re:Earth. **After configuration, it may take several days for the changes to reflect, and they may not be automatically applied. Therefore, it's necessary to check periodically and press the update button as needed.**
 
-**B** . Custom domains are only available for paid users**. **
-
-Obtain a domain externally and set the obtained domain from Re: Earth's add domain function
-
-Is possible. **After setting, it may take a few days to reflect, and it will not be reflected automatically, so**
-
-- *You need to check and press the update button from time to time. **
 <br>
 <br>
 <br>
 
-## About subdomain settings
+## A: About subdomain settings
 
 (1) Click the setting button of the corresponding project in the workspace.
 
@@ -45,7 +38,7 @@ Is possible. **After setting, it may take a few days to reflect, and it will not
 <br>
 <br>
 
-(4) The screen to change the site name will be displayed.
+(4) You'll see a screen to change the site name.
 
 Enter the displayed site name in the box and click Save.
 
@@ -65,7 +58,7 @@ Subdomain settings are above.
 <br>
 <br>
 
-### About custom domain settings (from here onwards only for paying users)
+## B: About custom domain settings (from here onwards only for paying users)
 
 (1) Click the setting button of the corresponding project in the workspace.
 
@@ -85,18 +78,14 @@ Subdomain settings are above.
 <br>
 <br>
 
-(4) A box called Add Alias is output, so obtain the domain externally and
-
-After entering the domain into the box, click the Confirm button.
+(4) An "Add Alias" box will appear. Obtain a domain externally, then input the acquired domain into the box and click the confirmation button.
 
 Example: mapmihon.com
 
 ![2023-03-27_13h09_07 1.png](Subdomains%20And%20Custom%20Domains%20ac4fa9226d3d4d119c84bc7495c63dbd/2023-03-27_13h09_07_1.png)
+<br>
+<br>
 
-After setting, it may take several days to reflect, and it will not be reflected automatically
+**Note: It may take several days for the changes to reflect after configuration. They may not be applied automatically. Therefore, it's necessary to periodically check this custom domain settings page and press the update button that appears on the custom domain settings page.**
 
-Confirm this custom domain setting screen from time to time, and it will be output on the custom domain setting screen
-
-Your custom domain settings are now complete.
-
-Example: mapmihon.com
+The custom domain configuration is now complete.
