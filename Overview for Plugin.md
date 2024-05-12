@@ -1,23 +1,21 @@
 # Overview
 
-The plugin system is one of Re: Earth's greatest features. You can extend the functionality of Re-Earth by developing your own plugins or using plugins developed by other users in the community.
+The plugin system is one of Re: Earth's greatest features. 
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/6fbe73ae-d29a-42a1-9a02-43667aa894e6)
 
-For example, displaying a new item in the info box that appears when a marker is selected, or placing an original function widget on the screen, executing processing that cannot be achieved with existing Re: Earth functions. becomes possible.
+Re:Earth users can enhance the platform's functionality by developing their own plugins or utilizing plugins developed by other users within the community.
 
-In the future, we plan to make it possible to use plug-ins to perform calculations for streamlining scene editing and data processing.
+For example, you can extend the content of the infobox displayed when a marker is selected, or add plugins to Re:Earth's original widgets to enable processes that are not possible with the standard Re:Earth features.
+
+For more information, please refer to [Types of Plugins](https://github.com/CS-eukarya/User-Manual-English-/blob/435dd41294ac1d70225ea1d43b567c8b5d3b7102/Types%20Of%20Plugins.md).
 <br>
 <br>
 
-The Plugin Library page manages plugins for your project.
+In the future, we plan to enable plugins to perform calculations that streamline scene editing and data processing.
+<br>
+<br>
+<br>
 
-![55555555555555555555555_1.png](Overview%20ce224e1d8e1043e493d98a6e5c4444e6/55555555555555555555555_1.png)
-
-**A**. It shows how to install the plugin.
-
-**B**. The **Upload Zip File from PC** button selects the zip file from your PC to install the plugin.
-
-**C**. The **GitHub public repository** button installs the plugin directly from GitHub.
-
-**D**. The **Publish your plugin on the marketplace** button allows you to publish your plugin on the marketplace.
-
-**E** .Under **Installed** you will see all the plugins installed in the current project.
+Here are the methods for installing plugins:
+-[Marketplace](https://github.com/CS-eukarya/User-Manual-English-/blob/435dd41294ac1d70225ea1d43b567c8b5d3b7102/Plugin%20Marketplace.md)
+-[Uploading a Zip file from your PC or using a GitHub public repository](https://github.com/CS-eukarya/User-Manual-English-/blob/435dd41294ac1d70225ea1d43b567c8b5d3b7102/Install%20And%20Remove%20Plugins.md)
