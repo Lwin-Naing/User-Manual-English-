@@ -1,48 +1,37 @@
 # Splash Screen
 
-The splash screen is a feature that displays an image with text in full screen when a project is launched.
-
-This is suitable for displaying the project title and other information.
-
-![Untitled](Splash%20Screen%205ef834bd4c4a4387910bdfcd1a89debe/Untitled.gif)
-<br>
-<br>
-
-### Splash Screen functioning
+A splash screen is the initial screen displayed while a project is loading. It's a great place to showcase the project's title or logo.
 
 ![Untitled](Splash%20Screen%205ef834bd4c4a4387910bdfcd1a89debe/Untitled%201.gif)
 <br>
 <br>
-<br>
-
-## How to Configure the splash screen image[](https://deploy-preview-44--reearth-document.netlify.app/user-manual/widget/splash-screen#configure-the-splash-screen-image)
-
-- Click on **Splash Screen** in the widgets section of the left panel in the Re-Earth app. will make the splash screen settings toggle appear on the right panel of the Re-Earth App. Click the Enable toggle to start using the splash screen.
+### Setting Up The Splash screen
+Click on 'Widgets' from the Outline tab in the left panel, then click on the '+' icon and select 'Splash Screen'.
 
 ![Untitled](Splash%20Screen%205ef834bd4c4a4387910bdfcd1a89debe/Untitled.png)
 <br>
 <br>
 <br>
+## Splash screen Properties and Functions
+The settings window for the splashscreen will appear in the right panel. Please click 'Enable'.
 
-## Splash Properties and Functions
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/70671501-5fd1-4a6f-a5b2-10a5498fc2f3)
 
-![Untitled](Splash%20Screen%205ef834bd4c4a4387910bdfcd1a89debe/Untitled%201.png)
+A. **Delay:** Specifies the time (in seconds) from the start of the project until the splash screen is displayed.
 
-A. **Enable:** Used to activate "Splash functions" in the Re-Earth App. Enabling "Splash" in the Re-Earth application means turning it on, making it available for use.
+B. **Duration:** Specifies the time (in seconds) to keep the splash screen displayed.
 
-B. **Delay:** Specifies the time (in seconds) from the start of the project until the splash screen is displayed.
+C. **Fade out:** Specifies the time (in seconds) it will take for the splash screen to fade out.
 
-C. **Duration:** Specifies the time (in seconds) to keep the splash screen displayed.
+D. **Image:** Specifies the image for the splash screen.
 
-D. **Fade out:** Specifies the time (in seconds) it will take for the splash screen to fade out.
+E. **Image width:** Specifies the width of the splash screen's image.
 
-E. **Image:** Specifies the image for the splash screen.
+F. **Image height:** Specifies the height of the splash screen's image.
 
-F. **Image width:** Specifies the width of the splash screen's image.
+G. **Background color:** Specifies the color of the area around the image when the splash screen is displayed.
 
-G. **Image height:** Specifies the height of the splash screen's image.
-
-H. **Background color:** Specifies the color of the area around the image when the splash screen is displayed.
+H. **Vision:** Specifies the display style.
 <br>
 <br>
 
