@@ -47,9 +47,8 @@ Click on an archived project to go to its settings page. You'll notice that the 
 
 If you want to edit the project again, just simply click the Unarchive button in the Danger Zone and type in the project's name.
 
-![89](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/10876ba7-fd1f-47cf-9516-08c12e755189)
-<br>
-<br>
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/be18aade-eb23-446c-b00c-f14216e29049)
+
 <br>
 
 ## Deleting your project
