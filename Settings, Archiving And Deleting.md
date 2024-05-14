@@ -4,12 +4,11 @@ From the current project's settings page, you can edit some basic information ab
 
 ![9648](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/c6168cca-05df-4f75-b532-0bc9a2fc2eac)
 
-**A** . **Project Info** is the basic information of the project that'll be used within Re: Earth. This information is the same content you filled in when you created the project.
+**A** . **Project Info** is the basic information of the project that'll be used within Re: Earth. This information like (name, project summary, thumbnail image) is the same content you filled in when you created the project.
 
-**B** . **Danger Zone** contains operations that will affect the accessibility of your project. This includes archiving and deleting your project.
+**B** . **Danger Zone** contains operations that will affect the accessibility of your project. This includes archiving and deleting your project. These operations affect the accessibility of the project, so caution is needed when using them.
 <br>
-<br>
-<br>
+
 
 ## Archive Your Project
 
