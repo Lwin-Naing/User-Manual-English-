@@ -63,4 +63,7 @@ At the bottom of the settings page, there is a [Delete Project] button under imp
 
 Click that button, enter the name of the project you want to delete in the popup that appears, and then click the "Delete this project." button to complete the deletion.
 
-![562](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/9a3ec4c1-f578-4dfc-802e-0d85c65c75ef)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/deac90e2-f8df-402b-8487-c2bbcfedbc90)
+
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/b6900ebe-e4ab-4f8a-bbc2-7c275719b16c)
+
