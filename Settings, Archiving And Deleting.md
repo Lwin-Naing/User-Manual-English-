@@ -49,8 +49,7 @@ If you want to edit the project again, just simply click the Unarchive button in
 
 ![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/be18aade-eb23-446c-b00c-f14216e29049)
 
-<br>
-![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/68dfd969-14d4-4e0d-8f79-938d7c4f4057)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/5ecdf24b-abc2-4360-b25f-d4cc3c24d3bd)
 
 <br>
 
