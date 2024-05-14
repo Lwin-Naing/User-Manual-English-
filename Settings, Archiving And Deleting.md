@@ -55,8 +55,12 @@ If you want to edit the project again, just simply click the Unarchive button in
 
 ## Deleting your project
 
-When you find that some projects are no longer needed, you can delete them completely. For Re:Earth, deleting a project means completely removing all information and data about the project. This will include related plugins and datasets.
+If some projects become unnecessary, they can be completely deleted. In Re:Earth, deleting a project means completely removing all information and data related to the project, including plugins and datasets.
 
-In the danger zone at the bottom of the setting page, you can find the Delete project button.
+**Steps to Delete a Project:**
+
+At the bottom of the settings page, there is a [Delete Project] button under important operations.
+
+Click that button, enter the name of the project you want to delete in the popup that appears, and then click the "Delete this project." button to complete the deletion.
 
 ![562](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/9a3ec4c1-f578-4dfc-802e-0d85c65c75ef)
