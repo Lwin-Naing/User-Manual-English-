@@ -16,6 +16,11 @@ Projects that have been completed or will not be edited for the time being can b
 
 When you want to modify the project again, just unarchive the project from the project's settings.
 
+**Setup to Unarchive Project**
+From project settings, click the "Unarchive Project" button.
+
+A popup will then appear. Enter the name of the project you wish to unarchive and click the "Are you sure you want to unarchive?" button to complete the process.
+
 ![image 82](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/05d8f231-10bd-47bf-92f2-499a97395a1f)
 
 <br>
