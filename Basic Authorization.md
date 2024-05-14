@@ -2,7 +2,7 @@
 
 Basic Authorization is one method for restricting access to web pages protected by the HTTP protocol.
 
-Enabling basic authentication requires specific username and password, so users without this information cannot view the web page.
+Enabling basic authentication requires specific **username** and **password**, so users without this information cannot view the web page.
 
 Conversely, disabling basic authentication allows anyone to access the web page.
 <br>
