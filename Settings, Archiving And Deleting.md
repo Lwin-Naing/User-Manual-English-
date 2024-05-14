@@ -40,7 +40,8 @@ As mentioned, once the project is archived you will not be able to find it on th
 
 Click on an archived project to go to its settings page. You'll notice that the project has been locked and cannot be modified.
 
-![97](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/98b02d01-0128-4e01-bc23-5bea98ab590d)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/6855d411-2fe2-46c4-bff4-91f5fdb3d942)
+
 <br>
 <br>
 
