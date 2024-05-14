@@ -17,6 +17,7 @@ Projects that have been completed or will not be edited for the time being can b
 When you want to modify the project again, just unarchive the project from the project's settings.
 
 **Setup to Unarchive Project**
+<br>
 From project settings, click the "Unarchive Project" button.
 
 A popup will then appear. Enter the name of the project you wish to unarchive and click the "Are you sure you want to unarchive?" button to complete the process.
