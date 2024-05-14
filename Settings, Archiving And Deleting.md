@@ -25,7 +25,7 @@ A popup will then appear. Enter the name of the project you wish to Archive and 
 ![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/ce9d8ce7-030e-456a-ada7-1ddbca4e4200)
 
 
-![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/206e472a-aa80-45ff-9950-ceda88754500)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/cbcff84c-110f-42bf-a023-84afb062afdb)
 
 
 <br>
