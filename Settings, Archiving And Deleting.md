@@ -22,8 +22,7 @@ From project settings, click the "Archive Project" button.
 
 A popup will then appear. Enter the name of the project you wish to Archive and click the "Are you sure you want to Archive?" button to complete the process.
 
-![image 82 (1)](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/c4842076-95b7-4589-8453-8e00fdc141d9)
-
+![arichive a project 1](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/04a9f7e9-4ced-4f9a-9543-4886e1cd104f)
 
 
 ![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/cbcff84c-110f-42bf-a023-84afb062afdb)
@@ -35,7 +34,7 @@ A popup will then appear. Enter the name of the project you wish to Archive and 
 
 As mentioned, once the project is archived you will not be able to find it on the Dashboard. You can find all archived projects listed at the bottom of the Project list page.
 
-![56](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/48f39843-fe02-4860-94ef-a818b1718412)
+![image 82 (1)](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/c4842076-95b7-4589-8453-8e00fdc141d9)
 <br>
 <br>
 
