@@ -16,9 +16,8 @@ Projects that have been completed or will not be edited for the time being can b
 
 When you want to modify the project again, just unarchive the project from the project's settings.
 
-![6](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/c63c2785-0193-4f98-976f-5e492438502d)
-<br>
-<br>
+![image 82](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/05d8f231-10bd-47bf-92f2-499a97395a1f)
+
 <br>
 
 ## Unarchive projects
