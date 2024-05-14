@@ -1,19 +1,19 @@
 # Making Your First Project
 
-### Overview
+## Overview
 
 In this section, we will quickly Demonstrate the most basic Re: Earth processes to help you complete and publish your first Re: Earth project.
 <br>
+
+
+**Let's start!**
+<br>
 <br>
 
+## Starting a new account
 
-## Let's start!
 
-### Starting a new account
-
-Because Re-Earth is still in the stage of internal development, we do not yet support a public registration account. So please contact us [here](https://docs.google.com/forms/d/e/1FAIpQLSftlA7HKfSsCHND14jERCLh3YzDETj0tU2rPVHM8McQfPHt-g/viewform) and we will open a new account for you.
-
-After obtaining an account and completing verification, please open [https://app.reearth.io/](https://app.reearth.io/) and enter your account information to log in.
+1. please open [https://app.reearth.io/](https://app.reearth.io/) and click on "Sign in" in the upper right corner of the screen.
 ![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/563c3e52-0f37-430a-937d-89f4081ae709)
 
 <br>
@@ -24,17 +24,17 @@ After obtaining an account and completing verification, please open [https://ap
 
 ![fghj_2](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/13873129-c678-414b-9211-d89775f51f79)
 
-② Click Sign Up
+2. Click Sign Up
 
-③ Enter your email address
+3. Enter your email address
 
-④ Set the user name
+4. Set the user name
 
-⑤ Set password
+5. Set password
 
-⑥ Select the check box
+6. Select the check box
 
-⑦ Click Click Sign Up
+7. Click Click Sign Up
 <br>
 <br>
 
@@ -42,10 +42,15 @@ After obtaining an account and completing verification, please open [https://ap
 
 ![Untitled](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/667db627-32b0-466a-99c0-1e0a1a11fd1e)
 
-⑧ Click "VERIFY YOUR ACCOUNT”
+8. Click "VERIFY YOUR ACCOUNT”
 <br>
 <br>
 
 **Once the authentication is complete, the account issuance procedure is complete.**
 
 ![Untitled_(1)](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/e75bc1b0-289f-445c-91fb-4fef31d5b51b)
+<br>
+<br>
+
+
+After obtaining an account and completing verification, please open https://app.reearth.io/ and enter your account information to log in.
