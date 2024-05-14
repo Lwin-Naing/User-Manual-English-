@@ -22,7 +22,11 @@ From project settings, click the "Archive Project" button.
 
 A popup will then appear. Enter the name of the project you wish to Archive and click the "Are you sure you want to Archive?" button to complete the process.
 
-![image 82](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/05d8f231-10bd-47bf-92f2-499a97395a1f)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/ce9d8ce7-030e-456a-ada7-1ddbca4e4200)
+
+
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/206e472a-aa80-45ff-9950-ceda88754500)
+
 
 <br>
 
