@@ -20,4 +20,4 @@ On the Plugin Library page, you manage the installation, deletion, and administr
 
 **D.** With the "Publish Plugin on Marketplace" button, you can publish your created plugins on the marketplace.
 
-**E.**Under "Installed," all the plugins currently installed in the project are displayed.
+**E.** Under "Installed," all the plugins currently installed in the project are displayed.
