@@ -8,8 +8,6 @@ Workspace is a section in the Re-Earth app, where you can build and create your 
 
 [Settings and Deleting Workspace](https://github.com/CS-eukarya/User-Manual-English-/blob/Workspace/Settings%20And%20Deleting.md#settings)
 
-[Deleting](https://github.com/CS-eukarya/User-Manual-English-/blob/Workspace/Settings%20And%20Deleting.md#deleting)
-
 [Managing Members](https://github.com/CS-eukarya/User-Manual-English-/blob/Workspace/Managing%20Members.md)
 
 [Assets Library](https://github.com/CS-eukarya/User-Manual-English-/blob/Workspace/Assets%20Library.md)
