@@ -52,10 +52,5 @@ It is the process of Deleting a workspace from the Re-Earth App. Once the action
 ![Untitled 3](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/70b21306-e6b1-4586-9752-6c326959dd62)
 
 2. Type in the name of the workspace you want to delete.
-3. Then, Click on (I am sure I want to delete workspace) and then the workspace will be deleted.
+3. Then, Click on (I am sure I want to delete workspace) and the workspace will be deleted.
 <br>
-<br>
-
-**Illustration** 
-
-![Untitled 1](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/3acb30b5-0132-43ac-828d-66641bf93306)
