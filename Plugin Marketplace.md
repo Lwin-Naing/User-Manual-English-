@@ -36,9 +36,11 @@ Go to the dashboard and click on "Plugin Marketplace."
 
 ![Untitled](Plugin%20Marketplace%20751f7a9caaff41c7a0d31a4a6e8529ff/Untitled%204.png)
 
-4. Select the workspace and choose the project to which you wish, then click on chose to add the plug-in.
+4. Select the workspace. 
 
 ![Untitled](Plugin%20Marketplace%20751f7a9caaff41c7a0d31a4a6e8529ff/Untitled%205.png)
+
+5. Choose the project to which you wish, then click on chose to add the plug-in.
 <br>
 <br>
 
@@ -77,7 +79,7 @@ When deciding what information to display in widgets or info boxes, tailor it to
 
 For the settings options, provide items that would assist users in customizing the plugin's functionality and display. Think about options such as setting the data range or applying filters, customizing the display style, selecting the data source, and more. These options allow users to adjust the plugin according to their specific needs.
 
-![Untitled](Plugin%20Marketplace%20751f7a9caaff41c7a0d31a4a6e8529ff/Untitled%208.png)
+
 <br>
 <br>
 
