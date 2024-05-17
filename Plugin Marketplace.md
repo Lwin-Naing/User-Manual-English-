@@ -77,7 +77,7 @@ Think about functionalities or information that users would desire. It's importa
 ### Think about what kind of information would be beneficial to display in widgets or info boxes.
 
 When deciding what information to display in widgets or info boxes, tailor it to the purpose of the plugin as per the users' needs. For example, displaying specific points or areas on a map, presenting statistical data in graphs, showing weather information for specific locations, and so on. Consider displaying information based on the intended purpose.<br>
-[Click here]() to view "Types of Plugins"
+[Click here](https://github.com/CS-eukarya/User-Manual-English-/blob/Plugin/Types%20Of%20Plugins.md) to view "Types of Plugins"
 <br>
 <br>
 
