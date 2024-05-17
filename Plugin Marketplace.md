@@ -13,6 +13,10 @@ Go to the dashboard and click on "Plugin Marketplace."
 ![Untitled](Plugin%20Marketplace%20751f7a9caaff41c7a0d31a4a6e8529ff/Untitled.png)
 <br>
 <br>
+The Re:Earth Marketplace will open in a new tab.
+![Marketplace](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/ef89b11b-bd71-401c-9eda-535ed2f59ff7)
+<br>
+<br>
 
 ## How to add a plugin
 
@@ -40,8 +44,7 @@ Go to the dashboard and click on "Plugin Marketplace."
 
 ![Untitled](Plugin%20Marketplace%20751f7a9caaff41c7a0d31a4a6e8529ff/Untitled%205.png)
 
-5. Choose the project to which you wish, then click on chose to add the plug-in.
-<br>
+5~6. Choose the project to which you wish, then click on chose to add the plug-in.
 <br>
 
 Once you click on install, the plugin will be successfully added. 
@@ -50,11 +53,13 @@ Once you click on install, the plugin will be successfully added.
 
 
 
-**Additionally, you can click the heart button on the plugin page to add it to your favorites.**
+Additionally, you can click the heart button on the plugin page to add it to your favorites.
 
-![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/d201c83b-0990-4c21-946e-817a6a5b684d)
+![Liked](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/f5994129-9d45-4429-90a2-fdd5454844ff)
 
-**The plugins that you have added to your favorites can be accessed from the "Liked" button on the home screen.**
+<br>
+
+The plugins that you have added to your favorites can be accessed from the "Liked" button on the home screen.
 
 ![Untitled](Plugin%20Marketplace%20751f7a9caaff41c7a0d31a4a6e8529ff/Untitled%207.png)
 <br>
@@ -71,7 +76,8 @@ Think about functionalities or information that users would desire. It's importa
 
 ### Think about what kind of information would be beneficial to display in widgets or info boxes.
 
-When deciding what information to display in widgets or info boxes, tailor it to the purpose of the plugin as per the users' needs. For example, displaying specific points or areas on a map, presenting statistical data in graphs, showing weather information for specific locations, and so on. Consider displaying information based on the intended purpose.
+When deciding what information to display in widgets or info boxes, tailor it to the purpose of the plugin as per the users' needs. For example, displaying specific points or areas on a map, presenting statistical data in graphs, showing weather information for specific locations, and so on. Consider displaying information based on the intended purpose.<br>
+[Click here]() to view "Types of Plugins"
 <br>
 <br>
 
@@ -79,6 +85,7 @@ When deciding what information to display in widgets or info boxes, tailor it to
 
 For the settings options, provide items that would assist users in customizing the plugin's functionality and display. Think about options such as setting the data range or applying filters, customizing the display style, selecting the data source, and more. These options allow users to adjust the plugin according to their specific needs.
 
+![Plugin properties](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/e63b76c0-a83e-4af8-b349-0a0874f29f9a)
 
 <br>
 <br>
