@@ -18,6 +18,6 @@ In the future, we plan to enable plugins to perform calculations that streamline
 
 Here are the methods for installing plugins:
 
--[Marketplace](https://github.com/CS-eukarya/User-Manual-English-/blob/435dd41294ac1d70225ea1d43b567c8b5d3b7102/Plugin%20Marketplace.md)
+-[Plugin Marketplace](https://github.com/CS-eukarya/User-Manual-English-/blob/435dd41294ac1d70225ea1d43b567c8b5d3b7102/Plugin%20Marketplace.md)
 
 -[Uploading a Zip file from your PC or using a GitHub public repository](https://github.com/CS-eukarya/User-Manual-English-/blob/435dd41294ac1d70225ea1d43b567c8b5d3b7102/Install%20And%20Remove%20Plugins.md)
