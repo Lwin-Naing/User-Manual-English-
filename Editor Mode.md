@@ -7,13 +7,13 @@ Editor Mode is a feature that allows you to change the placement, spacing, and s
 
 ## How to set up the Editor Mode
 
-**Step 1.** From the Outline tab in the left panel, click `Widget`.
+**1.** From the Outline tab in the left panel, click `Widget`.
 
 ![Untitled](Editor%20Mode%20ca6719656d9e4c128c4607f77e1796f2/Untitled.png)
 <br>
 <br>
 
-**Step 2.** The configuration window '*Enable Editor Mode*' will appear on the right panel. Click on **Activate Button** to activate it.
+**2.** The configuration window '*Enable Editor Mode*' will appear on the right panel. Click on **Activate Button** to activate it.
 
 ![Untitled](Editor%20Mode%20ca6719656d9e4c128c4607f77e1796f2/Untitled%201.png)
 <br>
