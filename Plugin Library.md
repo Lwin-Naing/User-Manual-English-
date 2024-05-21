@@ -1,10 +1,10 @@
-**Overview**
+# Overview
 <br>
 The plugin system is one of the key features of Re:Earth. Users can extend the functionality of Re:Earth by developing their own plugins or using plugins developed by others within the community.
 
 For example, you can expand the content functionality of infoboxes displayed when selecting markers, or add plugins to Re:Earth's original widget feature and place them on the screen, enabling processes not possible with existing Re.Earth.
 
-For a detailed explanation, please see [Plugins].
+For a detailed explanation, please see [Plugins](https://github.com/CS-eukarya/User-Manual-English-/blob/Plugin/Overview%20for%20Plugin.md.)
 
 In the future, we plan to enable plugins to perform calculations for streamlining scene editing and data processing.
 
