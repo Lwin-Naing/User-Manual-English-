@@ -7,8 +7,9 @@ From the current project's settings page, you can edit some basic information ab
 **A** . **Project Info** is the basic information of the project that'll be used within Re: Earth. This information like (name, project summary, thumbnail image) is the same content you filled in when you created the project.
 
 **B** . **Danger Zone** contains operations that will affect the accessibility of your project. This includes archiving and deleting your project. These operations affect the accessibility of the project, so caution is needed when using them.
-<br>
 
+<br>
+<br>
 
 ## Archive Your Project
 
@@ -16,8 +17,11 @@ Projects that have been completed or will not be edited for the time being can b
 
 When you want to modify the project again, just unarchive the project from the project's settings.
 
-**Setup to Archive a Project**
 <br>
+
+**Setup to Archive a Project:**
+<br>
+
 From project settings, click the "Archive Project" button.
 
 A popup will then appear. Enter the name of the project you wish to Archive and click the "Are you sure you want to Archive?" button to complete the process.
@@ -27,7 +31,7 @@ A popup will then appear. Enter the name of the project you wish to Archive and 
 
 ![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/cbcff84c-110f-42bf-a023-84afb062afdb)
 
-
+<br>
 <br>
 
 ## Unarchive projects
@@ -52,10 +56,13 @@ If you want to edit the project again, just simply click the Unarchive button in
 ![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/5ecdf24b-abc2-4360-b25f-d4cc3c24d3bd)
 
 <br>
+<br>
 
 ## Deleting your project
 
 If some projects become unnecessary, they can be completely deleted. In Re:Earth, deleting a project means completely removing all information and data related to the project, including plugins and datasets.
+
+<br>
 
 **Steps to Delete a Project:**
 
