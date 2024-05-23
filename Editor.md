@@ -6,7 +6,8 @@ The edit page is the main screen for editing projects. We aim to be as simple an
 
 As you can see, the Editor Page is made up of five EDITOR AREAS:
 
-- **Header**
+- [**Header**](https://github.com/CS-eukarya/User-Manual-English-/blob/Understanding-Re-Earth-UI/Editor.md#header)
+  
 - **Tool Bar**
 - **Left Panel**
 - **Viewer**
