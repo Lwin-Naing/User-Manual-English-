@@ -14,7 +14,8 @@ As you can see, the Editor Page is made up of five EDITOR AREAS:
 
 - [**Right Panel**](https://github.com/CS-eukarya/User-Manual-English-/blob/Understanding-Re-Earth-UI/Editor.md#right-panel)
     
-- **Viewer**
+- [**Viewer**](https://github.com/CS-eukarya/User-Manual-English-/blob/Understanding-Re-Earth-UI/Editor.md#viewer)
+  
 
 
 As a basic configuration, the left panel is the content list. Used to select objects for manipulation.
