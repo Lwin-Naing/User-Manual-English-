@@ -10,7 +10,7 @@ As you can see, the Editor Page is made up of five EDITOR AREAS:
 
 - [**Left Panel**](https://github.com/CS-eukarya/User-Manual-English-/blob/Understanding-Re-Earth-UI/Editor.md#left-panel)
   
-- **Tool Bar**
+- [**Tool Bar**](https://github.com/CS-eukarya/User-Manual-English-/blob/Understanding-Re-Earth-UI/Editor.md#tool-bar)
 
 - **Right Panel**  
 - **Viewer**
