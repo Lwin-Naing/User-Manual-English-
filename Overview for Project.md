@@ -27,16 +27,12 @@ The following operations are available on a project:
 
 In the settings page, project-specific settings can be accessed where you can modify things like its title or add basic auth, manage its datasets, or the plugins used by the project.
 <br>
-<br>
-<br>
-
-## Accessing settings
 
 There are two ways to get to a project's settings:
 <br>
 <br>
 
-### From Dashboard[](https://docs.reearth.io/user-manual/project-and-workspace/project/overview#from-dashboard)
+ **From Dashboard[](https://docs.reearth.io/user-manual/project-and-workspace/project/overview#from-dashboard)**
 
 Dashboard -> Project card -> ⚙️ button
 
@@ -44,7 +40,7 @@ Dashboard -> Project card -> ⚙️ button
 <br>
 <br>
 
-### From Editor[](https://docs.reearth.io/user-manual/project-and-workspace/project/overview#from-editor)
+**From Editor[](https://docs.reearth.io/user-manual/project-and-workspace/project/overview#from-editor)**
 
 Header —> Project menu —> Project settings
 
@@ -76,7 +72,7 @@ When you finish a project, you can publish it on the Internet. We have provided 
 <br>
 <br>
 
-### From Dashboard
+**From Dashboard**
 
 On each project card found in the Dashboard, you can see the status.
 
@@ -84,7 +80,7 @@ On each project card found in the Dashboard, you can see the status.
 <br>
 <br>
 
-### From Editor
+**From Editor**
 
 In the upper right corner of the Editor page, you can also see and change the status at any time while editing.
 
