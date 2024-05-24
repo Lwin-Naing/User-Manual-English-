@@ -11,21 +11,6 @@ Click on **Widgets** from the outline tab in the left panel, then click on the *
 ![Untitled](Button%2009a15c6bd9c843f4b7b6a8f9cf4f2427/Untitled.png)
 <br>
 <br>
-
-### Illustration of Button Widgets
-
-![Untitled](Button%2009a15c6bd9c843f4b7b6a8f9cf4f2427/Untitled.gif)
-<br>
-<br>
-
-### Button widgets and their properties
-
-In a Button widget, you can set the following default items:
-
-![Untitled](Button%2009a15c6bd9c843f4b7b6a8f9cf4f2427/Untitled%201.png)
-<br>
-<br>
-
 ### Properties of Button Widgets
 
 ![Untitled](Button%2009a15c6bd9c843f4b7b6a8f9cf4f2427/Untitled%202.png)
@@ -61,21 +46,18 @@ The following are the actions that will take place:
 
 With the **button widget,** Users can set up a link button that will direct them to a specified web page.
 
-Step 1: From the button's action options scroll down you will see **Type**, Then select **"Link".**
+1: From the button's action options scroll down you will see **Type**, Then select **"Link".**
 
-![Untitled](Button%2009a15c6bd9c843f4b7b6a8f9cf4f2427/Untitled%203.png)
-<br>
-<br>
-
-Step 2: Click on the link field and a resource selection window will appear. Select the URL tab.
+2: Click on the link field and a resource selection window will appear. Select the URL tab.
 
 ![Untitled](Button%2009a15c6bd9c843f4b7b6a8f9cf4f2427/Untitled%204.png)
 <br>
 <br>
 
-Step 3: Input the address in the Resource URL field and click "Select" to complete the link button setup.
+3. Select the URL tab.
+4: Input the address in the Resource URL field and click "Select" to complete the link button setup.
 
-![Untitled](Button%2009a15c6bd9c843f4b7b6a8f9cf4f2427/Untitled%205.png)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/f829f071-2d58-44f7-b3bc-2006b6c2942a)
 <br>
 <br>
 <br>
@@ -84,7 +66,7 @@ Step 3: Input the address in the Resource URL field and click "Select" to comple
 
 Users can set up a menu button that expands when clicked. This allows you to compactly organize multiple actions.
 
-![Untitled](Button%2009a15c6bd9c843f4b7b6a8f9cf4f2427/Untitled%206.png)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/d0ed6280-8430-4411-847c-da3508b85e6c)
 
 1. From the **Type** Button Properties, select **Menu** which is the second list in the **Type** Button properties.
 2. After you have selected **Menu**, the **Menu list** will show up, Then click on the pulse Icon **(+)** to add a **Menu list**
@@ -93,14 +75,14 @@ Users can set up a menu button that expands when clicked. This allows you to com
 
 After you click on the **+ icon** the **Menu List** will be listed according to how **Menu List** you want to ADD
 
-![Untitled](Button%2009a15c6bd9c843f4b7b6a8f9cf4f2427/Untitled%208.png)
-<br>
-<br>
-
-### Illustration of Menu Adding the Menu List
-
-![Untitled](Button%2009a15c6bd9c843f4b7b6a8f9cf4f2427/Untitled%201.gif)
-<br>
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/a7432f73-13c4-4b61-8bb9-e9ff32a3223c)
+- Title: Enter the display name for the menu item.
+- Icon: In the resource selection window, you can choose an icon for the button.
+- Action: Select the action or display format when the menu item is clicked. The details are as follows:
+    - Link: Navigates to a specified link when clicked.
+    - Camera Move: Executes camera movement when clicked.
+    - Separator: Displays a separator line instead of a menu item.
+- Link: In the resource selection window, you can set the link destination.
 <br>
 <br>
 
@@ -109,7 +91,7 @@ After you click on the **+ icon** the **Menu List** will be listed according to 
 We will place a button that moves the camera to a specified position when clicked. This allows you to set the camera angle at the destination.
 
 
-![Untitled](Button%2009a15c6bd9c843f4b7b6a8f9cf4f2427/Untitled%209.png)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/d0ed6280-8430-4411-847c-da3508b85e6c)
 <br>
 <br>
 
@@ -126,10 +108,6 @@ We will place a button that moves the camera to a specified position when clicke
 ![Untitled](Button%2009a15c6bd9c843f4b7b6a8f9cf4f2427/Untitled%2011.png)
 <br>
 <br>
-
-### Illustration of the Button and Camera Flight
-
-![Untitled](Button%2009a15c6bd9c843f4b7b6a8f9cf4f2427/Untitled%202.gif)
 
 **Visible:** this is a property of the Button Widget that allows users to control when the button is displayed on the Re-Earth application.
 
