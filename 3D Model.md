@@ -88,24 +88,6 @@ To rename a 3D Model, Double-click on the word "3D Model" in the layer to rename
 <br>
 <br>
 
-### Renaming a 3D Model Illustration
-
-![Untitled-min](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/5eeb64ab-90ee-4ee5-b2ec-f8463f0e98fc)
-<br>
-<br>
-
-**Before Renaming a 3D Model**
-
-![Untitled 4](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/d7490025-84df-4fbc-bcb2-c33cc1160c58)
-<br>
-<br>
-
-**After Renaming a 3D Model**
-
-![Untitled 5](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/a5d8d21d-eff3-415d-9580-fb1955c34a4a)
-<br>
-<br>
-
 ### Deleting a 3D model
 
 To Delete a **3D Model**, Click on the 3D model(3D name) you wish to delete in the layer on the left panel, make sure it is selected in blue, then click the "trash can" symbol to delete it.
@@ -113,7 +95,3 @@ To Delete a **3D Model**, Click on the 3D model(3D name) you wish to delete in t
 ![Untitled 6](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/55fdd8c8-4e65-4d25-a095-5249f59e25fc)
 <br>
 <br>
-
-### Deleting a 3D Model Illustration
-
-![Untitled 1](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/db502f89-0db5-424c-8614-1a2758596e19)
