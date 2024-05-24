@@ -19,29 +19,16 @@
 <br>
 <br>
 
-When a 3D tile is dropped on the globe in the Re-Earth App, the word "3D tile" appears in blue in the layer on the left panel. The more 3D tiles you drop on the Re-earth app, the more 3D tiles appear in the layer.
+- When a 3D tile is dropped on the globe in the Re-Earth App, the word "3D tile" appears in blue in the layer on the left panel. The more 3D tiles you drop on the Re-earth app, the more 3D tiles appear in the layer.
 
 ![Untitled 2](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/00160d7f-a9da-44ab-a8e8-bd00455c2e51)
 <br>
 <br>
-
-### Illustration of Adding a 3D tile
-
-![Untitled-min](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/668afc83-bb1d-4fbe-a88d-353b6af18dd4)
-<br>
-<br>
-
 ### Renaming a 3D tile
 
-To rename a 3D Tile, Double-click on any of the words (Letter) titled "3D Tile" in the layers to rename it.
+To rename a 3D Tile layer, double-click on the text of the 3D tile. This switches to an editable view where you can enter the new name and confirm by pressing Enter.
 
 ![Untitled 3](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/ff6b0027-91e0-460a-a6ff-045003c4fb80)
-<br>
-<Br>
-
-### Illustration of Renaming 3D Tiles
-
-![Untitled 1](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/f13d307a-5036-4c43-a02b-a6a2f4c1cd8a)
 <br>
 <Br>
 
@@ -53,19 +40,15 @@ Click on the eye symbol on the right side of the 3D tile in the left panel to ma
 
 **Before Hiding 3D Tiles**
 
-![Untitled 4](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/076448f5-25c2-498a-8776-9815988e1457)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/a14a4a6f-1c79-4644-b72d-24dea014e2eb)
+
 <br>
 <br>
 
 **After Hiding 3D Tiles**
 
-![Untitled 5](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/f01ad8f0-4254-4716-b9ea-2c34d64e87fb)
-<br>
-<br>
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/1be3f061-9074-4662-a835-053550b14d8e)
 
-### Illustration of Hiding 3D Tiles in Re-Earth App
-
-![Untitled 2-min](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/e4e5f742-8df4-4637-92d7-ea1b9f642efe)
 <br>
 <br>
 
@@ -74,13 +57,6 @@ Click on the eye symbol on the right side of the 3D tile in the left panel to ma
 To delete a 3D tile, click on the 3D tile you wish to delete in the layers in the left panel, make sure it is selected in blue, and then press the "trash can" symbol on the right side of the layer to delete it.
 
 ![Untitled 6](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/ecb8b5d3-2edb-4a44-89f3-55e8dfc4c66a)
-<br>
-<br>
-
-### Illustration of Deleting 3D Tiles in Re-Earth App.
-
-![Untitled 3](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/88264829-393c-4a20-86bd-d138be115a03)
-<br>
 <br>
 <br>
 
@@ -128,3 +104,57 @@ OSM Buildings is an open-source project that uses OpenStreetMap (OSM) data to ge
 We have prepared 3D tiles for use in Re:Earth and assumed that they are publicly available in PLATEAU to the server.
 
 For more information about PLATEAU, please visit [official website](https://www.mlit.go.jp/plateau/).
+
+As of the end of fiscal year 2021, Project PLATEAU offers 3DTiles data for 56 cities, which is available on the [G-Spatial Information Center](https://www.geospatial.jp/ckan/dataset/plateau).
+
+Please refer to [this](https://github.com/Project-PLATEAU/plateau-streaming-tutorial/blob/main/README.md) for instructions on how to obtain the list of distribution URLs.
+
+| Dataset Name | Subdivision | URL |
+| --- | --- | --- |
+| Building Model (Chiyoda Ward) | Without Texture | https://plateau.geospatial.jp/main/data/3d-tiles/bldg/13100_tokyo/13101_chiyoda-ku/notexture/tileset.json |
+|  | With Texture | https://plateau.geospatial.jp/main/data/3d-tiles/bldg/13100_tokyo/13101_chiyoda-ku/texture/tileset.json |
+|  | With Texture (Low Resolution) | https://plateau.geospatial.jp/main/data/3d-tiles/bldg/13100_tokyo/13101_chiyoda-ku/low_resolution/tileset.json |
+| Building Model (Chuo Ward) | Without Texture | https://plateau.geospatial.jp/main/data/3d-tiles/bldg/13100_tokyo/13102_chuo-ku/notexture/tileset.json |
+|  | With Texture | https://plateau.geospatial.jp/main/data/3d-tiles/bldg/13100_tokyo/13102_chuo-ku/texture/tileset.json |
+|  | With Texture (Low Resolution) | https://plateau.geospatial.jp/main/data/3d-tiles/bldg/13100_tokyo/13102_chuo-ku/low_resolution/tileset.json |
+| Building Model (Minato Ward) | Without Texture | https://plateau.geospatial.jp/main/data/3d-tiles/bldg/13100_tokyo/13103_minato-ku/notexture/tileset.json |
+|  | With Texture | https://plateau.geospatial.jp/main/data/3d-tiles/bldg/13100_tokyo/13103_minato-ku/texture/tileset.json |
+|  | With Texture (Low Resolution) | https://plateau.geospatial.jp/main/data/3d-tiles/bldg/13100_tokyo/13103_minato-ku/low_resolution/tileset.json |
+| Building Model (Shinjuku Ward) | Without Texture | https://plateau.geospatial.jp/main/data/3d-tiles/bldg/13100_tokyo/13104_shinjuku-ku/notexture/tileset.json |
+|  | With Texture | https://plateau.geospatial.jp/main/data/3d-tiles/bldg/13100_tokyo/13104_shinjuku-ku/texture/tileset.json |
+|  | With Texture (Low Resolution) | https://plateau.geospatial.jp/main/data/3d-tiles/bldg/13100_tokyo/13104_shinjuku-ku/low_resolution/tileset.json |
+| Building Model (Bunkyo Ward) | Without Texture | https://plateau.geospatial.jp/main/data/3d-tiles/bldg/13100_tokyo/13105_bunkyo-ku/notexture/tileset.json |
+| Building Model (Taito Ward) | Without Texture | https://plateau.geospatial.jp/main/data/3d-tiles/bldg/13100_tokyo/13106_taito-ku/notexture/tileset.json |
+| Building Model (Sumida Ward) | Without Texture | https://plateau.geospatial.jp/main/data/3d-tiles/bldg/13100_tokyo/13107_sumida-ku/notexture/tileset.json |
+| Building Model (Koto Ward) | Without Texture | https://plateau.geospatial.jp/main/data/3d-tiles/bldg/13100_tokyo/13108_koto-ku/notexture/tileset.json |
+|  | With Texture | https://plateau.geospatial.jp/main/data/3d-tiles/bldg/13100_tokyo/13108_koto-ku/texture/tileset.json |
+|  | With Texture (Low Resolution) | https://plateau.geospatial.jp/main/data/3d-tiles/bldg/13100_tokyo/13108_koto-ku/low_resolution/tileset.json |
+| Building Model (Shinagawa Ward) | Without Texture | https://plateau.geospatial.jp/main/data/3d-tiles/bldg/13100_tokyo/13109_shinagawa-ku/notexture/tileset.json |
+|  | With Texture | https://plateau.geospatial.jp/main/data/3d-tiles/bldg/13100_tokyo/13109_shinagawa-ku/texture/tileset.json |
+|  | With Texture (Low Resolution) | https://plateau.geospatial.jp/main/data/3d-tiles/bldg/13100_tokyo/13109_shinagawa-ku/low_resolution/tileset.json |
+| Building Model (Meguro Ward) | Without Texture | https://plateau.geospatial.jp/main/data/3d-tiles/bldg/13100_tokyo/13110_meguro-ku/notexture/tileset.json |
+| Building Model (Ota Ward) | Without Texture | https://plateau.geospatial.jp/main/data/3d-tiles/bldg/13100_tokyo/13111_ota-ku/notexture/tileset.json |
+|  | With Texture | https://plateau.geospatial.jp/main/data/3d-tiles/bldg/13100_tokyo/13111_ota-ku/texture/tileset.json |
+|  | With Texture (Low Resolution) | https://plateau.geospatial.jp/main/data/3d-tiles/bldg/13100_tokyo/13111_ota-ku/low_resolution/tileset.json |
+| Building Model (Setagaya Ward) | Without Texture | https://plateau.geospatial.jp/main/data/3d-tiles/bldg/13100_tokyo/13112_setagaya-ku/notexture/tileset.json |
+| Building Model (Shibuya Ward) | Without Texture | https://plateau.geospatial.jp/main/data/3d-tiles/bldg/13100_tokyo/13113_shibuya-ku/notexture/tileset.json |
+|  | With Texture | https://plateau.geospatial.jp/main/data/3d-tiles/bldg/13100_tokyo/13113_shibuya-ku/texture/tileset.json |
+|  | With Texture (Low Resolution) | https://plateau.geospatial.jp/main/data/3d-tiles/bldg/13100_tokyo/13113_shibuya-ku/low_resolution/tileset.json |
+| Building Model (Nakano Ward) | Without Texture | https://plateau.geospatial.jp/main/data/3d-tiles/bldg/13100_tokyo/13114_nakano-ku/notexture/tileset.json |
+| Building Model (Suginami Ward) | Without Texture | https://plateau.geospatial.jp/main/data/3d-tiles/bldg/13100_tokyo/13115_suginami-ku/notexture/tileset.json |
+| Building Model (Toshima Ward) | Without Texture | https://plateau.geospatial.jp/main/data/3d-tiles/bldg/13100_tokyo/13116_toshima-ku/notexture/tileset.json |
+|  | With Texture | https://plateau.geospatial.jp/main/data/3d-tiles/bldg/13100_tokyo/13116_toshima-ku/texture/tileset.json |
+|  | With Texture (Low Resolution) | https://plateau.geospatial.jp/main/data/3d-tiles/bldg/13100_tokyo/13116_toshima-ku/low_resolution/tileset.json |
+| Building Model (Kita Ward) | Without Texture | https://plateau.geospatial.jp/main/data/3d-tiles/bldg/13100_tokyo/13117_kita-ku/notexture/tileset.json |
+| Building Model (Arakawa Ward) | Without Texture | https://plateau.geospatial.jp/main/data/3d-tiles/bldg/13100_tokyo/13118_arakawa-ku/notexture/tileset.json |
+| Building Model (Itabashi Ward) | Without Texture | https://plateau.geospatial.jp/main/data/3d-tiles/bldg/13100_tokyo/13119_itabashi-ku/notexture/tileset.json |
+| Building Model (Nerima Ward) | Without Texture | https://plateau.geospatial.jp/main/data/3d-tiles/bldg/13100_tokyo/13120_nerima-ku/notexture/tileset.json |
+| Building Model (Adachi Ward) | Without Texture | https://plateau.geospatial.jp/main/data/3d-tiles/bldg/13100_tokyo/13121_adachi-ku/notexture/tileset.json |
+| Building Model (Katsushika Ward) | Without Texture | https://plateau.geospatial.jp/main/data/3d-tiles/bldg/13100_tokyo/13122_katsushika-ku/notexture/tileset.json |
+| Building Model (Edogawa Ward) | Without Texture | https://plateau.geospatial.jp/main/data/3d-tiles/bldg/13100_tokyo/13123_edogawa-ku/notexture/tileset.json |
+| Building Model (Hachioji Minami Osawa) | Without Texture | https://plateau.geospatial.jp/main/data/3d-tiles/bldg/13201_hachioji/notexture/tileset.json |
+|  | With Texture | https://plateau.geospatial.jp/main/data/3d-tiles/bldg/13201_hachioji/texture/tileset.json |
+|  | With Texture (Low Resolution) | https://plateau.geospatial.jp/main/data/3d-tiles/bldg/13201_hachioji/low_resolution/tileset.json |
+| Building Model (Higashimurayama) | Without Texture | https://plateau.geospatial.jp/main/data/3d-tiles/bldg/13213_higashimurayama/notexture/tileset.json |
+|  | With Texture | https://plateau.geospatial.jp/main/data/3d-tiles/bldg/13213_higashimurayama/texture/tileset.json |
+|  | With Texture (Low Resolution) | https://plateau.geospatial.jp/main/data/3d-tiles/bldg/13213_higashimurayama/low_resolution/tileset.json |
