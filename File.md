@@ -2,14 +2,11 @@
 
 ## What is a file?
 
-A file, is a place (a document) in a cabinet, box, or folder in a particular order. A file is also know as a folder or box for holding loose papers together and in order for easy reference.
+You can import files from external sources.
+
+By specifying a URL, you can load external data.
 
 ![Untitled](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/10fc4aa8-5a5f-4858-b6b0-e5fbd30087d8)
-
-In the Re-Earth App You can import files from outside. Also, an External data can be imported by specifying a URL.
-<br>
-<br>
-<br>
 
 ## How to use files
 
@@ -21,18 +18,11 @@ In the Re-Earth App You can import files from outside. Also, an External data ca
 <br>
 <br>
 
-When a file is dropped into the Re-Earth globe, the word "file" appears in blue in the layer on the left panel. 
+- When a file is dropped into the Re-Earth globe, the word "file" appears in blue in the layer on the left panel. This is the file that was dropped  in the Re-Earth globe. Also, as you drop More file icons, the more 3D tiles will appear in the layer.
 
 ![Untitled 2](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/7551a232-ada6-4b70-862b-275b346e2f80)
 <br>
 <br>
-
-This is the file that was dropped  in the Re-Earth globe. Also, as you drop More file icons, the more 3D tiles will appear in the layer.
-
-![Untitled](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/d2b76fbe-b07b-4ac9-ab45-29b19467ef33)
-<br>
-<br>
-
 ### Renaming a file
 
 Double-click on the letter of the file you want to rename in the layer, and you will be able to rename it.
@@ -61,9 +51,6 @@ To delete a file, click on the file you wish to delete in the layers in the left
 <br>
 
 ## File Properties
-
-File Properties are as follows: (A) File URL, (B)File Format(Which has the following types: Auto, KML, GeoJSON/TopoJSON, and CZML), and Finally (C) Clamp to ground
-
 **File properties allow you to set the following items**
 
 ![Untitled 7](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/3141616d-3254-48e8-aa5d-edd459ef4d10)
@@ -83,4 +70,4 @@ File Properties are as follows: (A) File URL, (B)File Format(Which has the follo
 
 **B. File format:** Select file format from (**Auto, KML, GeoJSON/TopoJSON, or CZML)**.
 
-**C. Fixed to ground** surface: If ON, polygons and other data can be displayed along the unevenness of the ground surface.
+**C. Fixed to ground surface**: If it is 'ON', polygons and other data can be displayed along the unevenness of the ground surface.
