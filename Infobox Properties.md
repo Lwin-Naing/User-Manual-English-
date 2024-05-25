@@ -1,45 +1,43 @@
 # Infobox Properties
 
-The following is the list of properties that users can use to customize the **“infobox”.**
+You can customize the look of your infobox using the options on the right side (A to N).
 
-![Untitled](Infobox%20Properties%20cbe5ddc866c84903b41d55c0c1b24660/Untitled.png)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/62d050a9-5661-440e-860d-d58903318368)
 
-- **A: Title:** Allows users to decide the title of the infobox in the Re-Earth App.
-- **B: Marker:** In Re-earth App, markers can take on different forms, such as **Text, Image Video Location, Table, and HTML**. They can be positioned anywhere in the scene of the Re-Earth App and can be associated with other objects, such as buildings, roads, or trees.
-- **C: show Tittle:** with the show title option users can select to display or hide the title for the title display.
-- **D: Position:** users can adjust the display position (right/center/left) of the infobox in the Re-Earth App.
+**A: Title** allows users to decide the title of the infobox in the Re-Earth App.
 
-![Untitled](Infobox%20Properties%20cbe5ddc866c84903b41d55c0c1b24660/Untitled%201.png)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/bb166c09-d06e-4d17-91e7-0c6518078ef6)
+
 <br>
 <br>
 
-- **E: Width:** Users can adjust the size of the infobox in **(small/medium/large)** using **Width.** The **width property** allows users to adjust the size of the infobox in the Re-Earth app. It provides three predefined options: **"small," "medium," and "large."**
+**B: Show Title** with the show title option, users can select to display or hide the title in the infobox.
 
-![Untitled](Infobox%20Properties%20cbe5ddc866c84903b41d55c0c1b24660/Untitled%202.png)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/b962146c-d27c-4f46-a0e4-fa9988612682)
+
 <br>
 <br>
 
-### The width allows you to change the size of the infobox.
+**C: Position** users can adjust the display position (right/center/left) of the infobox 
 
-- **Small:** Selecting the "small" option sets the width of the infobox to a smaller size, suitable for displaying concise information or when you want to conserve space on the screen.
-- **Medium:** Choosing the "medium" option sets the width of the infobox to a moderate size, which strikes a balance between compactness and readability. This option is ideal for displaying a moderate amount of content within the infobox.
-- **Large:** Opting for the "large" option sets the width of the infobox to a wider size, allowing for the display of more extensive content. This option is useful when you have more detailed information to present or when you want to prioritize readability.
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/eb7a1ba9-fe5c-462a-b03f-0128bdf4bc6b)
+
 <br>
 <br>
 
-**Small**
+D: Users can adjust the size of the infobox in **(small/medium/large)** using **Width.** 
 
-![https://deploy-preview-44--reearth-document.netlify.app/assets/images/3_002_en-081b3c81908598f80db624cfb13e4bbf.png](https://deploy-preview-44--reearth-document.netlify.app/assets/images/3_002_en-081b3c81908598f80db624cfb13e4bbf.png)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/f23b4f25-a080-407c-924d-8d7da740234e)
+
+<br>
+<br>
+Small : Selecting this option sets the infobox to a smaller width, making it suitable for displaying concise information or when you want to conserve screen space.
+Medium: Selecting this option sets the infobox to a moderate width, balancing compactness and readability. This option is ideal when you want to display a reasonable amount of content within the infobox.
+Large: Selecting this option sets the infobox to a wider width, allowing you to display more extensive content. This option is useful when you want to present more detailed information or prioritize readability.
 <br>
 <br>
 
-**Large**
-
-![https://deploy-preview-44--reearth-document.netlify.app/assets/images/3_003_en-e6fa98ffaf62148855103e13043b6699.png](https://deploy-preview-44--reearth-document.netlify.app/assets/images/3_003_en-e6fa98ffaf62148855103e13043b6699.png)
-<br>
-<br>
-
-- **F: Height type:-**  The height type can adjust the display size of the infobox using **auto/manual. The** **height type** property allows you to adjust the display size of the infobox in the Re-Earth app. This property provides two options: **"auto" and "manual."**
+- **E: Height type** can adjust the display size of the infobox using **auto/manual. The** **height type** property allows you to adjust the display size of the infobox in the Re-Earth app. This property provides two options: **"auto" and "manual."**
 - **Auto:** Selecting the "auto" option for the height type will automatically adjust the height of the infobox based on its content. This ensures that the infobox expands or contracts dynamically to fit the information it contains. It is a convenient option when you have varying amounts of content within different infoboxes, as it optimizes the display to avoid unnecessary empty space or content truncation.
 - **Manual:** Choosing the "manual" option for the height type allows you to manually specify a fixed height for the infobox. This means you can define a specific height value in pixels or any other appropriate unit of measurement. With the manual setting, the infobox will maintain a consistent height regardless of its content. This option provides more control over the visual layout of the infoboxes if you prefer a consistent size throughout your app.
 
@@ -113,7 +111,3 @@ By offering the outline color property, the Re-Earth app empowers users to custo
 5. **Text Styling:** Users have control over text styling options such as bold, italic, and underline. These settings can be toggled on or off for individual text elements or applied to the entire infobox text. Text styling can be used to emphasize certain words or sections, add emphasis, or provide visual variety.
 <br>
 <br>
-
-### Illustration of the Front Property
-
-![Untitled](Infobox%20Properties%20cbe5ddc866c84903b41d55c0c1b24660/Untitled%201.gif)
