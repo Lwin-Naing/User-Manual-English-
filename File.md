@@ -14,13 +14,14 @@ By specifying a URL, you can load external data.
 
 - In the Re-Earth globe, drag and drop the file icon to the desired location. (No symbol will appear at the time of drag and drop.)
 
-![Untitled 1](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/2e7fe15a-faf3-4c53-a3d6-c41d23c27ef8)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/efbd5fea-f135-4878-b3e2-90402432418d)
+
 <br>
 <br>
 
 - When a file is dropped into the Re-Earth globe, the word "file" appears in blue in the layer on the left panel. This is the file that was dropped  in the Re-Earth globe. Also, as you drop More file icons, the more 3D tiles will appear in the layer.
 
-![Untitled 2](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/7551a232-ada6-4b70-862b-275b346e2f80)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/277f90c4-f3b2-4d3e-a065-c00604986e6e)
 <br>
 <br>
 ### Renaming a file
@@ -35,9 +36,10 @@ Double-click on the letter of the file you want to rename in the layer, and you 
 
 Click on the eye symbol on the right side of the file in the left panel to make the 3D part on the globe disappear.
 
-![Untitled 4](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/e1f28417-c8ae-4512-8b71-6f7dfb438980)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/6cc592c7-7a47-45ab-b266-f387c258d3f1)
 
-![Untitled 5](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/e5a6cc70-a448-47c0-ba53-4b9243cf0970)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/b5f63bad-83c5-4a8e-881a-d8c25859587c)
+
 <br>
 <br>
 
@@ -45,7 +47,8 @@ Click on the eye symbol on the right side of the file in the left panel to make 
 
 To delete a file, click on the file you wish to delete in the layers in the left panel, make sure it is selected in blue, and then press the "trash can" symbol on the right side of the layer to delete it.
 
-![Untitled 6](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/6bd12523-e4e7-435a-9f8d-56c0408cff10)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/7d50706f-853f-4984-b4bf-4924f02ae524)
+
 <br>
 <br>
 <br>
