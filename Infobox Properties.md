@@ -25,89 +25,99 @@ You can customize the look of your infobox using the options on the right side (
 <br>
 <br>
 
-D: Users can adjust the size of the infobox in **(small/medium/large)** using **Width.** 
+**D:** Users can adjust the size of the infobox in **(small/medium/large)** using **Width.** 
 
 ![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/f23b4f25-a080-407c-924d-8d7da740234e)
 
 <br>
 <br>
-Small : Selecting this option sets the infobox to a smaller width, making it suitable for displaying concise information or when you want to conserve screen space.
-Medium: Selecting this option sets the infobox to a moderate width, balancing compactness and readability. This option is ideal when you want to display a reasonable amount of content within the infobox.
-Large: Selecting this option sets the infobox to a wider width, allowing you to display more extensive content. This option is useful when you want to present more detailed information or prioritize readability.
+
+**Small** : Selecting this option sets the infobox to a smaller width, making it suitable for displaying concise information or when you want to conserve screen space.
+<br>
+**Medium**: Selecting this option sets the infobox to a moderate width, balancing compactness and readability. This option is ideal when you want to display a reasonable amount of content within the infobox.
+<br>
+**Large**: Selecting this option sets the infobox to a wider width, allowing you to display more extensive content. This option is useful when you want to present more detailed information or prioritize readability.
 <br>
 <br>
 
-- **E: Height type** can adjust the display size of the infobox using **auto/manual. The** **height type** property allows you to adjust the display size of the infobox in the Re-Earth app. This property provides two options: **"auto" and "manual."**
+**E: Height type** can adjust the display size of the infobox using **auto/manual.**
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/2ad589f9-bcfb-4ad5-a2ac-f18228217430)
+
+
 - **Auto:** Selecting the "auto" option for the height type will automatically adjust the height of the infobox based on its content. This ensures that the infobox expands or contracts dynamically to fit the information it contains. It is a convenient option when you have varying amounts of content within different infoboxes, as it optimizes the display to avoid unnecessary empty space or content truncation.
 - **Manual:** Choosing the "manual" option for the height type allows you to manually specify a fixed height for the infobox. This means you can define a specific height value in pixels or any other appropriate unit of measurement. With the manual setting, the infobox will maintain a consistent height regardless of its content. This option provides more control over the visual layout of the infoboxes if you prefer a consistent size throughout your app.
 
-![Untitled](Infobox%20Properties%20cbe5ddc866c84903b41d55c0c1b24660/Untitled%203.png)
+- **F: Top Padding** is adjustable when the Height setting is set to Manual.
+(The Top Padding range: 0~40px)
+- **G: Bottom padding**  is adjustable when the Height setting is set to Manual.
+(the **Bottom padding** range: 0~40px)
+- **H: Left padding** is adjustable when Height setting is set to Manual.
+**(Left padding** range: 0~40px)
+- **I: Right padding** is adjustable when Height setting is set to Manual.
+(The **Right padding** range: 0~40px)
 
-![Untitled](Infobox%20Properties%20cbe5ddc866c84903b41d55c0c1b24660/Untitled%204.png)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/3dc6d80c-5107-48fe-a8fc-e1b4fe78f7ed)
 
-- **G: Top Padding** is adjustable when the Height setting is set to Manual.
-- (The Top Padding range: 0~40px)
-- **H: Bottom padding**  is adjustable when the Height setting is set to Manual.
-- (the **Bottom padding** range: 0~40px)
-- **I: Left padding** is adjustable when Height setting is set to Manual.
-- **(Left padding** range: 0~40px)
-- **J: Right padding** is adjustable when Height setting is set to Manual.
-- (The **Right padding** range: 0~40px)
-- 
-- **K: Background Color**: Allows users to decide the color of the infobox. Users can also adjust the transparency of the background.
+  
+- **J: Background Color** allows users to decide the color of the infobox. Users can also adjust the transparency of the background.
 
-![https://deploy-preview-44--reearth-document.netlify.app/assets/images/3_004_en-bef86d1ec6033bfb8e0774ae80429803.png](https://deploy-preview-44--reearth-document.netlify.app/assets/images/3_004_en-bef86d1ec6033bfb8e0774ae80429803.png)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/2e3a3922-01e3-4798-a1ac-076cc6a2bc31)
 
-**The background color property** allows users to customize the color of the infobox in the Re-Earth app. Users can select a specific color from a palette or enter a custom color value.
 
-- **Color Selection:** Users can choose a color from a predefined palette of colors. The palette may include a range of options such as primary colors, secondary colors, or a variety of shades and tones.
-- **Custom Color:** Users also have the option to enter a custom color value using a color picker or by manually specifying the color in hexadecimal, RGB, or HSL format. This allows for greater flexibility in matching the infobox color with the overall app theme or specific design requirements.
+**Color Selection:** You can select a color from the color palette. The palette provides a wide range of colors including primary colors, secondary colors, and various shades and tones to accommodate your design preferences.
 
-**Transparency:** In addition to choosing the background color, users can adjust the transparency of the infobox background. This property controls the opacity of the background color, allowing users to make it more or less transparent.
+**Custom Color:** If you have a specific color in mind, you can manually set the color in RGB or HSL format. This provides more flexibility in matching the infobox color to the overall theme of your app or specific design requirements.
 
-![Untitled](Infobox%20Properties%20cbe5ddc866c84903b41d55c0c1b24660/Untitled%205.png)
+**Transparency:** In addition to choosing a background color, you can adjust the transparency of the infobox background. This property controls the opacity of the background color, allowing you to make the background color transparent.
 <br>
 <br>
 
-- **L: Outline width:**- You can adjust the thickness of the infobox frame line using outline width. The outline width property allows you to adjust the thickness or width of the frame line surrounding the infobox. This property controls the visual appearance of the infobox border and lets you customize the outline to match the overall design or style of your app. By adjusting the outline width, you can make the infobox frame line thicker or thinner, providing visual emphasis or subtlety to the infobox content.
+- **K: Outline width** allows you to adjust the thickness of the infobox surrounding frame line. This property controls the visual appearance of the infobox border and lets you customize the outline to match the overall design or style of your app. By adjusting the outline width, you can make the infobox frame line thicker or thinner, providing visual emphasis or subtlety to the infobox content.
 
-![Untitled](Infobox%20Properties%20cbe5ddc866c84903b41d55c0c1b24660/Untitled%206.png)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/0b2cb331-2b14-4b08-a511-785cf8385254)
+
 <br>
 <br>
 
-**M:** **Outline color:** The **outline color property** in the Re-Earth app allows users to change the color of the infobox border. Users can select a specific color from a predefined palette or enter a custom color value.
+**L:** **Outline color** in allows users to change the color of the infobox border. Users can select a specific color from a predefined palette or enter a custom color value.
 
 - **Color Selection:** Users can choose a color from a range of predefined options provided in a color palette. The palette may include various colors, shades, and tones to accommodate different design preferences.
 - **Custom Color:** Alternatively, users have the flexibility to enter a custom color value using a color picker or by manually specifying the color in hexadecimal, RGB, or HSL format. This allows for precise control over the outline color, enabling users to match it with the overall design scheme or specific branding requirements.
 
-![Untitled](Infobox%20Properties%20cbe5ddc866c84903b41d55c0c1b24660/Untitled%207.png)
+By customizing the appearance of the infobox and visually distinguishing it, users can enhance or adjust the borders of the infobox in relation to other elements within Re:Earth, improving overall aesthetics and user experience.
 
-By offering the outline color property, the Re-Earth app empowers users to customize the appearance of infoboxes and make them visually distinctive. This feature allows users to highlight or coordinate the infobox border with other elements in the app, enhancing the overall aesthetics and user experience.
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/e367a6ad-cbba-433a-9ac7-c8a203f99c70)
 <br>
 <br>
 
-- **N: Use Mask:-** The "Use Mask" property in the Re-Earth app allows users to enhance the visibility and focus on the infobox by darkening the background map and highlighting the infobox itself.
+- **M: Use Mask** property allows users to enhance the visibility and focus on the infobox by darkening the background map and highlighting the infobox itself.
 
-![Untitled](Infobox%20Properties%20cbe5ddc866c84903b41d55c0c1b24660/Untitled%208.png)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/cb0a3e86-7a31-4a29-8b27-9a38b443811a)
 
-**When the "Use Mask" option is turned on for an infobox, the following effects can be observed:**
+Use Mask : ON
 
-- **Darkened Background:** The background map behind the infobox is dimmed or darkened, creating a contrast that helps draw attention to the infobox content. This technique reduces distractions from the surrounding map elements and directs the user's focus towards the information presented in the infobox.
-- **Infobox Highlight:** The infobox is visually highlighted, making it stand out from the rest of the map. This can be achieved by adjusting the brightness, saturation, or color contrast of the infobox, giving it a more prominent appearance.
-    
-    ![Untitled](Infobox%20Properties%20cbe5ddc866c84903b41d55c0c1b24660/Untitled.gif)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/9be50bdc-ee84-4e63-8b90-9d4ce0346f9e)
+
+Use Mask : OFF
+
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/5791d05b-917c-48a5-af61-21930d1d9d4f)
+
 <br>
 <br>
 
-- **O: Font:- This Property** Allows users to decide the **font size, typeface, and color.** As well as text **alignment and toggling bold, italic, and underline settings** for all text in the infobox.
+**N: Font** properties allow you to adjust the style, size, color, alignment, and weight of the title and text block text.
 
-![Untitled](Infobox%20Properties%20cbe5ddc866c84903b41d55c0c1b24660/Untitled%209.png)
+- **Font Family**: Choose the typeface for the title and text within the infobox. Selecting a font that aligns with your preferred design allows you to express the user's worldview.
 
+- **Font Size**: Adjust the size of the text within the infobox. You can either select a font size from the dropdown menu or specify your desired size.
 
-1. **Font Size:** The font size property allows users to adjust the size of the text within the infobox. Users can choose from various predefined font sizes or specify a custom size to suit their preferences or ensure readability.
-2. **Typeface:** Users have the flexibility to select the typeface or font family for the text in the infobox. Different typefaces can convey different styles or evoke specific moods, allowing users to customize the appearance of the infobox text to align with their design choices.
-3. **Font Color:** The font color property enables users to choose the color of the text in the infobox. Users can select from a color palette or specify a custom color using hexadecimal or RGB values. This allows for better contrast, readability, and visual appeal.
-4. **Text Alignment:** Users can determine the alignment of the text within the infobox. Options typically include left alignment, center alignment, right alignment, or justified alignment. This ensures that the text is appropriately positioned within the infobox, enhancing readability and visual balance.
-5. **Text Styling:** Users have control over text styling options such as bold, italic, and underline. These settings can be toggled on or off for individual text elements or applied to the entire infobox text. Text styling can be used to emphasize certain words or sections, add emphasis, or provide visual variety.
+- **Font Color**: Select the color of the text within the infobox. You can choose from the color palette or specify a custom color using RGB values. This enhances contrast, readability, and visual appeal.
+
+- **Text Alignment**: Specify the alignment of the text within the infobox. Typically, options include left-align, center-align, right-align, or justify. This ensures that the text is properly positioned within the infobox, improving readability and visual balance.
+
+- **Text Style**: Customize text styles such as bold, italic, and underline. These settings can be toggled on or off for individual text elements or applied to the entire text within the infobox. Text styling allows you to emphasize specific words or sections and add visual variety.
+
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/d6e0b836-a347-4c5e-9574-d51b33c73c59)
+
 <br>
 <br>
