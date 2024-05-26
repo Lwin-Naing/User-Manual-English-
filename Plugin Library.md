@@ -1,4 +1,6 @@
-# Overview
+# Plugin Library
+
+## Overview
 <br>
 The plugin system is one of the key features of Re:Earth. Users can extend the functionality of Re:Earth by developing their own plugins or using plugins developed by others within the community.
 
