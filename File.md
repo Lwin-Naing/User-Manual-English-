@@ -39,7 +39,7 @@ Click on the eye symbol on the right side of the file in the left panel to make 
 
 ![File5](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/938ada07-5ce5-42d5-97d4-bdafedc44315)
 
-![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/b5f63bad-83c5-4a8e-881a-d8c25859587c)
+![File6](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/464abd54-5089-4953-b947-66b403ace04e)
 
 <br>
 <br>
