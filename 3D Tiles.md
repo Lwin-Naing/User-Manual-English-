@@ -80,7 +80,8 @@ OSM Buildings is an open-source project that uses OpenStreetMap (OSM) data to ge
 3. You can enter a URL. 
 4. click the select button in the lower right corner.
 
-![Untitled 8](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/417c8758-b9bd-4d4b-b51c-1084fbc57565)
+![3Dtile9](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/4d6dc381-e8e3-4d82-bbf6-b7b4651d56f3)
+
 <br>
 <br>
 
@@ -91,7 +92,8 @@ OSM Buildings is an open-source project that uses OpenStreetMap (OSM) data to ge
 3. Select the uploaded jsond file in the asset. 
 4. Click the Select button in the lower right corner.
 
-![Untitled 9](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/789824a5-b8cb-4467-92ba-b3e2bcbbdec6)
+![3Dtile10](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/3bc581e8-9946-4250-95cb-b9f7b6736536)
+
 <br>
 <br>
 
