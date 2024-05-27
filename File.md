@@ -21,7 +21,8 @@ By specifying a URL, you can load external data.
 
 - When a file is dropped into the Re-Earth globe, the word "file" appears in blue in the layer on the left panel. This is the file that was dropped  in the Re-Earth globe. Also, as you drop More file icons, the more 3D tiles will appear in the layer.
 
-![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/277f90c4-f3b2-4d3e-a065-c00604986e6e)
+![File3](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/9db37b6e-094e-4727-bd35-0c10a6f8e52c)
+
 <br>
 <br>
 ### Renaming a file
