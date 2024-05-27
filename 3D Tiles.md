@@ -40,7 +40,7 @@ Click on the eye symbol on the right side of the 3D tile in the left panel to ma
 
 **Before Hiding 3D Tiles**
 
-![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/a14a4a6f-1c79-4644-b72d-24dea014e2eb)
+![3Dtile5](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/3f4319c4-2a1e-4ab0-8318-1002172e46d1)
 
 <br>
 <br>
