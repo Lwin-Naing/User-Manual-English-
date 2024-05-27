@@ -68,7 +68,8 @@ To delete a file, click on the file you wish to delete in the layers in the left
 3. You can enter a URL. 
 4. Click the Select button in the lower right corner.
 
-![Untitled 8](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/a70cec0c-17c3-43ac-bad3-3c5bc6f22926)
+![File9](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/05039fb1-1362-4bce-a16b-d9b876f8e02c)
+
 <br>
 <br>
 
