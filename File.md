@@ -37,7 +37,7 @@ Double-click on the letter of the file you want to rename in the layer, and you 
 
 Click on the eye symbol on the right side of the file in the left panel to make the 3D part on the globe disappear.
 
-![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/6cc592c7-7a47-45ab-b266-f387c258d3f1)
+![File5](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/938ada07-5ce5-42d5-97d4-bdafedc44315)
 
 ![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/b5f63bad-83c5-4a8e-881a-d8c25859587c)
 
