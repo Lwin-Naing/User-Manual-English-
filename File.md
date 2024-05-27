@@ -14,7 +14,7 @@ By specifying a URL, you can load external data.
 
 - In the Re-Earth globe, drag and drop the file icon to the desired location. (No symbol will appear at the time of drag and drop.)
 
-![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/efbd5fea-f135-4878-b3e2-90402432418d)
+![File2](https://github.com/CS-eukarya/User-Manual-Japanese-/assets/154571156/2d8de00a-eee2-4915-a9d7-2c5150f5b9ed)
 
 <br>
 <br>
