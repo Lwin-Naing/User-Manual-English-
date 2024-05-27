@@ -56,7 +56,8 @@ Click on the eye symbol on the right side of the 3D tile in the left panel to ma
 
 To delete a 3D tile, click on the 3D tile you wish to delete in the layers in the left panel, make sure it is selected in blue, and then press the "trash can" symbol on the right side of the layer to delete it.
 
-![Untitled 6](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/ecb8b5d3-2edb-4a44-89f3-55e8dfc4c66a)
+![3Dtile7](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/a8c0560f-5a68-49ee-bc06-62ec411be36a)
+
 <br>
 <br>
 
