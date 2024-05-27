@@ -65,7 +65,7 @@ To delete a 3D tile, click on the 3D tile you wish to delete in the layers in th
 
 The properties of a 3D tile allow you to set the following items
 
-![Untitled 7](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/89633bec-f79d-4529-96a8-8e5944b6f74d)
+![3Dtile8](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/eea9c78d-b122-4084-b0ef-b3b28132a34e)
 
 **A. Type:** Select from URL or OSMBuildings.
 
