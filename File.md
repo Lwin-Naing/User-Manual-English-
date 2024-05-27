@@ -48,7 +48,7 @@ Click on the eye symbol on the right side of the file in the left panel to make 
 
 To delete a file, click on the file you wish to delete in the layers in the left panel, make sure it is selected in blue, and then press the "trash can" symbol on the right side of the layer to delete it.
 
-![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/7d50706f-853f-4984-b4bf-4924f02ae524)
+![File7](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/5e80aa26-db86-4bb8-a173-a270a4dce881)
 
 <br>
 <br>
