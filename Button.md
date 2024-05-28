@@ -89,9 +89,6 @@ After you click on the **+ icon** the **Menu List** will be listed according to 
 ## Placing the camera movement button
 
 We will place a button that moves the camera to a specified position when clicked. This allows you to set the camera angle at the destination.
-
-
-![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/d0ed6280-8430-4411-847c-da3508b85e6c)
 <br>
 <br>
 
