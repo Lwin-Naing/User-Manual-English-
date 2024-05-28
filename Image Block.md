@@ -4,81 +4,71 @@ The Image Block is a component within an Infobox used for adding photos or image
 <br>
 <br>
 
-**Step 1**. To set the text for a specific layer, choose the desired layer from the left panel.
+**1**. To set the text for a specific layer, choose the desired layer from the left panel.
 
-**Step 2.** Choose the Infobox tab on the right panel.
+**2.** Choose the Infobox tab on the right panel.
 
-![image 37 (1).png](Image%20Block%20d75fac92b39d4fa78fea27601cacb501/image_37_(1).png)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/fd6f1293-7171-40ea-b595-dd55e74272ed)
 <br>
 <br>
 
-**Step 3.** Click on “Create Infobox”.
+**3.** Click on “Create Infobox”.
 
-![image 37 (2).png](Image%20Block%20d75fac92b39d4fa78fea27601cacb501/image_37_(2).png)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/d57d2e27-cd9c-49bc-8af1-ab222319ed56)
 <br>
 <br>
 
-**Step 4.** When the cursor is placed in the Infobox, a “+” sign appears and click on it.
+**4.** When the cursor is placed in the Infobox, a “+” sign appears and click on it.
 
-![image 37 (3) (1).png](Image%20Block%20d75fac92b39d4fa78fea27601cacb501/image_37_(3)_(1).png)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/72dd99fd-3e98-40e3-99a1-5eaaf7407540)
 <br>
 <br>
+**5.** After clicking plus sign and click on "Image” Icon.
 
-**Step 5.** After clicking plus sign and click on "Image” Icon.
-
-![Untitled](Image%20Block%20d75fac92b39d4fa78fea27601cacb501/Untitled.png)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/c7886ac4-7d88-4f10-99be-3cdef1722f5e)
 <br>
 <br>
+**6.** Click on the “Image” Icon in the left panel. 
 
-**Step 6.** Click on the “Image” Icon in the left panel. 
+**7.** Then click on the “Image” box in the right panel.
 
-**Step 7.** Then click on the “Image” box in the right panel.
-
-![Untitled](Image%20Block%20d75fac92b39d4fa78fea27601cacb501/Untitled%201.png)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/a8c7c313-d50a-45d4-921c-e7899cddebc6)
 <br>
 <br>
+**8.** Select the option to add an image from the available assets or insert an image using a URL.
 
-**Step 8.** Select the option to add an image from the available assets or insert an image using a URL.
-
-![image 38 (1).png](Image%20Block%20d75fac92b39d4fa78fea27601cacb501/image_38_(1).png)
-
-![image 38 (2).png](Image%20Block%20d75fac92b39d4fa78fea27601cacb501/image_38_(2).png)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/31468ce6-9300-42b5-9f56-a500280c11fd)
 <br>
 <br>
-
-**Step 9**: If you wish to include a title, enter the desired text in the provided field and add it. 
+**9**: If you wish to include a title, enter the desired text in the provided field and add it. 
 (Example: Mount Fuji)
 
-![Untitled](Image%20Block%20d75fac92b39d4fa78fea27601cacb501/Untitled%202.png)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/88e4d281-e011-4498-bc23-60b6cf90c89d)
 <br>
 <br>
+**10:** Turning on “Full size” will spread the image to fill the Infobox.。
 
-**Step 10:** Turning on “Full size” will spread the image to fill the Infobox.。
-
-![Untitled](Image%20Block%20d75fac92b39d4fa78fea27601cacb501/Untitled%203.png)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/ea93ad31-4866-4f6d-b7bc-1e2216c78a03)
 <br>
 <br>
-
-**Step 11.** To adjust the image display, choose "Cover/Contain" for the image size
+**11.** To adjust the image display, choose "Cover/Contain" for the image size
 
 **Cover:** The image is displayed with the center portion enlarged.
 
-![Untitled](Image%20Block%20d75fac92b39d4fa78fea27601cacb501/Untitled%204.png)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/c51389a0-66ec-492a-93aa-8b10fe50767a)
 <br>
 <br>
-
 **Contain:** The image is automatically adjusted to fit and display the entire image.
 
-![Untitled](Image%20Block%20d75fac92b39d4fa78fea27601cacb501/Untitled%205.png)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/bc9233ed-23bf-4dd7-8681-60bca05b2385)
 <br>
 <br>
+**12:** You can adjust the horizontal position of the image to the left, center, or right.
 
-**Step 12:** You can adjust the horizontal position of the image to the left, center, or right.
-
-![Untitled](Image%20Block%20d75fac92b39d4fa78fea27601cacb501/Untitled%206.png)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/cbddc50a-c42b-425a-933d-81056d848262)
 <br>
 <br>
+**13.** The vertical position can be adjusted to top, center, or bottom of the image.
 
-**Step 13.** The vertical position can be adjusted to top, center, or bottom of the image.
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/3497a793-b17d-42d5-be7a-ced0c48e953f)
 
-![Untitled](Image%20Block%20d75fac92b39d4fa78fea27601cacb501/Untitled%207.png)
