@@ -74,7 +74,7 @@ You can customize the look of your infobox using the options on the right side (
 
 - **K: Outline width** allows you to adjust the thickness of the infobox surrounding frame line. This property controls the visual appearance of the infobox border and lets you customize the outline to match the overall design or style of your app. By adjusting the outline width, you can make the infobox frame line thicker or thinner, providing visual emphasis or subtlety to the infobox content.
 
-![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/0b2cb331-2b14-4b08-a511-785cf8385254)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/3e5f4cbb-74d6-4ea6-af68-ef9d65773b61)
 
 <br>
 <br>
@@ -96,11 +96,11 @@ By customizing the appearance of the infobox and visually distinguishing it, use
 
 Use Mask : ON
 
-![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/9be50bdc-ee84-4e63-8b90-9d4ce0346f9e)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/ee555a63-0df9-4bf1-bb27-304e9f03bb81)
 
 Use Mask : OFF
 
-![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/5791d05b-917c-48a5-af61-21930d1d9d4f)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/dc849734-38ca-4b1e-b5ee-b0c53205ee5f)
 
 <br>
 <br>
