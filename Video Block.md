@@ -36,7 +36,8 @@ The Video Block allows you to add external videos via URL.
 <br>
 <br>
 
-8. A field to "Add Video URL" will appear. Paste your video URL and click "Save." 
+8. A field to "Add Video URL" will appear. Paste your video URL and click "Save."
+
 The video will now appear in the Info Box.
 For obtaining the URL of the video, please refer to the various video services.
 (How to get the video link on Youtube can be done from the video page sharing.)
