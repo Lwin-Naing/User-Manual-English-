@@ -20,13 +20,21 @@ Click on the settings icon that looks like a gear to locate the Workspace settin
 
 **(A) Workspace name:**
 
-This is a section where you can the name of the workspace a user has created. In this section, the user can rename the workspace. 
+This is a section where you can set the name of the workspace a user has created. 
+In this section, the user can rename the workspace. 
 
-![Untitled](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/7d18a9ae-07cf-4b3e-8fd7-b0193b1c00c5)
+![image 83](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/cb801046-205b-4ab7-859c-5012d566434e)
+
+![Rename 2](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/3e9d41ba-3765-46ff-a811-1583cba88d2c)
+<br>
+Click the pencil icon at the right end of the workspace name to make it editable.
+Enter the workspace name.
+Click the checkmark (✓) to change the workspace name.
+
 
 **(B) New member:**
 
-This section allows users to manage the members in the workspace. For details, please refer to [Managing Members](https://github.com/CS-eukarya/User-Manual-English-/blob/Workspace/Managing%20Members.md)
+This section allows users to manage the members within the workspace. For details, please refer to [Managing Members](https://github.com/CS-eukarya/User-Manual-English-/blob/Workspace/Managing%20Members.md)
 
 **(C) Delete Workspace:**
 
