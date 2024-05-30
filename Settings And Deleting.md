@@ -25,7 +25,8 @@ In this section, the user can rename the workspace.
 
 ![image 83](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/cb801046-205b-4ab7-859c-5012d566434e)
 
-![Rename 2](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/3e9d41ba-3765-46ff-a811-1583cba88d2c)
+![Rename 2](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/f425e11d-b22b-411f-9219-342a0099321a)
+
 <br>
 Click the pencil icon at the right end of the workspace name to make it editable.
 Enter the workspace name.
