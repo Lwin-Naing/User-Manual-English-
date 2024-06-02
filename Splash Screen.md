@@ -8,7 +8,7 @@ A splash screen is the initial screen displayed while a project is loading. It's
 ### Setting Up The Splash screen
 Click on 'Widgets' from the Outline tab in the left panel, then click on the '+' icon and select 'Splash Screen'.
 
-![Untitled](Splash%20Screen%205ef834bd4c4a4387910bdfcd1a89debe/Untitled.png)
+![2024-06-03_03h29_40](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/1814b744-33b0-4db6-8857-cee40fb68804)
 <br>
 <br>
 <br>
