@@ -1,6 +1,6 @@
 # Dataset Library
 
-In Re: Earth, any external data that is imported will become a dataset. This is the internal data storage form of the system. 
+All imported data is stored in Re:Earth as a dataset. For more information, see [Datasets]. 
 
 You can find the Dataset library here: Editor page —> Header menu —> Datasets
 
