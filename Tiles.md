@@ -11,13 +11,7 @@ Tile groups allow you to configure the map tiles displayed on digital Earth. You
 
 ![basic 1.png](Tiles%20759a5fb32fc64432865e641ca6858d85/basic_1.png)
 <br>
-<br>
 
-### What are tiles?
-
-There are several advantages to tiled maps. Each time the user pans, most of the tiles are still relevant and can be kept displayed, while new tiles are fetched. This greatly improves the user experience, compared to fetching a single map image for the whole viewport. It also allows individual tiles to be pre-computed, a task easy to parallelize. Also, displaying rendered images served from a web server is less computationally demanding than rendering images in the browser, a benefit over technologies such as Web Feature Service (WFS). While many map tiles are in raster format (a bitmap file such as PNG or JPG), the number of suppliers of vector tiles is growing. Vector tiles are rendered by the client browser, which can thus add a custom style to the map. Vector map tiles may also be rotated separately from any text overlay so that the text remains readable.
-<br>
-<br>
 
 ### Re-Earth tiles list
 
