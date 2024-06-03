@@ -1,9 +1,12 @@
 # Tiles
+<br>
 
-What are tiles?
+# What are tiles?
+
 Tiles are created by dividing the entire map into square segments and laying them out on digital Earth. This method allows for the efficient display of maps in various styles. By using tiles instead of a single map image for the entire viewport, it's possible to maintain high performance during zooming in and out, significantly enhancing the user experience.
+<br>
 
-Tile Groups
+# Tile Groups
 Tile groups allow you to configure the map tiles displayed on digital Earth. You can select from several existing tile sets or apply externally hosted map tiles by specifying a URL.
 
 ![basic 1.png](Tiles%20759a5fb32fc64432865e641ca6858d85/basic_1.png)
