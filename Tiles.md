@@ -138,7 +138,7 @@ You can change the order of the tiles by dragging them within the list.
 
 ![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/68a1085a-43ae-45f8-9b8c-59d3203d6b10)
 
-<br>
+
 ![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/edb441d7-2498-4bd5-9a72-0e42669ca652)
 
 Adjusting Transparency
