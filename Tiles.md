@@ -107,10 +107,13 @@ It is also possible to upload tile maps created with other software to the Inter
 (For QGIS)
 <br>
 ![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/2f0d50c3-d532-4a84-92db-91f75c316840)
+
 <br>
 
 ![image](https://github.com/CS-eukarya/User-ManualEnglish-/assets/154571156/33abd459-004d-4d39-82f4-d89ea3cfa652)
+
 <br>
+
 ![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/5f11f33f-fcc0-49f8-8854-f8b8e1f3b057)
 
 <br>
