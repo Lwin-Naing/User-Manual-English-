@@ -138,6 +138,7 @@ You can change the order of the tiles by dragging them within the list.
 
 ![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/68a1085a-43ae-45f8-9b8c-59d3203d6b10)
 
+<br>
 
 ![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/edb441d7-2498-4bd5-9a72-0e42669ca652)
 
@@ -146,27 +147,7 @@ You can change the order of the tiles by dragging them within the list.
 This function changes the transparency of the Earth.
 
   ![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/813edeae-a917-4289-bf3b-61a57ae28000)
+
 <br>
+
 ![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/167806c4-2e4e-4af7-a2df-63e694ad0569)
-
-
-
-
-
-### Zoom level
-
-Minimum zoom level: Sets the minimum zoom level for the tile data to be displayed.
-
-![rfgdg.png](Tiles%20759a5fb32fc64432865e641ca6858d85/rfgdg.png)
-
- Maximum zoom level: Sets the maximum zoom level for the tile data to be displayed.
-
-![ghj.png](Tiles%20759a5fb32fc64432865e641ca6858d85/ghj.png)
-<br>
-<br>
-
-### Opacity
-
-Provides the ability to change the transparency of Earth
-
-![sd.png](Tiles%20759a5fb32fc64432865e641ca6858d85/sd.png)
