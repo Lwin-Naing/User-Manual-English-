@@ -124,7 +124,8 @@ Tiles that are lower in the list appear as upper layers on the map.
 
 You can change the order of the tiles by dragging them within the list.
 <br>
-![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/7a278ff9-1f2b-4846-9ed2-c1b8b36ee14d)
+![png5_3](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/370dda68-e174-4156-886d-c2a57374eb50)
+
 <br>
 
 ### Switch Basemaps by Zoom Level
@@ -140,7 +141,8 @@ You can change the order of the tiles by dragging them within the list.
 
 <br>
 
-![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/edb441d7-2498-4bd5-9a72-0e42669ca652)
+![png5_2](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/f543ff61-bcf7-491a-84cd-a51fa2b0419e)
+
 
 ### Adjusting Transparency
 
