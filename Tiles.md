@@ -110,7 +110,8 @@ It is also possible to upload tile maps created with other software to the Inter
 
 <br>
 
-![image](https://github.com/CS-eukarya/User-ManualEnglish-/assets/154571156/33abd459-004d-4d39-82f4-d89ea3cfa652)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/39bec955-8240-42c7-8280-00b2247b0da9)
+
 
 <br>
 
