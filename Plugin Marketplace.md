@@ -20,38 +20,45 @@ The Re:Earth Marketplace will open in a new tab.
 
 ## How to add a plugin
 
+1. Browse the available plugins using search filters, and categories, or enter keywords in the search window to search for plug-ins.
+
 ![Untitled](Plugin%20Marketplace%20751f7a9caaff41c7a0d31a4a6e8529ff/Untitled%201.png)
 
-1. Browse the available plugins using search filters, and categories, or enter keywords in the search window to search for plug-ins.
 <br>
 <br>
+2. Click on a plugin to view its details, including its description, features, user reviews, and any necessary documentation.
 
 ![Untitled](Plugin%20Marketplace%20751f7a9caaff41c7a0d31a4a6e8529ff/Untitled%202.png)
-
-2. Click on a plugin to view its details, including its description, features, user reviews, and any necessary documentation.
 <br>
 <br>
-
-![Untitled](Plugin%20Marketplace%20751f7a9caaff41c7a0d31a4a6e8529ff/Untitled%203.png)
 
 3. If you find a plugin that suits your needs, you can typically download it by clicking on “open plugin in your **project**” to implement the plugin into your project.
-<br>
-<br>
 
-![Untitled](Plugin%20Marketplace%20751f7a9caaff41c7a0d31a4a6e8529ff/Untitled%204.png)
+![Untitled](Plugin%20Marketplace%20751f7a9caaff41c7a0d31a4a6e8529ff/Untitled%203.png)
+<br>
+<br>
 
 4. Select the workspace. 
 
-![Untitled](Plugin%20Marketplace%20751f7a9caaff41c7a0d31a4a6e8529ff/Untitled%205.png)
+![Untitled](Plugin%20Marketplace%20751f7a9caaff41c7a0d31a4a6e8529ff/Untitled%204.png)
 
-5~6. Choose the project to which you wish, then click on chose to add the plug-in.
+5. Select the project you want to add a plugin to and click the "Select" button. 
+
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/ce6a6ebc-1029-4abe-a771-58b8612eb3f4)
+
 <br>
 
-Once you click on install, the plugin will be successfully added. 
+6. Click on **install** button.
+
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/2042eb60-93d4-4d1d-9605-1bc7066666aa)
 <br>
 <br>
 
+7. If you see a notification that the installation is complete, the plugin has been installed successfully.
 
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/583ba192-fdcc-4b75-aa00-9777c1665e63)
+<br>
+<br>
 
 Additionally, you can click the heart button on the plugin page to add it to your favorites.
 
