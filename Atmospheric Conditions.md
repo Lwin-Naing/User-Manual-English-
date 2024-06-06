@@ -124,7 +124,10 @@ This primarily involves adjustments to enhance the visual appearance of the glob
 <br>
 
 -**On**
-![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/50be1143-267d-482c-8c74-b5a686f290bb)
+<br>
+
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/ca808f69-1930-4323-b832-cf7106740cb0)
+
 
 
 ![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/e2c81c45-a9a5-44c6-8f71-f92f932dc7d0)
