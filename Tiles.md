@@ -141,7 +141,8 @@ You can change the order of the tiles by dragging them within the list.
 
 ![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/edb441d7-2498-4bd5-9a72-0e42669ca652)
 
-Adjusting Transparency
+### Adjusting Transparency
+
 This function changes the transparency of the Earth.
 
   ![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/813edeae-a917-4289-bf3b-61a57ae28000)
