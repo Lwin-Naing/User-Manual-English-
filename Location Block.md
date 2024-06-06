@@ -2,7 +2,7 @@
 
 The location block allows users to put a map in the **infobox.**
 
-### Setup Instructions
+## Setup Instructions
 
 1. In the left panel, choose the layer where you want to insert the map.
 2. In the right panel, select the "Info Box" tab.
