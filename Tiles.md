@@ -8,8 +8,8 @@ Tiles are created by dividing the entire map into square segments and laying the
 
 # Tile Groups
 Tile groups allow you to configure the map tiles displayed on digital Earth. You can select from several existing tile sets or apply externally hosted map tiles by specifying a URL.
-
-![basic 1.png](Tiles%20759a5fb32fc64432865e641ca6858d85/basic_1.png)
+<br>
+![image 85](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/8a9cfdff-2900-4e26-926c-d582f3b2fa8f)
 <br>
 
 
