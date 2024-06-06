@@ -1,12 +1,8 @@
 # Terrain
 
-## Terrain manual
+### What is Topography
 
-### Overview
-
-The Terrain is used to add the lay of Land in Re-Earth, both in 2D and 3D.
-
-**It has five features:** On/Off-Terrain; Terrain type comprises Cesium World Terrain, ArcGIS Terrain, and Cesium Ion. Terrain also has Terrain exaggeration, Terrain exaggeration relative, height, and Hide objects under Terrain as some of its features
+Topography is used In terrain mapping, if the map tiles include elevation data, you can switch between three-dimensional and two-dimensional terrain representations. Enable this feature for a three-dimensional terrain view.
 
 ## Terrain Overview Diagram
 
@@ -44,7 +40,7 @@ Once the Re-earth app workspace opens, log in to the project dashboard, Click on
 <br>
 <br>
 
-## Features of Terrain
+## Properties of Terrain
 
 ***The diagram below shows Terrain features***
 
@@ -126,21 +122,25 @@ choosing **Cesium Ion** will give you the option to input your **Terrain Cesium 
 
   
 
-![Untitled](Terrain%2001aa64219103428bb935fa6d3b813f27/Untitled%2015.png)
+![Cesium Ion img](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/35eea36c-558c-43f6-9595-4dece34bd89c)
+
 
  **Diagram of Cesium Ion and its component**
 
 **Cesium Ion Asset ID:** Input your cesium Ion ID which you have already created and have access to.
 
-![Untitled](Terrain%2001aa64219103428bb935fa6d3b813f27/Untitled%2016.png)
+![cesium 1](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/eedc42a7-fa6e-4e0c-b2ea-2979b72083f3)
 
-**Terrain Cesium Ion Access Token**: Input the token generated in the Cesium Ion that you are working on.
 
-![Untitled](Terrain%2001aa64219103428bb935fa6d3b813f27/Untitled%2017.png)
+**Cesium Ion Access Token**: Input the token generated in the Cesium Ion that you are working on.
 
-**Terrain URL:** paste the URL of the Cesium Ion you created.
+![cesium 2](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/cd3255a9-3d1d-4260-98fd-43adb1f204a6)
 
-![Untitled](Terrain%2001aa64219103428bb935fa6d3b813f27/Untitled%2018.png)
+
+**Cesium Ion Terrain URL:** paste the URL of the Cesium Ion you created.
+
+![cesium 3](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/deb25bb3-a439-493b-b756-2c1f723aea5e)
+
 <br>
 <br>
 
