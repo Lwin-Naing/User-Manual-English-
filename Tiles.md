@@ -13,17 +13,20 @@ Tile groups allow you to configure the map tiles displayed on digital Earth. You
 <br>
 
 
-### Re-Earth tiles list
+### Futures of Tile
+When you click on a tile from the tile list, its details will expand.
 
-The Tiles settings are comprised of a Tile List that shows all the map tiles to be displayed on the Digital Earth and settings for the currently selected tile. You can choose from several existing map tiles, or you can apply externally distributed map tiles by specifying a URL.
+A. Plus Icon: Adds a tile.
 
-![456 2.png](Tiles%20759a5fb32fc64432865e641ca6858d85/456_2.png)
+B. Trash Bin: Deletes a tile.
 
-Click on the Plus Button: Add a tile.
+C. Type: Select the type of tile. (Refer to details below)
 
-Click on Trash Button: Delete a tile.
-<br>
-<br>
+D. Minimum Level: Sets the minimum zoom level for displaying tile data.
+
+E. Maximum Level: Sets the maximum zoom level for displaying tile data.
+
+F. Opacity: Adjusting the opacity slider allows you to change the map's transparency.
 
 ### Tile type
 
