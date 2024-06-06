@@ -4,7 +4,7 @@ A text block is a tool used for creating sentences within an info box. A text bl
 <br>
 <br>
 
-### How to Create A Text Layer On the Re-Earth App
+## Setup Instructions
 
 **1.** Choose the Marker you want to add text to from the left panel, then click the infobox.
 
