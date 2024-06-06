@@ -4,6 +4,8 @@ The Image Block is a component within an Infobox used for adding photos or image
 <br>
 <br>
 
+## Setup Instructions 
+
 **1**. To set the text for a specific layer, choose the desired layer from the left panel.
 
 **2.** Choose the Infobox tab on the right panel.
