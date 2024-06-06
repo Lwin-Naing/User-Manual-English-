@@ -34,9 +34,9 @@ Let's take the storytelling control buttons as an example and look at each featu
 
 ### A. Re: Earth Dark Theme:
 
-    The Re: Earth Dark Theme is the first type of theme in the Re-earth App. it is the difficult theme for Re-earth. 
+   The Re: Earth Dark Theme is the first type of theme in the Re-earth App. it is the difficult theme for Re-earth. 
 
-    It's a beautiful, immersive dark mode that's optimized for low-light settings, with enhanced color contrast and improved readability. 
+   It's a beautiful, immersive dark mode that's optimized for low-light settings, with enhanced color contrast and improved readability. 
 
   ![Image test 1](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/066e052b-d58c-4f9c-a10c-5e35f79c2cd1)
 
