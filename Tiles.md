@@ -148,8 +148,10 @@ You can change the order of the tiles by dragging them within the list.
 
 This function changes the transparency of the Earth.
 
-  ![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/813edeae-a917-4289-bf3b-61a57ae28000)
+ ![Default img 2](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/60614844-524d-4ed4-aee0-66b4667b0490)
+
 
 <br>
 
-![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/167806c4-2e4e-4af7-a2df-63e694ad0569)
+![Default img 3](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/bdb112ae-9323-408a-b5fb-49547029fee0)
+
