@@ -56,7 +56,7 @@ The Re:Earth Marketplace will open in a new tab.
 
 7. If you see a notification that the installation is complete, the plugin has been installed successfully.
 
-![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/583ba192-fdcc-4b75-aa00-9777c1665e63)
+![Marketplace7](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/3f83a256-376f-4fd4-8a58-546f6938d0e3)
 <br>
 <br>
 
