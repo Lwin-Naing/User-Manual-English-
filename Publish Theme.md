@@ -4,7 +4,8 @@
 With Publish Theme, you can choose from different themes designed to suit your needs. Selecting a publish Theme lets you change the look of your project in the Re-Earth app. The difficult theme for the Re-Earth app is the ReEarth Dark Theme
 <br>
 <br>
-![publish theme](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/ac623d6c-b4f8-4042-b8bd-48aa7f6e4f05)
+
+![2024-06-07_14h54_29](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/8dfb65cf-ff9f-4f8b-8337-a06e548bb33c)
 
 <br>
 <br>
@@ -21,7 +22,7 @@ With Publish Theme, you can choose from different themes designed to suit your n
 
 <br>
 
-![publish theme locate 2](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/8f164dbe-c52b-4169-bd00-77b53bbca477)
+![2024-06-07_14h56_57](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/a0cfdb15-5550-43b5-8006-0cb2069d390d)
 
 
 ## Types Of Publish Themes
@@ -70,7 +71,8 @@ The Custom theme gives you different functions to select from, Such as Text colo
 
 <br>
 
-![Image test 2](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/2d4173f3-60de-4372-8132-2198036d3dc9)
+![2024-06-07_15h00_59](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/30574456-b73b-40b9-bd40-b1c4e647a544)
+
 
 <br>
 
