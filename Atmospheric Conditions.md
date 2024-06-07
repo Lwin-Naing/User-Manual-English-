@@ -155,13 +155,13 @@ Toggle on / showing the fog
 ![58 1.png](Atmospheric%20Conditions%201be85055d5a747cbb2ab215b2e08c960/58_1.png)
 <br>
 
-A. Density: Enter a value between 0 and 1. The higher the value, the thicker the fog.
+A. Density: Set a thickness to the fog. The higher the value, the thicker the fog. Min: 0 / Max : 1
 
-B. Brightness: Enter a value between -1 and 1. The higher the value, the brighter the color.
+B. Brightness:Set brightness of the fog. The higher the value, the brighter the color.  Min: -1 / Max : 1
 
-C. Hue: Enter a value between -1 and 1. 1 blue, 0.7 green, 0.6 yellow, 0.4 red, 0.2 purple, etc.
+C. Hue: Set hue of the fog. 1 blue, 0.7 green, 0.6 yellow, 0.4 red, 0.2 purple, etc. Min: -1 / Max : 1
 
-D. Saturation: Enter a value between -1 and 1. The higher the value, the more saturation.
+D. Saturation: Set saturation of the fog. The higher the value, the more saturation. Min: -1 / Max : 1
 
 Examples of expressions (fog, sunset, end of the world, submerged city, etc.
 <br>
@@ -178,42 +178,3 @@ Examples of expressions (fog, sunset, end of the world, submerged city, etc.
 ![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/d50b5957-0c27-4956-ade6-350390969c45)
 
 
-
-<br>
-### Fog density
-
-Set a thickness to the fog . Min: 0 / Max : 1
-
-Sets the fog density.
-
-![sef.png](Atmospheric%20Conditions%201be85055d5a747cbb2ab215b2e08c960/sef.png)
-<br>
-<br>
-
-### Fog Brightness
-
-Set brightness of the fog. Min: -1 / Max : 1
-
-Set the brightness of the fog . 
-
-![dfgdf3.png](Atmospheric%20Conditions%201be85055d5a747cbb2ab215b2e08c960/dfgdf3.png)
-<br>
-<br>
-
-### Fog Hue
-
-Set hue of the fog . Min: -1 / Max : 1
-
-Sets the color of the fog 
-
-![dg.png](Atmospheric%20Conditions%201be85055d5a747cbb2ab215b2e08c960/dg.png)
-<br>
-<br>
-
-### Fog Saturation
-
-Set saturation of the fog . Min: -1 / Max : 1
-
-Sets the saturation of the fog.
-
-![drfhg.png](Atmospheric%20Conditions%201be85055d5a747cbb2ab215b2e08c960/drfhg.png)
