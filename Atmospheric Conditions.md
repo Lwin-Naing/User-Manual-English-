@@ -140,19 +140,8 @@ You can change the color of the globe's atmosphere.
 
 When you turn on fog, you can change its density, lightness, hue, and saturation.
 
-Toggle off / hiding the fog 
+![fog](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/642369f4-492f-427b-abc0-98426e947eea)
 
-![Screenshot 2023-02-08 130920.png](Atmospheric%20Conditions%201be85055d5a747cbb2ab215b2e08c960/Screenshot_2023-02-08_130920.png)
-
-![54 1.png](Atmospheric%20Conditions%201be85055d5a747cbb2ab215b2e08c960/54_1.png)
-
-
-<br>
-Toggle on / showing the fog 
-
-![ghjgh.png](Atmospheric%20Conditions%201be85055d5a747cbb2ab215b2e08c960/ghjgh.png)
-
-![58 1.png](Atmospheric%20Conditions%201be85055d5a747cbb2ab215b2e08c960/58_1.png)
 <br>
 
 A. Density: Set a thickness to the fog. The higher the value, the thicker the fog. Min: 0 / Max : 1
@@ -163,7 +152,9 @@ C. Hue: Set hue of the fog. 1 blue, 0.7 green, 0.6 yellow, 0.4 red, 0.2 purple, 
 
 D. Saturation: Set saturation of the fog. The higher the value, the more saturation. Min: -1 / Max : 1
 
-Examples of expressions (fog, sunset, end of the world, submerged city, etc.
+<br>
+
+&emsp;Examples of expressions (fog, sunset, end of the world, submerged city, etc.
 <br>
 
 ![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/d33c89cc-6d63-4f9d-a618-01092e52e3e4)
