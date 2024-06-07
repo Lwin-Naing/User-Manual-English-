@@ -9,7 +9,8 @@ This primarily involves adjustments to enhance the visual appearance of the glob
 <br>
 ### Atmosphere Propartices in the Re-Earth APP are as follows:
 
-![image 86](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/f73148c3-bea7-413b-b6e9-5181192a4587)
+![Atmospheric Conditions1](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/455ba027-5e0f-4157-abc6-6f8afd4092eb)
+
 
 
 **A. Sun:** Toggles between showing and hiding the sun in space.
@@ -36,10 +37,12 @@ This primarily involves adjustments to enhance the visual appearance of the glob
 ### Sun
 **off / No Sun**
 
-![sdf.png](Atmospheric%20Conditions%201be85055d5a747cbb2ab215b2e08c960/sdf.png)
+![Atmospheric Conditions2](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/3b30de39-b86a-4188-9268-f392b7d71069)
 
 
-![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/2f1b01c0-8107-4b5c-a318-e8a462aac926)
+
+![Atmospheric Conditions3](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/5feabd5f-aad7-4944-b65f-9f305aef0df4)
+
 
 <br>
 <br>
@@ -47,9 +50,11 @@ This primarily involves adjustments to enhance the visual appearance of the glob
 
 **on / with Sun**
 
-![dfgfd.png](Atmospheric%20Conditions%201be85055d5a747cbb2ab215b2e08c960/dfgfd.png)
+![Atmospheric Conditions4](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/b253a190-6d68-4ac8-a132-23e3ff2013df)
 
-![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/2517ee8c-1b96-48c7-ab45-cbcb5e7ff953)
+
+![Atmospheric Conditions5](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/c5f6276d-5f97-455d-bb5c-bca810990754)
+
 
 <br>
 
@@ -58,18 +63,22 @@ This primarily involves adjustments to enhance the visual appearance of the glob
 
 **-off / No Lighting**
 
-![sdfd.png](Atmospheric%20Conditions%201be85055d5a747cbb2ab215b2e08c960/sdfd.png)
+![Atmospheric Conditions6](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/49462b29-a6ac-4661-864f-ed135bf88cd8)
 
-![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/de773647-7d0e-456b-823d-e7359d0cce30)
+
+![Atmospheric Conditions7](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/c663b37e-53c4-4936-b26d-ef1b7c32f9fc)
+
 
 
 <br>
 
 **-on / with Lighting**
 
-![sdfsd.png](Atmospheric%20Conditions%201be85055d5a747cbb2ab215b2e08c960/sdfsd.png)
+![Atmospheric Conditions8](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/1de8fecc-6d9a-4e78-9c79-7df3fa4c1695)
 
-![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/516596d1-dc83-4c1f-a085-305ae187c110)
+
+![Atmospheric Conditions9](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/b7cf3121-2a83-4fa0-9c23-29e4e31685bc)
+
 
 
 <br>
@@ -79,17 +88,20 @@ This primarily involves adjustments to enhance the visual appearance of the glob
 
 **-off / hiding the atmosphere**
 
-![dfgdf.png](Atmospheric%20Conditions%201be85055d5a747cbb2ab215b2e08c960/dfgdf.png)
+![Atmospheric Conditions10](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/941f56b5-43dc-4577-b38c-e733371c97d7)
 
-![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/c8a45098-9c72-487c-acb0-173650126788)
+
+![Atmospheric Conditions11](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/a27cb9fb-b085-4656-89d7-47ec8e028498)
+
 
 <br>
 
 **-on / showing the atmosphere**
 
-![584.png](Atmospheric%20Conditions%201be85055d5a747cbb2ab215b2e08c960/584.png)
+![Atmospheric Conditions12](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/39b9e82d-db9d-4bb9-876a-5441f21dff90)
 
-![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/daa75b3e-69fb-44da-8010-a3bc39c069b1)
+
+![Atmospheric Conditions13](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/f99fc5d5-85ef-4150-9080-5f3b6f6724b3)
 
 <br>
 
@@ -100,37 +112,44 @@ This primarily involves adjustments to enhance the visual appearance of the glob
 
 **-off / hiding the atmosphere aura**
 
-![dh.png](Atmospheric%20Conditions%201be85055d5a747cbb2ab215b2e08c960/dh.png)
+![Atmospheric Conditions14](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/7ec416df-9bd2-49d5-8ea6-974448638eeb)
 
-![ytr 1.png](Atmospheric%20Conditions%201be85055d5a747cbb2ab215b2e08c960/ytr_1.png)
+
+![Atmospheric Conditions15](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/6cee3964-a220-4e4c-9532-ddb14e9db295)
+
 <br>
 
 **-on / showing the atmosphere aura**
 
-![بل](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/1acc086e-9620-43f0-961a-93924ae9290f)
+![Atmospheric Conditions16](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/53774a3d-cb20-44d7-8ae7-a31c881904e0)
+
+![Atmospheric Conditions17](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/25426a2c-5708-444e-8224-a69673cd247f)
 
 
-![e 1.png](Atmospheric%20Conditions%201be85055d5a747cbb2ab215b2e08c960/e_1.png)
 <br>
 <br>
 
 ### Shadow
 **-off**
 
-![dfvbfc.png](Atmospheric%20Conditions%201be85055d5a747cbb2ab215b2e08c960/dfvbfc.png)
+![Atmospheric Conditions18](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/a2b4e4b2-df76-43ef-be2a-0c022547e29e)
 
-![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/beac8f61-2b49-41c8-af2e-699e97a8a7c6)
+
+![Atmospheric Conditions19](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/01debbdd-ea1f-4ad8-8625-2ef431d64c32)
+
 
 <br>
 
 -**On**
 <br>
 
-![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/ca808f69-1930-4323-b832-cf7106740cb0)
+![Atmospheric Conditions20](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/2f52d005-e7b0-404b-86b6-87ca3933b3af)
 
 
 
-![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/e2c81c45-a9a5-44c6-8f71-f92f932dc7d0)
+
+![Atmospheric Conditions21](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/060a5d9c-856f-4126-87e5-464983527df2)
+
 
 <br>
 <br>
@@ -140,7 +159,8 @@ You can change the color of the globe's atmosphere.
 
 When you turn on fog, you can change its density, lightness, hue, and saturation.
 
-![fog](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/642369f4-492f-427b-abc0-98426e947eea)
+![Atmospheric Conditions22](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/cb59bebe-6b70-40ae-ac06-a231d1c28aa3)
+
 
 <br>
 
@@ -157,15 +177,19 @@ D. Saturation: Set saturation of the fog. The higher the value, the more saturat
 &emsp;Examples of expressions (fog, sunset, end of the world, submerged city, etc.
 <br>
 
-![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/d33c89cc-6d63-4f9d-a618-01092e52e3e4)
+![Atmospheric Conditions23](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/3bcbee86-246d-42b0-b02d-7df965a8db5a)
 
 
-![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/a16f4072-e72c-4ecc-90f5-ad5b421b3088)
+
+![Atmospheric Conditions24](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/8449fbde-543f-49de-88a4-303476c61852)
 
 
-![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/e419cb3e-320a-40b6-8b21-b9ff4cfe274e)
+
+![Atmospheric Conditions25](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/96600f4d-a5a8-41a5-8a81-aca840894269)
 
 
-![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/d50b5957-0c27-4956-ade6-350390969c45)
+
+![Atmospheric Conditions26](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/fafefc4b-6e7e-4d94-8a6b-252ab4957806)
+
 
 
