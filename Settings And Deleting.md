@@ -6,7 +6,7 @@ The Re-Earth APP workspace Settings is a section that users can use to edit basi
 <br>
 <br>
 
-**Locating the Settings**
+### Locating the Settings
 
 Click on the settings icon that looks like a gear to locate the Workspace settings
 
@@ -27,11 +27,14 @@ In this section, the user can rename the workspace.
 
 ![Rename 2](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/f425e11d-b22b-411f-9219-342a0099321a)
 
-<br>
-Click the pencil icon at the right end of the workspace name to make it editable.
-Enter the workspace name.
-Click the checkmark (✓) to change the workspace name.
 
+1. Click the pencil icon at the right end of the workspace name to make it editable.
+
+2. Enter the workspace name.
+
+3. Click the checkmark (✓) to change the workspace name.
+
+<br>
 
 **(B) New member:**
 
