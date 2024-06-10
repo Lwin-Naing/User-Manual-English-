@@ -10,60 +10,65 @@ A text block is a tool used for creating sentences within an info box. A text bl
 
 **2.** Choose the Infobox tab on the right panel.
 
-![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/c4495504-6ee5-42ac-9023-57636ba9d308)
+![Text Block1,2](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/dc6b6b9d-aafd-4966-b399-b6b16e58cc18)
 <br>
 <br>
 
 **3.** Click "Create Infobox".
 
-![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/f11c133b-340b-459c-94ac-48636bb5e069)
+![Text Block3](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/7bf99a4e-55f0-499c-b6d4-7beccb966104)
 <br>
 <br>
 
 **4.** When you hover over the Info Box, a "+" symbol will appear. 
 
-![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/b6149c7d-a6f2-40bd-98fb-544350cf776a)
+![Text Block4](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/885f7bb9-109f-42be-9f64-c5ae7612f775)
 <br>
 <br>
 
 **5.** Click on the "+" sign and select "Text".
 
-![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/a65217ca-79f9-43da-85a5-db1cf0279a7f)
+![Text Block5](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/650ad574-3c30-4230-aeae-82a43964892a)
 <br>
 <br>
 
 **6.** Click on the "Text" block on the left.
 
-![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/3f93e326-78b0-4ef6-958a-b17d729d2d1c)
+![Text Block6](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/419c9d4f-9175-4aad-90e9-413e5da68466)
 <br>
 <br>
 
-7. If a title is required, you can set the title. 
+**7.** If a title is required, you can set the title. 
 
-![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/4fc25d05-4948-48cc-b087-40aa8d2a81a9)
+![Text Block7](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/15005511-79a6-42bc-b33d-c2fea760972e)
 <br>
 <br>
-8. You can enter the main text content in the body.
 
-![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/ebfdcb44-547f-4f88-8b38-3f1f08ff1c40)
+**8.** You can enter the main text content in the body.
+
+![text Block8](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/e6c1a460-d3f9-449c-93f6-7b0b8d9864aa)
 <br>
 <br>
-9. If you want to add text in Markdown format, you can enable Markdown. 
+
+**9.** If you want to add text in Markdown format, you can enable Markdown. 
 
 > Markdown is a lightweight markup language that allows you to clearly express document structure with simple notation such as "# Heading" and "* List", and convert it into decorated HTML documents.
 >
-![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/b032eea2-a33b-4e08-b170-4bd0e66ea9a2)
+![Text Block9](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/cbf10c84-4a54-4ac0-a825-a03acdfd5222)
 <br>
 <br>
-10. You can set margins. (Margin setting range: 0 to 40px)
 
-![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/94cc310e-ca87-4b43-ac4a-dfe9c585c8cc)
+**10.** You can set margins. (Margin setting range: 0 to 40px)
+
+![Text Block10](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/f7d62e4a-bc7a-4a5b-8148-cd25bf941470)
 <br>
 <br>
-11. You can adjust the font of the text, including font, size, color, position, and weight.
+
+**11.** You can adjust the font of the text, including font, size, color, position, and weight.
 The font of the title can also be adjusted in the same way.
 
-![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/5e31ea95-2e36-4017-b2cc-1823f611e178)
+![Text Block11](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/0cfa34c3-280c-4ccf-822d-e69a3dd6fce1)
+
 <br>
 <br>
 
