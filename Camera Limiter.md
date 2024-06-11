@@ -4,7 +4,7 @@
 
 範囲を制限すると、マップの移動やズームアウトできる範囲を制限することができます。
 
-![%E3%82%AB%E3%83%A1%E3%83%A9%E7%AF%84%E5%9B%B2%E5%88%B6%E9%99%90%2006b04c997f5041f39432d56bd93e6bca/png4_3.gif](%E3%82%AB%E3%83%A1%E3%83%A9%E7%AF%84%E5%9B%B2%E5%88%B6%E9%99%90%2006b04c997f5041f39432d56bd93e6bca/png4_3.gif)
+![png4_3](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/15113f83-4210-4597-a10a-cad244360a36)
 
 <br>
 <br>
