@@ -2,80 +2,36 @@
 
 ### What is Timeline?
 
-The Timeline view is the main view used when adjusting the timing of drawings, adding keyframes, and ordering layers. The Timeline view displays layers, effects,  keyframe values, scene length, layer names, drawings, keyframes, timing, Ranges, and frames.
+The "Timeline" feature is a tool that visually displays changes in data over time. Users can easily see changes and transitions in data at specific points in time, and can analyze data from the past, present, and future using the timeline. This feature is used to adjust the timing of drawings, add keyframes, and arrange layers in order.
+
+When motion is set for a 3D object, it is activated as an animation for the object. In addition, you can use the timeline function built into Cesium.
+
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/bb83eb39-e778-422a-b3a3-84894259d7ce)
+  
 <br>
 <br>
 
-### Here you can customize settings related to the timeline :
+## Timeline Properties
 
-![er 1.png](Timeline%208af92ac99b0f40f1b2ab5aa928bd9c24/er_1.png)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/54c7b584-35dc-4c29-b23e-c044b715b9ad) 
+<br>
+<br>
+A. Enable timeline playback.This will start the 3D model animation.(You also need to turn on the animation in the 3D model properties.)
 
-![dfgdf.png](Timeline%208af92ac99b0f40f1b2ab5aa928bd9c24/dfgdf.png)
+B. Show the timeline UI.
+
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/19484287-354b-4253-a651-e382403eedde)
 <br>
 <br>
 
-### Animation
+C. Enter the current time.
 
-To set your animation timing, you will mostly work with the Timeline  views. It's extremely useful to become familiar with the Timeline view, how it works, and its interface.
+D. Set the animation playback start time. (If nothing is set, it will be automatically set based on the data being displayed.)
 
-Enables animation play . if enabled, each 3D models can animate
+E. Set the animation playback end time. (If nothing is set, it will be automatically set based on the data being displayed.)
 
-![sdf.png](Timeline%208af92ac99b0f40f1b2ab5aa928bd9c24/sdf.png)
-<br>
-<br>
+F. Specify the playback speed method. Choose from "Rate" or "Fixed."
 
-### Timeline
+G. Specify the playback speed as a multiple of real-time speed. Negative values can also be specified. The default is 1x.
 
-The Timeline view allows you to read your timing from left to right. It represents the scenes elements in their simplest form. You can also see the layers and their names
-
-![sd.png](Timeline%208af92ac99b0f40f1b2ab5aa928bd9c24/sd.png)
-
-![88 1.png](Timeline%208af92ac99b0f40f1b2ab5aa928bd9c24/88_1.png)
-<br>
-<br>
-
-### Current time
-
-![edt.png](Timeline%208af92ac99b0f40f1b2ab5aa928bd9c24/edt.png)
-<br>
-<br>
-
-### Start time
-
-if nothing is set, it will be set automatically according to the data being displayed 
-
-![sdfsd.png](Timeline%208af92ac99b0f40f1b2ab5aa928bd9c24/sdfsd.png)
-<br>
-<br>
-
-### Stop time
-
-if nothing is set, it will be set automatically according to the data being displayed
-
-![wefwe.png](Timeline%208af92ac99b0f40f1b2ab5aa928bd9c24/wefwe.png)
-<br>
-<br>
-
-### Tick type
-
-how to specify the playback speed
-
-![684 2.png](Timeline%208af92ac99b0f40f1b2ab5aa928bd9c24/684_2.png)
-<br>
-<br>
-
-### Multiplier
-
-Specifies the playback speed in seconds . as a multiple of the real time speed.
-
-Negative values can also be specified. Default is 1x.
-
-![964.png](Timeline%208af92ac99b0f40f1b2ab5aa928bd9c24/964.png)
-<br>
-<br>
-
-### Range
-
-Specifies the playback speed in seconds. Negative values can also be specified
-
-![df 1.png](Timeline%208af92ac99b0f40f1b2ab5aa928bd9c24/df_1.png)
+H. Specify how to handle the situation when the current time reaches the end time. Choose from "Unbounced," "Clamped," or "Bounced."
