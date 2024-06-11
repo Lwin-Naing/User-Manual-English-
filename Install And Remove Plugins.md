@@ -8,7 +8,7 @@ This section explains how to install and remove plugins.
 
 「公開プラグイン」をインストールする方法と「個人プラグイン」をインストールする方法です。
 
-違いについては[プラグインライブラリ](https://github.com/CS-eukarya/User-Manual-Japanese-/blob/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88/%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA.md)をご覧ください。
+違いについては[プラグインライブラリ](https://github.com/CS-eukarya/User-Manual-English-/blob/Project/Plugin%20Library.md)をご覧ください。
 
 <br>
 
@@ -17,19 +17,20 @@ This section explains how to install and remove plugins.
 1. プラグインライブラリにアクセスし、「プラグインマーケットプレイス」を選択します。
 2. インストールしたいプラグインを選択します。
 
-![マーケットプレイスから１](https://github.com/CS-eukarya/User-Manual-Japanese-/assets/154571156/efa6f5d3-0907-4624-96cc-ee46db4905f2)
+![plugin1,2](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/e4c77c87-4ae9-4370-878a-c8261cd6f48b)
 
 <br>
     
 3. インストールをクリックします。
 
-![マーケットプレイスから２](https://github.com/CS-eukarya/User-Manual-Japanese-/assets/154571156/ad79ecb0-e215-40ee-b337-aad2495a5222)
+![plugin3](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/3716397d-e937-4bbd-9cb5-62529d7383cc)
+
 
 <br>
 
 4. 通知が表示されれば、プラグインは正常にインストールされています。
 
-![マーケットプレイスから３](https://github.com/CS-eukarya/User-Manual-Japanese-/assets/154571156/9cc39b10-2bd5-4375-80f5-84b1f0e0cbbd)
+![plugin4](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/a04cbc2a-f44d-4033-bc13-5d833d291a09)
 
 <br>
 
@@ -115,19 +116,21 @@ There is an error in the format of reearth.yml.
 
 1. プラグインライブラリから、「公開インストール済み」のタブをクリックします。
 
-![プラグイン削除１](https://github.com/CS-eukarya/User-Manual-Japanese-/assets/154571156/043c1c06-92f9-437e-8f7e-bd5231c727e2)
+![plugin delete1](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/f3c33305-4fa2-44b5-a67d-ef057ad30317)
+
 
 <br>
 
 2. 削除対象のプラグインの「アンインストール」をクリックします。
 
-![プラグイン削除２](https://github.com/CS-eukarya/User-Manual-Japanese-/assets/154571156/4f6ed882-c082-47ca-af14-e856a250f120)
+![plugin delete2](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/076b6ff7-a8e3-416d-9904-d24eb8d6141f)
 
 <br>
 
 3. 通知が表示され、リストからプラグインが削除されていれば、正常にプラグインは削除されています。
 
-![プラグイン削除３](https://github.com/CS-eukarya/User-Manual-Japanese-/assets/154571156/3a2f9447-41e3-4e30-b317-d500c2ba9749)
+![plugin delete3](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/25fb4cc6-4bb5-4a0b-8cf1-b60373b58cac)
+
 
 <br>
 
@@ -135,31 +138,34 @@ There is an error in the format of reearth.yml.
 
 1. プラグインライブラリにアクセスし、個人インストール済みタブをクリックします。
 
-![プラグイン削除４](https://github.com/CS-eukarya/User-Manual-Japanese-/assets/154571156/217e7299-d446-42d0-aa01-603bb3eb11b2)
+![plugin delete1-2](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/7f679d19-b30b-4eae-b6f1-c5fc21843154)
+
 
 <br>
 
 2. 「インストール済み」リストから削除対象プラグインの「インストール済み」にカーソルを合わせます。
 
-![プラグイン削除５](https://github.com/CS-eukarya/User-Manual-Japanese-/assets/154571156/aaaa11e4-1049-4db5-ab88-b0879e7c26a4)
+![plugin delete2-2](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/78d68977-394b-4d44-8475-a466085ae892)
+
 
 <br>
 
 3. 「インストール済み」ボタンの表記が「アンインストール」に変わりますので、クリックします。
 
-![プラグイン削除６](https://github.com/CS-eukarya/User-Manual-Japanese-/assets/154571156/9d7dbc81-6230-4f84-88e3-df6d5705b157)
+![plugin delete3-2](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/e20f4f67-8f30-4ae6-b5c1-3b8260cf873d)
 
 <br>
 
 4. 表示されたポップアップの注意文を読み、「アンインストール」をクリックします。
 
-![プラグイン削除７](https://github.com/CS-eukarya/User-Manual-Japanese-/assets/154571156/2ee89985-5a03-43ec-87b6-4a471bdaac13)
+![plugin delete4-2](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/6b4bce13-9021-4e0a-b591-2a0f50459e15)
 
 <br>
 
 5. 通知が表示され、「インストール済み」リストから削除されていれば、プラグインは正常に削除されています。
 
-![プラグイン削除８](https://github.com/CS-eukarya/User-Manual-Japanese-/assets/154571156/08745b9f-fbef-4b38-8a95-cc312fc110aa)
+![plugin delete5-2](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/6d8adad2-718a-4709-a644-a6c111e206e6)
+
 
 
 If you remove the plugin, the added widgets and blocks will be removed from the scene. If you have already published scenes that use the removed plugin, widgets and blocks will no longer work in the published scenes.
