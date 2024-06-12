@@ -60,7 +60,7 @@ This setting allows you to specify the area where map movement is restricted by 
 ![camera6](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/48281f1b-73b4-4e86-ba38-91351d37a8bc)
 
 
-- Longitude Range: Specifies the distance in the east-west direction.
-- Latitude Range: Specifies the distance in the north-south direction.
+- Target Width: Specifies the distance in the east-west direction.
+- Target Length: Specifies the distance in the north-south direction.
 <br>
 <br>
