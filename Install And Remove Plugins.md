@@ -2,50 +2,47 @@
 
 This section explains how to install and remove plugins.
 
-## インストールの手順
+## Installation Procedure
 
-プラグインをインストールする種類は大きく2つあります。
-
-「公開プラグイン」をインストールする方法と「個人プラグイン」をインストールする方法です。
-
-違いについては[プラグインライブラリ](https://github.com/CS-eukarya/User-Manual-English-/blob/Project/Plugin%20Library.md)をご覧ください。
-
+There are two main types of plugins you can install:
+- Public Plugins: These are plugins that are available to everyone and can be found in the Re:Earth Plugin Library.
+- Personal Plugins: These are plugins that you have created or downloaded from a third-party source.
+For more information on the differences between these two types of plugins, please see the [Plugin Library](https://github.com/CS-eukarya/User-Manual-English-/blob/Project/Plugin%20Library.md).
 <br>
 
-### 「公開プラグイン」をインストールする方法
+### How to Install Public Plugins
 
-1. プラグインライブラリにアクセスし、「プラグインマーケットプレイス」を選択します。
-2. インストールしたいプラグインを選択します。
+1. Access the Plugin Library and select "Plugin Marketplace."
+2. Select the plugin you want to install.
 
 ![plugin1,2](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/e4c77c87-4ae9-4370-878a-c8261cd6f48b)
 
 <br>
     
-3. インストールをクリックします。
+3. Click Install.
 
 ![plugin3](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/3716397d-e937-4bbd-9cb5-62529d7383cc)
 
 
 <br>
 
-4. 通知が表示されれば、プラグインは正常にインストールされています。
+4. If a notification appears, the plugin has been successfully installed.
 
 ![plugin4](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/a04cbc2a-f44d-4033-bc13-5d833d291a09)
 
 <br>
 
 
-### 「個人プラグイン」をインストールする方法
+### How to Install Personal Plugins
 
-プラグインライブラリにアクセスし、3つのタブから「個人インストール済み」を選択します。
+Access the Plugin Library and select the "Personal Installed" tab.
 
-ここではインストールの方法が2種類あります。
+There are two ways to install plugins here:
 
-「PCからZipファイルをアップロード」では、自身のPCからzipファイルを選択してプラグインをインストールします。
+- Upload Zip File from PC: Install a plugin by selecting a zip file from your computer.
+- Public GitHub Repository: Install a plugin directly from a public GitHub repository.
 
-「GitHubパブリックレポジトリ」では、GitHubから直接プラグインをインストールします。
-
-順にインストールの方法をご案内します。
+We will guide you through both installation methods in order.
 
 <br>
 
