@@ -4,7 +4,8 @@ The camera limiter feature allows you to limit the viewable area of the map.
 
 By restricting the range, you can limit how far the map can be moved or zoomed out.
 
-![png4_3](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/15113f83-4210-4597-a10a-cad244360a36)
+![2024-06-12_20h28_47](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/b821e2c0-ca50-4692-b78c-77b40e07c207)
+
 
 <br>
 <br>
