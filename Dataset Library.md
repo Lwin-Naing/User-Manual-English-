@@ -21,3 +21,15 @@ The Dataset Library allows you to view and manage all datasets that you have imp
 **B** . **Delete button** is found by hovering the mouse over the Dataset card.
 
 At the moment, managing Datasets consists of only adding (importing) and deleting them. We will expand the functionality in future development.
+<br>
+<br>
+
+
+<aside>
+  
+⚠️**注意**⚠️
+  
+**データセットを削除する際はそのデータセットがプロジェクトで使用されていないことを確認してください。データセットが接続されている場合、接続されているプロジェクトが欠損する可能性があります。** 
+
+
+</aside>
