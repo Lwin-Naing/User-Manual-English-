@@ -75,13 +75,13 @@ You can set the angle of view of the map drawn when displaying the image
 
 **I. Icon shadows**: You can set the presence or absence of icon shadows (select on/off)
 
-J.  影色：影の色が選択できます。HTMLカラーコードが有効です。
+**J. Shadow Color**: You can choose the color of the shadow. HTML color codes are valid.
 
-K.  影半径：影の半径を設定できます。単位はピクセルです。
+**K. Shadow Radius**: You can set the radius of the shadow. The unit is pixels.
 
- L.   影X：横方面の影を設定できます。単位はピクセルです。
+**L. Shadow X**: You can set the horizontal direction of the shadow. The unit is pixels.
 
- M.   影Y：縦方向の影を設定できます。単位はピクセルです。
+**M. Shadow Y**: You can set the vertical direction of the shadow. The unit is pixels.
 
 ![Photo Overlay8](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/125e7f0c-81bc-4bbb-955e-6265ea5e74e3)
 <br>
@@ -121,38 +121,37 @@ B. When uploading from a URL, enter the URL of the image in "Resource URL".
 
 ### Photo description
 
-画像表示時に合わせて表示するテキストを設定します。
+Set the text to display when the image is shown.
 
-「画像の説明」の入力欄に説明文を直接入力します。
+Directly enter the description text in the 'Image Description' input field."
 
 ![Photo Overlay12](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/7af518ea-1e16-490b-b71c-407894b42856)
 
 
-入力した説明文は、画面下部に表示されます。
-    
+The entered description text will be displayed at the bottom of the screen.    
 <br>
 <br>
 
-## フォトオーバーレイ名の変更
+## Changing the Photo Overlay Name
 
-レイヤー内の「フォトオーバーレイ」の文字の上をダブルクリックすると、名前の変更が可能です。
+Double-click on the text 'Photo Overlay' within the layer to change the name.
 
 ![Photo Overlay13](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/c543315c-f23d-4cdc-8d1a-bac269b0a01f)
 
 <br>
 <br>
 
-## フォトオーバーレイのアイコンを非表示にする
+## Hide the Photo Overlay Icon
 
-左パネルのフォトオーバーレイの右横の目のマークをクリックすると、地球儀上のアイコンが消えます。
+Click the eye icon to the right of the photo overlay in the left panel to hide the icon on the globe.
 
 ![Photo Overlay14](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/07492fb4-e686-422b-8442-3cea4b43f76b)
 <br>
 <br>
 
-## フォトオーバーレイの削除
+## Deleting a Photo Overlay
 
-レイヤーリストから削除対象のフォトオーバーレイを選択し、ごみ箱マークをクリックすると削除できます。
+Select the photo overlay to be deleted from the layer list and click the trash can icon to delete it.
 
 ![Photo Overlay15](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/86c9df96-001f-46bb-887a-70c784f9fc28)
 
