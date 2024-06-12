@@ -94,7 +94,8 @@ The following items can be set in the marker properties.
 
 ![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/fbbd816a-808b-4bb7-9871-a979c9e53428)
 
-![マーカーラベル変更GIF](https://github.com/CS-eukarya/User-Manual-Japanese-/assets/154571156/f91fd44d-173d-4329-9150-656b18443946)
+![Marker8](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/ae3c2644-c8ce-4d5e-ada4-289c3d283ce3)
+
 <br>
 <br>
 
@@ -122,7 +123,7 @@ If you click the eye mark on the right side of the marker on the left side of th
 
 Move the mouse to the marker icon on the earth, hold down the left click until it becomes a hand shape, and drag it as it is to change the position.
 
-![2023-03-01_23h04_23](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/6724ed29-02f2-459b-8512-4154e72d70e3)
+![reposition marker](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/5156614d-c3c8-4ae9-ad60-10cc8fe2aab8)
 <br>
 <br>
 
