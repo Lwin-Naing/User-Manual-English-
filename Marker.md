@@ -1,45 +1,42 @@
 # Marker
 
-This function is used when you want to pinpoint a position on the globe.
+This feature is used when you want to specify a specific location on the digital earth.
 
-The Marker is the leftmost icon of the six functions on the toolbar.
-
-![Marker1](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/39654667-5295-42b5-9751-f6cc4b78ff80)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/14770bec-96f7-4698-8337-6fc087a997f4)
 <br>
 <br>
 <br>
-
 ## How to use Markers
 
 
 1. Drag the marker icon to the desired position and drop it to drop the marker on the earth.
 
-![Marker2](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/74d9e2c8-8256-4044-bebb-36b2eccde95a)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/05c9506d-1fae-4d64-b48b-25e3b28a7955)
 <br>
 <br>
 
-2. 左側のレイヤーの欄に新しく青色の帯がついた「マーカー」の項目が追加されます
-3. 画面右側パネルにマーカーの設定画面（プロパティ）が表示されます。
+2. A new item labeled "Marker" with a blue stripe will be added to the layers list on the left side of the screen.
+3. The marker settings (properties) will open in a panel on the right side of the screen.
 
-![Marker3](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/027ba20d-daa3-4cb5-85a4-607529af3d4c)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/e404dde0-1cb9-4d1d-a670-ac45c2f97914)
 
 <br>
 <br>
 
-## Marker Properties
+### Marker Properties
 
 The following items can be set in the marker properties.
 
-![Marker4](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/67e8f08e-ef33-46ac-b5cf-2c63b80f03fd)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/c3a2cebb-f281-4cea-b6de-335aa9b00b25)
 
-![Marker5](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/ac747a2e-538a-47d5-bcfe-98ff1510a99a)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/0cf3bcac-49fd-4455-9986-b412311f0bbe)
+<br>
+<br>
+**A.** Position: You can place the marker at an exact location by setting the latitude and longitude.
 
+**B.** Height: Set the marker's altitude above ground level.
 
-**A.** Position: Sets the position of the marker. 緯度経度を設定することで正確な位置にマーカーを配置することができます。
-
-**B.** Height: Sets the altitude above the ground of the marker.
-
-**C.** Height standard: You can select from "default", "fixed to ground", and "height above ground". If "Default" is selected, the absolute height from the WGS84 ellipsoid (digital earth). "Fixed to the ground" and "Height from the ground" will be different from "Default" only when the "Terrain" setting is enabled in the scene.
+**C.** Height standard: You can select from "default", "clamp to ground", and "Relative to ground". If "Default" is selected, the absolute height from the WGS84 ellipsoid (digital earth). "Clamp to ground" and "Relative to ground" will be different from "Default" only when the "Terrain" setting is enabled in the scene.
 
 **D.** Style: Select from points or icons. For points, you can set the color and size, and for icons, you can set the image, size, and placement.
 
@@ -47,14 +44,13 @@ The following items can be set in the marker properties.
 
 &emsp; **b.** Point size: Displayed when a point is selected. Sets the point size.
 
-&emsp; **c.** Line color of points: Displayed when a point is selected. You can set the color of the edge around the point.
+&emsp; **c.** Point outline color: Change the color of the outline around the point.
 
-&emsp; **d.** Width of point line: Displayed when a point is selected. You can set the width of the edge around the point.
+&emsp; **d.** Point outline width: Change the width of the outline around the point.
 
-![Marker6](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/6fb115a1-b9e9-42e9-9be3-28e51fcfcabe)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/723198f5-dccf-4612-99b1-52dafb23e3d4)
 <br>
 <br>
-
 
 **E.** Image URL: When you upload an image, the icon changes to the selected image.<br>
 &emsp;&emsp;【The recommended image size is 1920 x 1080px and 144dpi or less. <br>
@@ -90,38 +86,35 @@ The following items can be set in the marker properties.
 
 &emsp; **d.** Label background: You can add a background to the label text.
 
-&emsp; **e.** ラベルの背景色：ラベルの背景の色を変更できます。
+&emsp; **e.** Label Background Color: Change the background color of the label.
 
-&emsp; **f.** ラベル背景余白左右：ラベルの背景の左右の余白を調整できます。
+&emsp; **f.** Label Padding X: Adjust the left and right padding of the label background.
 
-&emsp; **g.** ラベル背景余白上下：ラベルの背景の上下の余白を調整できます。
+&emsp; **g.** Label Padding Y: Adjust the top and bottom padding of the label background.
 
-![Marker7](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/0082bf85-90ad-4351-9e15-9196f54d6311)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/fbbd816a-808b-4bb7-9871-a979c9e53428)
 
-![Marker8](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/843de338-0af3-415a-b83a-4650691df8f6)
-
-
-
+![マーカーラベル変更GIF](https://github.com/CS-eukarya/User-Manual-Japanese-/assets/154571156/f91fd44d-173d-4329-9150-656b18443946)
+<br>
+<br>
 
 **Q.** Extruded: Sets whether to draw a line between the marker and the ground surface when setting the altitude to the marker.
 
 <br>
 <br>
 
-
 ## Renaming Markers
 
 You can change the name by double-clicking on the marker character in the layer.
 
-![754_1](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/e0423538-0a8a-4a43-ae3b-9e8739bfec59)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/18c3a815-4469-4fcb-b23a-ff36d1b484b1)
 <br>
 <br>
-
 ## Hide Marker Icons
 
 If you click the eye mark on the right side of the marker on the left side of the screen, the icon on the globe will disappear.
 
-![2023-03-07_12h59_29_1](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/0cd0d995-0c52-4fa6-89a5-889d63406a0c)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/7c74bc47-ca82-4c9b-b62c-d774e8168149)
 <br>
 <br>
 
@@ -129,7 +122,7 @@ If you click the eye mark on the right side of the marker on the left side of th
 
 Move the mouse to the marker icon on the earth, hold down the left click until it becomes a hand shape, and drag it as it is to change the position.
 
-![reposition marker](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/76b3ca3d-be88-4666-810e-c2d3820f8a31)
+![2023-03-01_23h04_23](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/6724ed29-02f2-459b-8512-4154e72d70e3)
 <br>
 <br>
 
@@ -137,7 +130,8 @@ Move the mouse to the marker icon on the earth, hold down the left click until i
 
 Click the marker you want to delete in "Layer" on the left side of the screen, select it in blue, and press the "Trash " can mark to delete it.
 
-![987_1_(1)](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/6b980642-5f3e-478e-b70d-7784367b323e)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/d08d1f1a-fd0a-479f-9ee3-9a91125f6808)
+
 <br>
 <br>
 <br>
