@@ -1,125 +1,158 @@
 # Photo Overlay
 
-## Overview
-
 The photo overlay function is used when you want to set the image on the full screen, while the image set with the marker can be adjusted in size.
-<br>
+
+![2024-05-29_23h39_32](https://github.com/CS-eukarya/User-Manual-Japanese-/assets/154571156/a6b34d4d-11e0-4af1-aa61-89d2d752d483)
+
 <br>
 <br>
 
 ## Usage
 
-Drag and drop the photo overlay mark to any location.
+1. Drag and drop the photo overlay mark to any location.
 
-![iui_1](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/e9803072-7093-4c4c-a42e-02142b20b502)
+![オーバーレイ２](https://github.com/CS-eukarya/User-Manual-Japanese-/assets/154571156/fd0c0ee9-3632-4add-bd8f-4e4ee6a26ef0)
 <br>
 <br>
 
-A new "Photo Overlay" item is added to the layer column on the left, and when a blue band is attached, the layer setting screen is displayed on the right side of the screen.
+2. A new "Photo Overlay" item is added to the layer column on the left, and when a blue band is attached. 
+3. The layer setting screen is displayed on the right side of the screen.
 
-![iui_1_(1)](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/280357df-1cd5-480a-b287-1daeb08a1c08)
+![オーバーレイ３](https://github.com/CS-eukarya/User-Manual-Japanese-/assets/154571156/7ef3db27-739b-4ca1-8070-ceba013a8ca8)
 <br>
 <br>
 <br>
 
 ## Properties
 
-![iui_1_(2)](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/f258eb0c-f3fe-4731-87ba-bf12d7067115)
+![オーバーレイ４](https://github.com/CS-eukarya/User-Manual-Japanese-/assets/154571156/17176af6-a2a8-4b2f-b8ae-b3431f65d5f3)
 
-**(1) Position**: You can set the location of the photo overlay by latitude and longitude
+**A. Location**: You can set the location of the photo overlay by latitude and longitude
 
-**(2) Altitude**: You can set the height of the photo overlay
+**B. Height**: You can set the height of the photo overlay
 
-**(3) Altitude reference**: You can set the reference position for the height (select from default, fixed to the ground, altitude from the ground)
+**C. Height standard**: You can set the reference position for the height (select from default, fixed to the ground, altitude from the ground)
 <br>
 <br>
 <br>
 
-## Camera
+### Camera
 
 You can set the angle of view of the map drawn when displaying the image
 
-Press the "Camera" button.
+1. Press the "Camera" button.
 
-![iui_1_(3)](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/5a565062-7158-42a6-9a88-c2e2d8811373)
+![オーバーレイ５](https://github.com/CS-eukarya/User-Manual-Japanese-/assets/154571156/a84ee5dc-11f2-4759-8f4d-e6f2b24ee244)
 <br>
 <br>
 
-The camera angle of the view setting screen opens.
+2. The camera angle of the view setting screen opens.<br>
+&emsp; ・You can set the detailed angle of view by entering numerical values in "Latitude/Longitude/Altitude" and "Heading/Pitch/Roll"<br>
+&emsp; ・You can also change it by mouse operation. Press the "Camera" button to open the angle of view setting screen, and then use the mouse to set the angle of view. 
 
-・You can set the detailed angle of view by entering numerical values in "Latitude/Longitude/Altitude" and "Heading/Pitch/Roll"
+3. When the angle of view is decided, press the "Edit" button to fix the angle of view
 
-・When the angle of view is decided, press the "Edit" button to fix the angle of view
+![オーバーレイ６](https://github.com/CS-eukarya/User-Manual-Japanese-/assets/154571156/b4ed1b1c-b08c-4042-8f21-8f3205c67763)
 
-![2023-03-13_13h03_05_1_(1)](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/57c7ce9a-d8ed-4e37-a63f-367b8f98dc54)
-<br>
-<br>
-
-You can also change it by mouse operation. Press the "Camera" button to open the angle of view setting screen, and then use the mouse to set the angle of view. Finally, press the "Edit" button to fix the angle of view
-
-![2023-03-13_13h11_48_1](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/e8178933-2ab0-4764-acc1-8935b19efc5e)
 <br>
 <br>
 <br>
 
-## Icon style
 
-![iui_1_(4)](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/e8c8a99d-a514-40f5-bd63-d994ad67b675)
+**D. Icon**: You can set the icon to be displayed on the map.You can select from a PC or URL.<br>
+&emsp;【"The recommended image size is 1920 x 1080px and 144dpi or less. <br>
+&emsp;&emsp;**NOTE:** Icons exceeding the recommended size may not be reflected correctly.】
 
-**(1) Icon**: You can set the icon to be displayed on the map
+**E. Icon size**: You can set the size of the icon
 
-You can select from a PC or URL
+**F. Image horizontal origin**: You can set the horizontal origin of the icon (select from left, center, or right)
 
-**(2) Icon size**: You can set the size of the icon
+**G. Image vertical origin**: You can set the vertical origin of the icon (select from top, center, baseline, bottom).
 
-**(3) Icon center horizontal**: You can set the horizontal origin of the icon (select from left, center, or right)
+**H. Icon Crop**: You can set the shape of the icon (select from none or a circle)
 
-**(4) Center vertical of icon**: You can set the vertical origin of the icon (select from top, center, baseline, bottom).
+![オーバーレイ７](https://github.com/CS-eukarya/User-Manual-Japanese-/assets/154571156/bb514b54-7e01-4456-915f-5c00ff5db758)
+<br>
+<br>
 
-**(5) Icon Crop**: You can set the shape of the icon (select from none or a circle)
 
-**(6) Icon shadows**: You can set the presence or absence of icon shadows (select on/off)
+**I. Icon shadows**: You can set the presence or absence of icon shadows (select on/off)
+
+J.  影色：影の色が選択できます。HTMLカラーコードが有効です。
+
+K.  影半径：影の半径を設定できます。単位はピクセルです。
+
+ L.   影X：横方面の影を設定できます。単位はピクセルです。
+
+ M.   影Y：縦方向の影を設定できます。単位はピクセルです。
+
+![オーバーレイ８](https://github.com/CS-eukarya/User-Manual-Japanese-/assets/154571156/b560f799-492f-44fb-98a9-a8127a0b7f51)
+
 <br>
 <br>
 <br>
 
-## Overlay image
+### Photo
 
 Specify an image to be displayed on the map
 
 You can select an image from the data on your computer or the URL
 
-Press the "Overlay image" button
+1. Press the "Overlay image" button
 
-![iui_1_(5)](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/e48ad061-3ea9-45d0-b59b-26e3f89d5823)
+![Group 23.png](%E3%83%95%E3%82%A9%E3%83%88%E3%82%AA%E3%83%BC%E3%83%8F%E3%82%99%E3%83%BC%E3%83%AC%E3%82%A4%2043e5ceaa30a94a4c80b8f8cb6a07b4fa/Group_23.png)
 <br>
 <br>
 
-### Upload images
+- Upload images
 
-(1) When uploading from a computer, press "Upload file" and put the image on the computer into the file.
+A. When uploading from a computer, press "Upload file" and put the image on the computer into the file.
 
-![t_1](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/59cc8653-c09e-4b49-b4bb-b072ce8880f2)
+2. Press the "Select" button to confirm.
+
+![Group 25.png](%E3%83%95%E3%82%A9%E3%83%88%E3%82%AA%E3%83%BC%E3%83%8F%E3%82%99%E3%83%BC%E3%83%AC%E3%82%A4%2043e5ceaa30a94a4c80b8f8cb6a07b4fa/Group_25.png)
 <br>
 <br>
 
-(2) When uploading from a URL, enter the URL of the image in "Resource URL" and press the "Select" button to confirm.
+B. When uploading from a URL, enter the URL of the image in "Resource URL". 
 
-![2023-03-13_13h59_49_1](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/ab4e7844-5d73-457f-8688-eb914c3c7278)
-<br>
-<br>
-<br>
+2. Press the "Select" button to confirm.
 
-## Overlay image description
-
-Enter the description directly
-
-![iui_1_(6)](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/34578fec-cc9a-43b7-97f8-c724da7f8e4b)
+![Group 26.png](%E3%83%95%E3%82%A9%E3%83%88%E3%82%AA%E3%83%BC%E3%83%8F%E3%82%99%E3%83%BC%E3%83%AC%E3%82%A4%2043e5ceaa30a94a4c80b8f8cb6a07b4fa/Group_26.png)
 <br>
 <br>
 
-The description entered in (1)
+### Photo description
 
-(2) is displayed at the bottom of the screen.
+画像表示時に合わせて表示するテキストを設定します。
 
-![684_3](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/68e0bc57-cf9d-48d8-9cf7-3155a6248e28)
+「画像の説明」の入力欄に説明文を直接入力します。
+
+![2023-02-08_23h29_10.png](%E3%83%95%E3%82%A9%E3%83%88%E3%82%AA%E3%83%BC%E3%83%8F%E3%82%99%E3%83%BC%E3%83%AC%E3%82%A4%2043e5ceaa30a94a4c80b8f8cb6a07b4fa/2023-02-08_23h29_10.png)
+
+入力した説明文は、画面下部に表示されます。
+    
+<br>
+<br>
+
+## フォトオーバーレイ名の変更
+
+レイヤー内の「フォトオーバーレイ」の文字の上をダブルクリックすると、名前の変更が可能です。
+
+![2023-03-04_13h47_47.png](%E3%83%95%E3%82%A9%E3%83%88%E3%82%AA%E3%83%BC%E3%83%8F%E3%82%99%E3%83%BC%E3%83%AC%E3%82%A4%2043e5ceaa30a94a4c80b8f8cb6a07b4fa/2023-03-04_13h47_47.png)
+<br>
+<br>
+
+## フォトオーバーレイのアイコンを非表示にする
+
+左パネルのフォトオーバーレイの右横の目のマークをクリックすると、地球儀上のアイコンが消えます。
+
+![Group 32.png](%E3%83%95%E3%82%A9%E3%83%88%E3%82%AA%E3%83%BC%E3%83%8F%E3%82%99%E3%83%BC%E3%83%AC%E3%82%A4%2043e5ceaa30a94a4c80b8f8cb6a07b4fa/Group_32.png)
+<br>
+<br>
+
+## フォトオーバーレイの削除
+
+レイヤーリストから削除対象のフォトオーバーレイを選択し、ごみ箱マークをクリックすると削除できます。
+
+![2024-05-30_00h16_51](https://github.com/CS-eukarya/User-Manual-Japanese-/assets/154571156/394faae3-8d72-4ffb-9af6-bd8e0218889b)
