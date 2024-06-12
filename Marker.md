@@ -4,7 +4,7 @@ This function is used when you want to pinpoint a position on the globe.
 
 The Marker is the leftmost icon of the six functions on the toolbar.
 
-![Group 15.png](%E3%83%9E%E3%83%BC%E3%82%AB%E3%83%BC%20c5fb75b768c942d8bce61ca463a96cef/Group_15.png)
+![Marker1](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/39654667-5295-42b5-9751-f6cc4b78ff80)
 <br>
 <br>
 <br>
@@ -14,14 +14,14 @@ The Marker is the leftmost icon of the six functions on the toolbar.
 
 1. Drag the marker icon to the desired position and drop it to drop the marker on the earth.
 
-![マーカー２](https://github.com/CS-eukarya/User-Manual-Japanese-/assets/154571156/720d671e-18a2-4ae3-b97e-402e7eaab329)
+![Marker2](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/74d9e2c8-8256-4044-bebb-36b2eccde95a)
 <br>
 <br>
 
 2. 左側のレイヤーの欄に新しく青色の帯がついた「マーカー」の項目が追加されます
 3. 画面右側パネルにマーカーの設定画面（プロパティ）が表示されます。
 
-![マーカー３](https://github.com/CS-eukarya/User-Manual-Japanese-/assets/154571156/0bb2844a-49f1-4b0c-9b1e-409f8b3252f3)
+![Marker3](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/027ba20d-daa3-4cb5-85a4-607529af3d4c)
 
 <br>
 <br>
@@ -30,9 +30,9 @@ The Marker is the leftmost icon of the six functions on the toolbar.
 
 The following items can be set in the marker properties.
 
-![Group 73.png](%E3%83%9E%E3%83%BC%E3%82%AB%E3%83%BC%20c5fb75b768c942d8bce61ca463a96cef/Group_73.png)
+![Marker4](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/67e8f08e-ef33-46ac-b5cf-2c63b80f03fd)
 
-![Group 74.png](%E3%83%9E%E3%83%BC%E3%82%AB%E3%83%BC%20c5fb75b768c942d8bce61ca463a96cef/Group_74.png)
+![Marker5](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/ac747a2e-538a-47d5-bcfe-98ff1510a99a)
 
 
 **A.** Position: Sets the position of the marker. 緯度経度を設定することで正確な位置にマーカーを配置することができます。
@@ -51,7 +51,7 @@ The following items can be set in the marker properties.
 
 &emsp; **d.** Width of point line: Displayed when a point is selected. You can set the width of the edge around the point.
 
-![Group 79.png](%E3%83%9E%E3%83%BC%E3%82%AB%E3%83%BC%20c5fb75b768c942d8bce61ca463a96cef/Group_79.png)
+![Marker6](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/6fb115a1-b9e9-42e9-9be3-28e51fcfcabe)
 <br>
 <br>
 
@@ -96,9 +96,10 @@ The following items can be set in the marker properties.
 
 &emsp; **g.** ラベル背景余白上下：ラベルの背景の上下の余白を調整できます。
 
-![Group 80.png](%E3%83%9E%E3%83%BC%E3%82%AB%E3%83%BC%20c5fb75b768c942d8bce61ca463a96cef/Group_80.png)
+![Marker7](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/0082bf85-90ad-4351-9e15-9196f54d6311)
 
-![マーカーラベル変更GIF](https://github.com/CS-eukarya/User-Manual-Japanese-/assets/154571156/f91fd44d-173d-4329-9150-656b18443946)
+![Marker8](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/843de338-0af3-415a-b83a-4650691df8f6)
+
 
 
 
@@ -128,7 +129,7 @@ If you click the eye mark on the right side of the marker on the left side of th
 
 Move the mouse to the marker icon on the earth, hold down the left click until it becomes a hand shape, and drag it as it is to change the position.
 
-![2023-03-01_23h04_23.gif](%E3%83%9E%E3%83%BC%E3%82%AB%E3%83%BC%20c5fb75b768c942d8bce61ca463a96cef/2023-03-01_23h04_23.gif)
+![reposition marker](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/76b3ca3d-be88-4666-810e-c2d3820f8a31)
 <br>
 <br>
 
