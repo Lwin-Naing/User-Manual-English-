@@ -55,7 +55,8 @@ With the **button widget,** Users can set up a link button that will direct them
 <br>
 
 3. Select the URL tab.<br>
-4. Input the address in the Resource URL field and click "Select" to complete the link button setup.
+4. Input the address in the Resource URL field.
+5. Click "Select" to complete the link button setup.
 
 ![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/f829f071-2d58-44f7-b3bc-2006b6c2942a)
 <br>
