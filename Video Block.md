@@ -2,7 +2,7 @@
 
 The Video Block allows you to add external videos via URL.
 
-### Setup Instructions
+## Setup Instructions
 
 1. In the left panel, choose the layer where you want to place the external video.
 2. In the right panel, select the "Info Box" tab.
