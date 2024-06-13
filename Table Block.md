@@ -4,6 +4,8 @@ The Table Block allows you to add a table within an Info Box.
 <br>
 <br>
 
+## Setup Instructions
+
 **1.** Choose the desired layer from the left panel to set the text.
 
 **2.** Select the Info Box tab from the right panel.
