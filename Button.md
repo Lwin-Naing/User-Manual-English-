@@ -46,9 +46,9 @@ The following are the actions that will take place:<br>
 
 With the **button widget,** Users can set up a link button that will direct them to a specified web page.
 
-1: From the button's action options scroll down you will see **Type**, Then select **"Link".**
+1. From the button's action options scroll down you will see **Type**, Then select **"Link".**
 
-2: Click on the link field and a resource selection window will appear. Select the URL tab.
+2. Click on the link field and a resource selection window will appear. Select the URL tab.
 
 ![Untitled](Button%2009a15c6bd9c843f4b7b6a8f9cf4f2427/Untitled%204.png)
 <br>
