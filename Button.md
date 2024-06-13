@@ -29,16 +29,16 @@ Click on **Widgets** from the outline tab in the left panel, then click on the *
 <br>
 <br>
 
-The following are the actions that will take place:
-**Link:** The button becomes a link that directs to a specified address when clicked.
-**Menu:** When clicked, the button becomes a menu button that shows more menu options in the **Menu List.**
-**Camera Flight:** The button executes a camera movement when clicked.
+The following are the actions that will take place:<br>
+- **Link:** The button becomes a link that directs to a specified address when clicked.<br>
+- **Menu:** When clicked, the button becomes a menu button that shows more menu options in the **Menu List.**<br>
+- **Camera Flight:** The button executes a camera movement when clicked.
 <br>
 <br>
 
 **G. Link:** You can set the destination link by asset or resource URL.
 
-**H. Display:** You can switch the display/hidden state of the button from always, desktop only, and mobile only.
+**H. Visible:** You can switch the display/hidden state of the button from always, desktop only, and mobile only.
 <br>
 <br>
 
@@ -54,8 +54,8 @@ With the **button widget,** Users can set up a link button that will direct them
 <br>
 <br>
 
-3. Select the URL tab.
-4: Input the address in the Resource URL field and click "Select" to complete the link button setup.
+3. Select the URL tab.<br>
+4. Input the address in the Resource URL field and click "Select" to complete the link button setup.
 
 ![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/f829f071-2d58-44f7-b3bc-2006b6c2942a)
 <br>
