@@ -4,6 +4,8 @@ You can customize the look of your infobox using the options on the right side (
 
 ![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/62d050a9-5661-440e-860d-d58903318368)
 
+<br>
+
 **A: Title** allows users to decide the title of the infobox in the Re-Earth App.
 
 ![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/bb166c09-d06e-4d17-91e7-0c6518078ef6)
@@ -29,14 +31,10 @@ You can customize the look of your infobox using the options on the right side (
 
 ![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/f23b4f25-a080-407c-924d-8d7da740234e)
 
-<br>
-<br>
 
-**Small** : Selecting this option sets the infobox to a smaller width, making it suitable for displaying concise information or when you want to conserve screen space.
-<br>
-**Medium**: Selecting this option sets the infobox to a moderate width, balancing compactness and readability. This option is ideal when you want to display a reasonable amount of content within the infobox.
-<br>
-**Large**: Selecting this option sets the infobox to a wider width, allowing you to display more extensive content. This option is useful when you want to present more detailed information or prioritize readability.
+- **Small** : Selecting this option sets the infobox to a smaller width, making it suitable for displaying concise information or when you want to conserve screen space.<br>
+- **Medium**: Selecting this option sets the infobox to a moderate width, balancing compactness and readability. This option is ideal when you want to display a reasonable amount of content within the infobox.<br>
+- **Large**: Selecting this option sets the infobox to a wider width, allowing you to display more extensive content. This option is useful when you want to present more detailed information or prioritize readability.<br>
 <br>
 <br>
 
@@ -47,32 +45,32 @@ You can customize the look of your infobox using the options on the right side (
 - **Auto:** Selecting the "auto" option for the height type will automatically adjust the height of the infobox based on its content. This ensures that the infobox expands or contracts dynamically to fit the information it contains. It is a convenient option when you have varying amounts of content within different infoboxes, as it optimizes the display to avoid unnecessary empty space or content truncation.
 - **Manual:** Choosing the "manual" option for the height type allows you to manually specify a fixed height for the infobox. This means you can define a specific height value in pixels or any other appropriate unit of measurement. With the manual setting, the infobox will maintain a consistent height regardless of its content. This option provides more control over the visual layout of the infoboxes if you prefer a consistent size throughout your app.
 
-- **F: Top Padding** is adjustable when the Height setting is set to Manual.
-(The Top Padding range: 0~40px)
-- **G: Bottom padding**  is adjustable when the Height setting is set to Manual.
-(the **Bottom padding** range: 0~40px)
-- **H: Left padding** is adjustable when Height setting is set to Manual.
-**(Left padding** range: 0~40px)
-- **I: Right padding** is adjustable when Height setting is set to Manual.
-(The **Right padding** range: 0~40px)
+<br>
+
+**F: Top Padding** is adjustable when the Height setting is set to Manual. (The Top Padding range: 0~40px)
+
+**G: Bottom padding**  is adjustable when the Height setting is set to Manual. (the Bottom padding range: 0~40px)
+
+**H: Left padding** is adjustable when Height setting is set to Manual. (Left padding range: 0~40px)
+
+**I: Right padding** is adjustable when Height setting is set to Manual.(The Right padding range: 0~40px)
 
 ![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/3dc6d80c-5107-48fe-a8fc-e1b4fe78f7ed)
 
-  
-- **J: Background Color** allows users to decide the color of the infobox. Users can also adjust the transparency of the background.
+<br>
+
+**J: Background Color** allows users to decide the color of the infobox. Users can also adjust the transparency of the background.
 
 ![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/2e3a3922-01e3-4798-a1ac-076cc6a2bc31)
 
 
-**Color Selection:** You can select a color from the color palette. The palette provides a wide range of colors including primary colors, secondary colors, and various shades and tones to accommodate your design preferences.
-
-**Custom Color:** If you have a specific color in mind, you can manually set the color in RGB or HSL format. This provides more flexibility in matching the infobox color to the overall theme of your app or specific design requirements.
-
-**Transparency:** In addition to choosing a background color, you can adjust the transparency of the infobox background. This property controls the opacity of the background color, allowing you to make the background color transparent.
+- **Color Selection:** You can select a color from the color palette. The palette provides a wide range of colors including primary colors, secondary colors, and various shades and tones to accommodate your design preferences.
+- **Custom Color:** If you have a specific color in mind, you can manually set the color in RGB or HSL format. This provides more flexibility in matching the infobox color to the overall theme of your app or specific design requirements.
+- **Transparency:** In addition to choosing a background color, you can adjust the transparency of the infobox background. This property controls the opacity of the background color, allowing you to make the background color transparent.
 <br>
 <br>
 
-- **K: Outline width** allows you to adjust the thickness of the infobox surrounding frame line. This property controls the visual appearance of the infobox border and lets you customize the outline to match the overall design or style of your app. By adjusting the outline width, you can make the infobox frame line thicker or thinner, providing visual emphasis or subtlety to the infobox content.
+**K: Outline width** allows you to adjust the thickness of the infobox surrounding frame line. This property controls the visual appearance of the infobox border and lets you customize the outline to match the overall design or style of your app. By adjusting the outline width, you can make the infobox frame line thicker or thinner, providing visual emphasis or subtlety to the infobox content.
 
 ![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/3e5f4cbb-74d6-4ea6-af68-ef9d65773b61)
 
@@ -90,7 +88,7 @@ By customizing the appearance of the infobox and visually distinguishing it, use
 <br>
 <br>
 
-- **M: Use Mask** property allows users to enhance the visibility and focus on the infobox by darkening the background map and highlighting the infobox itself.
+**M: Use Mask** property allows users to enhance the visibility and focus on the infobox by darkening the background map and highlighting the infobox itself.
 
 ![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/cb0a3e86-7a31-4a29-8b27-9a38b443811a)
 
