@@ -16,9 +16,9 @@ This helps you to understand large and complex data and its spatial relationship
 
 <br>
 
-## **シーンパートについて**
+## **Futures of Scene**
 
-シーングループでは、カメラ初期位置や宇宙の表示に関する設定を行います。
+In the Scene Group, settings for the initial camera position and the display of space are configured.
 
 ![Group 359.png](Overview%20for%20Scene%2028631a95db63458bbd38ca784d5d34d8/Group_359.png)
 
@@ -30,22 +30,23 @@ In Re:Earth the default setting is to display all of North America. You can chan
 
 <br>
 
-**設定方法**
+**How to Set Up the camera position**
 
 ![Group 361.png](Overview%20for%20Scene%2028631a95db63458bbd38ca784d5d34d8/Group_361.png)
 
-1. `カメラ初期位置`をクリックすると画角の設定項目が表示されます。 項目内の数値を直接変更するか、地図を操作すると画角が入力されます。
-2. `キャプチャ`をクリックすると、その位置と画角がカメラ初期位置に設定されます。
+1. Click on `Initial Camera Position` to display the field of view settings.
+   You can either directly modify the values in this field or adjust the map to input the desired field of view.
+3. Click `Capture` to set the current position and field of view as the initial camera position.
 
-再度項目をクリックすると、設定中の画角が確認できます。
+Re-clicking the field allows you to review the field of view settings that are currently configured.
 
 <br>
 
 ![Group 359 (1).png](Overview%20for%20Scene%2028631a95db63458bbd38ca784d5d34d8/Group_359_(1).png)
 
-A. `ジャンプ`をクリックすると、設定中の画角に移動します。
+A. Clicking `Jump` will move you to the currently configured field of view.
 
-B. `編集`をクリックすると、画角の再設定を行うことができます。
+B. Clicking `Edit` allows you to reconfigure the field of view.
 
 <br>
 
@@ -85,7 +86,7 @@ Columbus View mode. A 2.5D perspective view where the map is laid out flat and o
 
 ### D. Sky
 
-`宇宙の表示`では、宇宙空間の表示/非表示を切り替えます。
+In `Display Space`, you can toggle the visibility of outer space.
 
 - ON
     
@@ -101,13 +102,13 @@ Columbus View mode. A 2.5D perspective view where the map is laid out flat and o
 
 ### **E. Background color**
 
-`背景色の設定`では、宇宙を非表示にした場合の背景色を設定します。
+In `Background Color Settings`, you can set the background color for when space is hidden.
 
-- `宇宙の表示`を非表示設定にして、背景色の`not set`をクリックしてください。
-
+- Set `Display Space` to hidden, and click on `not set` for the background color.
+  
 ![2024-06-12_23h22_29.png](Overview%20for%20Scene%2028631a95db63458bbd38ca784d5d34d8/2024-06-12_23h22_29.png)
 
-- 表示されたカラーパネルから任意の色を選び、`保存`をクリックしてください。
+- From the displayed color panel, select your desired color and click `Save`.
 
 ![2024-06-12_23h21_00.png](Overview%20for%20Scene%2028631a95db63458bbd38ca784d5d34d8/2024-06-12_23h21_00.png)
 
@@ -143,7 +144,6 @@ To do so, register with Cesium Ion and set the API key issued by your Cesium Ion
 
 ### **G. VR**
 
-🔥 **注意**
+🔥 **Caution**
 
-**開発中の機能ですので現在は使用することができません。オンにすると地球儀が消えるなどの不具合が生じることがありますのでご注意ください。**
-    
+**This feature is under development and is currently unavailable for use. Please be aware that enabling it may cause issues such as the globe disappearing.**
