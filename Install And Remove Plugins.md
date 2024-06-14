@@ -103,63 +103,63 @@ There is an error in the format of reearth.yml.
 <br>
 
 
-## インストールしたプラグインを削除する方法
+## How to Uninstall Installed Plugins
 
-「公開インストール済み」「個人インストール済み」のそれそれの削除方法をご案内します。
+Here are the instructions for uninstalling plugins, specifically for both "Publicly Installed" and "Personally Installed" plugins.
 
 <br>
 
-### 「公開インストール済み」プラグインの削除
+### Uninstalling "Publicly Installed" Plugins
 
-1. プラグインライブラリから、「公開インストール済み」のタブをクリックします。
+1. From the plugin library, click on the "Publicly Installed" tab.
 
 ![plugin delete1](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/f3c33305-4fa2-44b5-a67d-ef057ad30317)
 
 
 <br>
 
-2. 削除対象のプラグインの「アンインストール」をクリックします。
+2. Click "Uninstall" on the plugin you wish to remove.
 
 ![plugin delete2](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/076b6ff7-a8e3-416d-9904-d24eb8d6141f)
 
 <br>
 
-3. 通知が表示され、リストからプラグインが削除されていれば、正常にプラグインは削除されています。
+3. A notification will appear, and if the plugin has been removed from the list, it has been successfully uninstalled.
 
 ![plugin delete3](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/25fb4cc6-4bb5-4a0b-8cf1-b60373b58cac)
 
 
 <br>
 
-### 「個人インストール済み」プラグインの削除
+### Uninstalling "Personally Installed" Plugins
 
-1. プラグインライブラリにアクセスし、個人インストール済みタブをクリックします。
+1. Access the plugin library and click on the "Personally Installed" tab.
 
 ![plugin delete1-2](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/7f679d19-b30b-4eae-b6f1-c5fc21843154)
 
 
 <br>
 
-2. 「インストール済み」リストから削除対象プラグインの「インストール済み」にカーソルを合わせます。
+2. Hover over "Installed" next to the plugin you wish to remove from the "Installed" list.
 
 ![plugin delete2-2](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/78d68977-394b-4d44-8475-a466085ae892)
 
 
 <br>
 
-3. 「インストール済み」ボタンの表記が「アンインストール」に変わりますので、クリックします。
+3. The label on the "Installed" button will change to "Uninstall." Click it to proceed with the uninstallation.
 
 ![plugin delete3-2](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/e20f4f67-8f30-4ae6-b5c1-3b8260cf873d)
 
 <br>
 
-4. 表示されたポップアップの注意文を読み、「アンインストール」をクリックします。
+4. Read the warning in the displayed popup, then click "Uninstall" to complete the process.
 
 ![plugin delete4-2](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/6b4bce13-9021-4e0a-b591-2a0f50459e15)
 
 <br>
 
-5. 通知が表示され、「インストール済み」リストから削除されていれば、プラグインは正常に削除されています。
+5. A notification will appear, and if the plugin has been removed from the "Installed" list, it has been successfully uninstalled.
 
 ![plugin delete5-2](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/6d8adad2-718a-4709-a644-a6c111e206e6)
 
