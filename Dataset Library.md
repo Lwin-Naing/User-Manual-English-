@@ -27,9 +27,9 @@ At the moment, managing Datasets consists of only adding (importing) and deletin
 
 <aside>
   
-⚠️**注意**⚠️
-  
-**データセットを削除する際はそのデータセットがプロジェクトで使用されていないことを確認してください。データセットが接続されている場合、接続されているプロジェクトが欠損する可能性があります。** 
+⚠️**Caution**⚠️
+
+**When deleting a dataset, ensure that it is not in use within any project. If the dataset is linked, removing it could potentially corrupt the connected project.**
 
 
 </aside>
