@@ -1,6 +1,6 @@
-# Manage Assets
+# Asset Management
 
-In terms of Managing Assets in the Re-Earth App, we can do the following:
+When it comes to Asset Management, we can do the following:
 
 ### Delete assets[](https://docs.reearth.io/user-manual/Asset/manage-asset#delete--assets)
 
