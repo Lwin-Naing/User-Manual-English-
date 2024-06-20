@@ -11,7 +11,7 @@ Images and files used in Re-Earth are considered assets.
 Assets are linked to workspaces, allowing them to be shared and used across projects.
 <br>
 
-![Untitled](Idea%20Of%20Assets%20549c746ef5894855854d60bef01da855/Untitled.png
+![Untitled](Idea%20Of%20Assets%20549c746ef5894855854d60bef01da855/Untitled.png)
 
 <br>
 
