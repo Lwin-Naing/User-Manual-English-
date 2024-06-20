@@ -62,9 +62,11 @@ For the best performance, please update your graphics card or graphics chip driv
 <br>
 <br>
 
-## Language switch
+## Switching Languages
 
-Re-Earth supports two languages at least, English and Japanese. now our development team has members from a wide variety of language backgrounds, we will work to support more languages in the future.
+Re-Earth currently supports two languages: English and Japanese. You can switch languages on the account settings page.
+
+Our development team includes members with diverse language backgrounds, and we are working to support more languages in the future.
 
 <br>
 
@@ -72,16 +74,46 @@ Re-Earth supports two languages at least, English and Japanese. now our developm
 
 <br>
 
-1. Dashboard header -> Account Settings
+1. Select "Account Settings" from Dashboard Header.
 
 ![1-1-f1b4022af1fc3464a63d4c005ed288d4](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/f3ce01fa-3590-4523-8aaf-4fe815d8b74b)
 
 <br>
 <br>
-2. Click the pencil icon to the right of the color theme.
+2. Click the pencil icon to the right side of language setting.
+
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/8a72be98-71e1-453b-be31-4e73c2a2480a)
+
+<br>
+<br>
+3. Select desired language.
+
+4. Click the ✔.
+
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/a4a641ae-73ab-445c-a66b-86c8af4342cc)
+
+<br>
+<br>  
+
+## Switching the Color Theme
+
+Re:Earth offers two UI color themes: dark theme and light theme. You can switch between them at any time as needed.
+
+You can switch the UI color theme on the account settings page.
+
+### How to Set up
+
+1. Select "Account Settings" from Dashboard Header.
+
+![1-1-f1b4022af1fc3464a63d4c005ed288d4](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/f3ce01fa-3590-4523-8aaf-4fe815d8b74b)
+<br>
+<br>
+
+2. Click the pencil icon to the right side of language Settings.
 
 ![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/c3716cc2-664e-4ae9-b1e7-ddf0ab9a7710)
-
+<br>
+<br>
 
 3. Select either the dark theme or the light theme.
 
