@@ -4,8 +4,7 @@
 # What is an asset?
 <br>
 In Re-earth, an asset is any resource that can be utilized in order to provide user scarification. This can include things like Images, buildings, equipment, and even Documents.
-
-
+<br>
 Images and files used in Re-Earth are considered assets.
 
 Assets are linked to workspaces, allowing them to be shared and used across projects.
