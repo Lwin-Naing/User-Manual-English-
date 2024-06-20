@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this section, we will quickly Demonstrate the most basic Re: Earth processes to help you complete and publish your first Re: Earth project.
+In this section, we will quickly Demonstrate the most basic Re:Earth processes to help you complete and publish your first Re:Earth project.
 <br>
 
 
@@ -10,7 +10,7 @@ In this section, we will quickly Demonstrate the most basic Re: Earth processes 
 <br>
 <br>
 
-## Starting a new account
+## Account Creation
 
 
 1. please open [https://app.reearth.io/](https://app.reearth.io/) and click on "Sign in" in the upper right corner of the screen.
