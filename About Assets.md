@@ -1,6 +1,7 @@
 # About Assets
 <br>
-## What is an asset?
+
+# What is an asset?
 <br>
 In Re-earth, an asset is any resource that can be utilized in order to provide user scarification. This can include things like Images, buildings, equipment, and even Documents.
 
