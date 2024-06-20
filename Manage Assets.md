@@ -35,13 +35,13 @@ You can select one of the following two display formats for assets.
 <br>
 <br>
 
-A- **List Format**
+A. **List Format**
 
 ![Untitled](Manage%20Assets%20f2d78750c1c64221b15faa7b7416bec2/Untitled%203.png)
 <br>
 <br>
 
-- **Lager Format**
+B. **Lager Format**
 
 ![Untitled](Manage%20Assets%20f2d78750c1c64221b15faa7b7416bec2/Untitled%204.png)
 <br>
