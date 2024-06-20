@@ -1,5 +1,10 @@
 # Editor
 
+Click the edit button on the project card to go to the edit screen for the project you created.
+
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/17082f68-09d1-4da4-82d7-b91085ba0106)
+
+
 The edit page is the main screen for editing projects. We aim to be as simple and straightforward as possible.
 
 ![rt.png](Editor%20df1532479d364ec48165660794f8d1e2/rt.png)
@@ -33,8 +38,6 @@ In the header, you can navigate, create workspaces and projects, and make public
 
 ![sdf.png](Editor%20df1532479d364ec48165660794f8d1e2/sdf.png)
 
-The down arrow will open a menu. Through this menu, you can complete various operations, as well as navigate to various setting pages. The two buttons on the right are used to quickly preview or publish the project, respectively. 
-
 Click ∨ next to the account name or project name to display the menu.
 
 The preview and publish status buttons in the upper right are used to quickly preview or publish your project. See also [here](https://github.com/CS-eukarya/User-Manual-English-/blob/Understanding-Re-Earth-UI/Publish%20Page.md) for publishing features.
@@ -48,7 +51,7 @@ The Left Panel is used to present and manage all the content contained in the pr
 
 ![as.png](Editor%20df1532479d364ec48165660794f8d1e2/as.png)
 
-### Outline
+- **Outline**
 
 Outlines primarily manage scenes, widgets, and layers.
 
@@ -58,9 +61,9 @@ Outlines primarily manage scenes, widgets, and layers.
  <br>
   
 
- ### Dataset
+- **Dataset**
 
- The Dataset label is used to manage the Dataset in the project. You can add or delete a Dataset. 
+  The Dataset label is used to manage the Dataset in the project. You can add or delete a Dataset. 
 <br>
 <br>
 <br>
@@ -89,7 +92,7 @@ The viewer located in the center of the screen is the area for displaying and op
 
 ![dtf.png](Editor%20df1532479d364ec48165660794f8d1e2/dtf.png)
 
-Re: Earth currently uses the Cesium engine by default.
+Re: Earth currently uses the [Cesium engine](https://cesium.com/platform/cesiumjs/) by default.
 <br>
 <br>
 <br>
