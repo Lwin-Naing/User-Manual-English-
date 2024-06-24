@@ -2,7 +2,9 @@
 
 ## Overview
 
-In this section, we will quickly Demonstrate the most basic Re:Earth processes to help you complete and publish your first Re:Earth project.
+このセクションでは、Re:Earthを始める為のアカウント発行の手順をご案内します。
+
+ご自身のアカウントを発行し、Re:Earthの世界を楽しみましょう。
 <br>
 
 
