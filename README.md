@@ -3,7 +3,7 @@
 
 [Environment Setting](https://github.com/CS-eukarya/User-Manual-English-/blob/Getting-Started/Environment%20Setting.md)
 
-[Account Creation](https://github.com/CS-eukarya/User-Manual-English-/blob/Getting-Started/Making%20Your%20First%20Project.md)
+[Account Creation](https://github.com/CS-eukarya/User-Manual-English-/blob/Getting-Started/Account%20Creation.md)
 
 [Login](https://github.com/CS-eukarya/User-Manual-English-/blob/Getting-Started/Login.md)
 
