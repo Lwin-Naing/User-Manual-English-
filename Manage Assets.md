@@ -62,19 +62,3 @@ The search bar on the right side of the modal allows you to search for assets by
 It is not possible to change the file name of an asset on Re-Earth.
 
 If you need to change the file name, please edit the file name of the data before uploading it, After changing the name upload it again as an asset.
-
-
-
-
-
-
-### Delete assets[](https://docs.reearth.io/user-manual/Asset/manage-asset#delete--assets)
-
-To delete an Asset in the **Re-Earth App**, OPEN **Account Settings**-> **Workspace**-> **Assets**
-
-You can delete an image by selecting the Image you want to delete and then, moving your mouse to the top right, you will see the delete button, click on it to delete. 
-
-![Untitled](Manage%20Assets%20f2d78750c1c64221b15faa7b7416bec2/Untitled.png)
-<br>
-<br>
-<br>
