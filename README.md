@@ -131,6 +131,18 @@
         [Editor Mode](https://github.com/CS-eukarya/User-Manual-English-/blob/How-To-Use-Align-System/Editor%20Mode.md)
         
         [Move, Resize And Align](https://github.com/CS-eukarya/User-Manual-English-/blob/How-To-Use-Align-System/Move%2C%20Resize%20And%20Align.md)
+
+
+- 3D City Models
+
+    Addition of 3D city model
+
+    Display building attributes
+
+    Addition of assumed inundation area
+
+    Structure model ( only Tokyo ) 
+
         
 - Plugin
     
