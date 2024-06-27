@@ -1,9 +1,12 @@
 # Setting Page
 
-The Settings page is where the users can manage all accounts, workspace, and project settings.
+You can go to the project setting page by clicking on the setting button on the project card you have created.
 
-![et.png](Setting%20Page%204c749b78cc2642ebb2c57ae3481d48c3/et.png)
+![Setting Icon](https://github.com/CS-eukarya/User-Manual-English-/blob/Understanding-Re-Earth-UI/Setting%20Page/Setting%20Icon.png)
 
-- **Navigation**: Select a setting item.
-- **Settings Sections** : You can check and change the settings for the selected item.
-    
+The settings page lets you manage your account, workspace, and project settings.
+
+![et.png](https://github.com/CS-eukarya/User-Manual-English-/blob/Understanding-Re-Earth-UI/Setting%20Page/et.png)
+
+-  **Navigation**: Select the settings menu you want to manage.
+-  **Settings**: View or change the settings for the selected menu.    
