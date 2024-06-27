@@ -2,9 +2,9 @@
 
 ## Overview
 
-このセクションでは、Re:Earthを始める為のアカウント発行の手順をご案内します。
+In this section, we will guide you through the process of creating an account to start Re:Earth.
 
-ご自身のアカウントを発行し、Re:Earthの世界を楽しみましょう。
+Create your own account and enjoy the world of Re:Earth.
 <br>
 
 
