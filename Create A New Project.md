@@ -20,7 +20,7 @@ A window titled Create New Project will appear.
 
 ③ Fill in the project outline
 
-④ Select a thumbnail image
+④ Select a thumbnail image (For setup instructions, please refer to [Adding and Removing Assets](https://github.com/CS-eukarya/User-Manual-English-/blob/Asset/Adding%20and%20Removing%20Assets.md).)
 
 ⑤ Click the [Create] button
 <br>
