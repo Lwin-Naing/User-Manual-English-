@@ -1,4 +1,4 @@
-# Project Settings, Archiving And Deletion
+# Project Settings, Archiving and Deletion
 
 From the current project's settings page, you can edit, archive, or delete some basic information about the project.
 
