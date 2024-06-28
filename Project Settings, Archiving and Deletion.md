@@ -15,20 +15,18 @@ From the current project's settings page, you can edit, archive, or delete some 
 
 1. Click on pencil icon on the right of Project Info.
 
-![Pic_1.png](https://github.com/CS-eukarya/User-Manual-English-/blob/Project/Settings%2C%20Archiving%20And%20Deleting/Pic_1.png)
+![Pic_1](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/7267a4cc-500c-4438-841a-86c9d7368c0b)
 
 <br>
 <br>
 2. Change the settings for the selected menu.
 
-![Pic_2.png](https://github.com/CS-eukarya/User-Manual-English-/blob/Project/Settings%2C%20Archiving%20And%20Deleting/Pic_2.png)
-
+![Pic_2](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/339e56fc-316d-4cfd-a5dc-ccbc232049f9)
 <br>
 <br>
 3. Click on ✔ icon.
 
-![Pic_3.png](https://github.com/CS-eukarya/User-Manual-English-/blob/Project/Settings%2C%20Archiving%20And%20Deleting/Pic_3.png)
-
+![Pic_3](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/96c90332-a87d-4174-98c6-674e135a788b)
 <br>
 <br>
 
