@@ -1,12 +1,33 @@
-# Settings, Archiving And Deleting
+# Project Settings, Archiving And Deletion
 
-From the current project's settings page, you can edit some basic information about the project, archive it or delete it.
+From the current project's settings page, you can edit, archive, or delete some basic information about the project.
 
 ![9648](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/c6168cca-05df-4f75-b532-0bc9a2fc2eac)
 
 **A** . **Project Info** is the basic information of the project that'll be used within Re: Earth. This information like (name, project summary, thumbnail image) is the same content you filled in when you created the project.
 
 **B** . **Danger Zone** contains operations that will affect the accessibility of your project. This includes archiving and deleting your project. These operations affect the accessibility of the project, so caution is needed when using them.
+
+<br>
+<br>
+
+## Edit your Project Information
+
+1. Click on pencil icon on the right of Project Info.
+
+![Pic_1.png](https://github.com/CS-eukarya/User-Manual-English-/blob/Project/Settings%2C%20Archiving%20And%20Deleting/Pic_1.png)
+
+<br>
+<br>
+2. Change the settings for the selected menu.
+
+![Pic_2.png](https://github.com/CS-eukarya/User-Manual-English-/blob/Project/Settings%2C%20Archiving%20And%20Deleting/Pic_2.png)
+
+<br>
+<br>
+3. Click on ✔ icon.
+
+![Pic_3.png](https://github.com/CS-eukarya/User-Manual-English-/blob/Project/Settings%2C%20Archiving%20And%20Deleting/Pic_3.png)
 
 <br>
 <br>
