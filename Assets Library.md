@@ -1,10 +1,8 @@
 # Assets Library
 
-When making a project, a lot of pictures, models and other resources are often needed. In Re-Earth, we collectively refer to them as Assets. Asset resources are stored and managed by the workspace, which means that different projects can share the same asset library, which is helpful if a workspace has multiple related projects.
-<br>
-<br>
+When creating a project, you may need many resources such as photos and models. In Re:Earth, we collectively call these "assets." Asset resources are stored and managed by the workspace, so different projects can share the same asset library. This is useful if a workspace has multiple related projects.
 
-You can find the assets library in Settings under your current workspace in the navigation bar, where you can easily view and manage all the assets.
+You can view the asset library by selecting "Assets" from the left panel of the settings screen. You can easily view and manage all uploaded assets.
 
 ![https://docs.reearth.io/assets/images/6-1-622dfbc568f3f3560368fc669de39544.png](https://docs.reearth.io/assets/images/6-1-622dfbc568f3f3560368fc669de39544.png)
 
@@ -15,81 +13,30 @@ B. Asset filtering, display, and search functionality panel.
 C. Assets cards showcasing your library however you have chosen in the functionality panel. Defaults to showing the full library as large cards and is filtered by time.
 <br>
 <br>
+## Accessing the Asset Library
 
-## How to add assets[](https://docs.reearth.io/user-manual/project-and-workspace/workspace/assets-library#how-to-add-assets)
+1. Open the project settings screen from the "Settings button" on the dashboard screen.
 
-We can add new assets to the library through the settings, and we can conveniently add assets while editing the project as well. In the case of the settings, Re-Earth supports selecting multiple files at once so you can upload many files to the library at a time.
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/bccdc875-c7f9-460b-95c0-272e4aeb5769)
 
-![https://docs.reearth.io/assets/images/6-2-8f5c05688a080443be7eb3d662f7bc18.png](https://docs.reearth.io/assets/images/6-2-8f5c05688a080443be7eb3d662f7bc18.png)
+<br>
+2. Select "Assets" from the left panel of the settings screen.
 
-![https://docs.reearth.io/assets/images/6-3-59f4ecb022bb0ec2f11dc43a56260b8d.png](https://docs.reearth.io/assets/images/6-3-59f4ecb022bb0ec2f11dc43a56260b8d.png)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/174eda03-2991-4ce7-86d7-aa576dfb83b3)
 
-![https://docs.reearth.io/assets/images/6-4-19b236849a007e9b6d7d2b3e563ad5f4.png](https://docs.reearth.io/assets/images/6-4-19b236849a007e9b6d7d2b3e563ad5f4.png)
-
-1. Click the Upload file button.
-2. Select the file(s) you want to upload in the opened system window.
-3. Click the Open button.
-4. You should find that the new assets have been successfully uploaded and are now displayed in your library.
 <br>
 
-## How to delete assets[](https://docs.reearth.io/user-manual/project-and-workspace/workspace/assets-library#how-to-delete-assets)
+## Accessing the Asset Library from the Project Edit Screen
 
-Whereas adding an asset is possible from both the settings and while editing your project, deleting assets only happens in the settings. Deleting multiple at once is also possible.
+1. Click "Project Settings" from the dropdown menu next to the title.
 
-![https://docs.reearth.io/assets/images/6-5-d6280562ef0e263597bbc642a4b88fc3.png](https://docs.reearth.io/assets/images/6-5-d6280562ef0e263597bbc642a4b88fc3.png)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/a21fa97e-5c49-4d70-8eb9-42cc404c1525)
 
-![https://docs.reearth.io/assets/images/6-6-a7f5ba57b6728c9881c4002d87e630c0.png](https://docs.reearth.io/assets/images/6-6-a7f5ba57b6728c9881c4002d87e630c0.png)
+<br>
+2. Select "Assets" from the left panel of the settings screen.
 
-![https://docs.reearth.io/assets/images/6-7-86a728297765858d5b5ff0dfaf1ad6ba.png](https://docs.reearth.io/assets/images/6-7-86a728297765858d5b5ff0dfaf1ad6ba.png)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/30b4458f-9533-494d-ab78-aefccaa5cb90)
 
-1. Select the asset(s) you want to delete.
-2. Click the Delete button in the upper right corner.
-3. Confirm your actions.
-4. All selected assets should be deleted.
 <br>
 
-## Find the asset you want[](https://docs.reearth.io/user-manual/project-and-workspace/workspace/assets-library#find-the-asset-you-want)
-
-As the number of assets increases, there will be more and more items in your library making it harder for you to find the one you want to use. We provide a panel of card management functions to help you.
-<br>
-<br>
-
-### Filtering[](https://docs.reearth.io/user-manual/project-and-workspace/workspace/assets-library#filtering)
-
-Re-Earth provides a drop-down list of filters so you can customize the viewing order of assets, as you can see in the following picture:
-
-![https://docs.reearth.io/assets/images/6-8-fdefbbfb395bdd489bc8916e5e375b10.png](https://docs.reearth.io/assets/images/6-8-fdefbbfb395bdd489bc8916e5e375b10.png)
-
-A. Arrange asset cards in order of file upload time.
-
-B. Arrange asset cards in order of file size.
-
-C. Arrange asset cards by file name.
-
-D. For each filter, you can use this button to toggle the reverse order.
-<br>
-<br>
-
-### Card style[](https://docs.reearth.io/user-manual/project-and-workspace/workspace/assets-library#card-style)
-
-Re-Earth currently provides three ways to view the asset library:
-
-![https://docs.reearth.io/assets/images/6-9-803a1f78ae2cd1bf7296edf8b08f4782.png](https://docs.reearth.io/assets/images/6-9-803a1f78ae2cd1bf7296edf8b08f4782.png)
-
-A. **List style** prioritizes showing the file information (name, file size, and import date) in a simple list. Ideal for many data-oriented assets.
-
-B. **Small card** styles can see more assets on the page at once.
-
-C. **Large cards** have a larger preview space. Ideal for many picture assets.
-<br>
-<br>
-
-### Search by file name[](https://docs.reearth.io/user-manual/project-and-workspace/workspace/assets-library#search-by-file-name)
-
-Of course, if you know its name, the most direct way to find an asset is to search for the file name.
-
-![https://docs.reearth.io/assets/images/6-10-2b23faa3c58d82834a899f43a9d57c7c.png](https://docs.reearth.io/assets/images/6-10-2b23faa3c58d82834a899f43a9d57c7c.png)
-
-Enter the file name in the search box and only matching results will be displayed below.
-
-There are various places in Re-Earth to use assets. Usage details about assets will be introduced in their respective sections.
+For detailed instructions, please refer to "[About Assets](https://github.com/CS-eukarya/User-Manual-English-/blob/Asset/About%20Assets.md)," "[Adding and Deleting Assets](https://github.com/CS-eukarya/User-Manual-English-/blob/Asset/Adding%20and%20Removing%20Assets.md)," and "[Manage Assets](https://github.com/CS-eukarya/User-Manual-English-/blob/Asset/Manage%20Assets.md)."
