@@ -11,7 +11,40 @@ For a detailed explanation, please see [Plugins](https://github.com/CS-eukarya/U
 In the future, we plan to enable plugins to perform calculations for streamlining scene editing and data processing.
 
 On the Plugin Library page, you manage the installation, deletion, and administration of plugins to projects.
+
+## Accessing the Plugin Library
+
+1. Open the project settings screen from the "Settings button" on the dashboard screen.
+
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/87a6d9dd-d021-4770-aa60-7f6702ad5e05)
 <br>
+2.Select "Plugins" from the menu on the left.
+
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/f5463fa3-18fd-45ce-bd96-1e2aa8dda3f3)
+<br>
+3. The "Publicly Installed" and "Personally Installed" tabs manage their respective plugins.
+
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/93759ab5-1b1b-40e6-ae63-14c14bfd57ec)
+<br>
+<br>
+
+### Publicly Installed
+
+When you install a plugin from the public plugin marketplace, a list of installed plugins will be displayed in the "Publicly Installed" tab.
+
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/92931b36-f5db-4c71-9cb1-d6f6857e5cba)
+
+<br>
+<br>
+
+### Personally Installed
+
+When you install a plugin you created yourself, a list of installed plugins will be displayed in the "Personally Installed" tab.
+
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/9417bea4-7b4f-4a7c-b714-e3af321c5382)
+<br>
+<br>
+
 ![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/437e9bd2-ce2f-448b-994d-f5c4b4c5f1f8)
 
 **A.** It shows how to install plugins.
