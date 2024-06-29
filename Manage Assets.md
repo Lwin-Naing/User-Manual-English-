@@ -1,4 +1,4 @@
-# Asset Management
+# Manage Assets
 
 When it comes to Asset Management, we can do the following:
 
