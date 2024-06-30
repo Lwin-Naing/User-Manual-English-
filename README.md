@@ -22,7 +22,7 @@
         
         [Preview Page](https://github.com/CS-eukarya/User-Manual-English-/blob/Understanding-Re-Earth-UI/Preview%20Page.md)
         
-        [Publish Page](https://github.com/CS-eukarya/User-Manual-English-/blob/Understanding-Re-Earth-UI/Publish%20Page.md)
+        [Publish Project](https://github.com/CS-eukarya/User-Manual-English-/blob/Understanding-Re-Earth-UI/Publish%20Project.md)
         
 - Project & Workspace
     - Project
