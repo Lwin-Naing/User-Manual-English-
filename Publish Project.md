@@ -2,13 +2,13 @@
 
 1. Click the publish menu on the top right of the project edit screen.
 
-![Select Publish Button.png](https://github.com/CS-eukarya/User-Manual-English-/blob/Understanding-Re-Earth-UI/Publish%20Page/Select%20Publish%20Button.png)
+![Select Publish Button](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/0b0c5c13-13a3-4974-b13b-af19e045add2)
 <br>
 <br>
 
 2. Select Publish.
    
-![fghj 3.png](https://github.com/CS-eukarya/User-Manual-English-/blob/Understanding-Re-Earth-UI/Publish%20Page/fghj_3.png)
+![fghj_3](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/cb84d64b-043b-4d5c-a968-2077a33296b6)
  <br>
  <br>
 3. A confirmation screen will appear in the center of the screen.
