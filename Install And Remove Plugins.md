@@ -21,14 +21,13 @@ For more information on the differences between these two types of plugins, plea
     
 3. Click Install.
 
-![plugin3](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/3716397d-e937-4bbd-9cb5-62529d7383cc)
-
+![image 87](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/fa2b70c9-3691-431b-a23d-5512cc1497c8)
 
 <br>
 
 4. If a notification appears, the plugin has been successfully installed.
 
-![plugin4](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/a04cbc2a-f44d-4033-bc13-5d833d291a09)
+![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/d45fc8cf-6fc3-42cb-8a48-7c6a05b56151)
 
 <br>
 
@@ -109,18 +108,17 @@ Here are the instructions for uninstalling plugins, specifically for both "Publi
 
 <br>
 
-### Uninstalling "Publicly Installed" Plugins
+### Uninstalling "Public Installed" Plugins
 
-1. From the plugin library, click on the "Publicly Installed" tab.
+1. From the plugin library, click on the "Public Installed" tab.
 
-![plugin delete1](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/f3c33305-4fa2-44b5-a67d-ef057ad30317)
-
+![uninstall pg](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/c030f8b5-0d6b-4eb3-a5a6-6bac84489a6e)
 
 <br>
 
 2. Click "Uninstall" on the plugin you wish to remove.
 
-![plugin delete2](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/076b6ff7-a8e3-416d-9904-d24eb8d6141f)
+![uninstall pg 2](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/1a7ec014-c518-4b15-946c-b3cfaa32dfb3)
 
 <br>
 
