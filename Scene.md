@@ -1,6 +1,6 @@
 # Scene
 
-## About Scene
+## What is Scene?
 
 You can change settings related to the entire project and the digital earth background. The Scene section has nine operable boxes.
 
@@ -12,123 +12,105 @@ Scene allows you to experience geographic information similarly to the way you w
 
 This helps you to understand large and complex data and its spatial relationships by representing it as real-world objects that can be visualized, analyzed and managed in a scene.
 
-## **Here we can set the basic information for the scene**
+## About Scene
 
-### Set the initial camera position
+The Scene group lets you choose where the camera starts and how outer space looks.
+
+![Scene Properties.png](https://github.com/CS-eukarya/User-Manual-English-/blob/Scene-Properties/Scene/Scene%20Properties.png)
+
+### A. Initial Camera Position
+
+This setting determines the initial viewing angle when the project is opened. By default, the entire North American continent is displayed upon page load.
 
 ![basic 1.png](Scene/basic_1%201.png)
 
-In Re-Earth the default setting is to display all of North America. You can change the camera position to be displayed on the page load by setting the initial camera position.
-and Click on (not set)
+<br>
+1. When you click 'Initial Camera Position', the viewing angle settings will appear. <br>You can either directly change the values in the fields or manipulate the map to input the viewing angle.
+<br>
+2. Clicking 'Capture' will set the current position and viewing angle as the initial camera position.
 
 ![45 1.png](Scene/45_1.png)
 
-Move the digital earth to the desired location. Click (Capture) to add the coordinates that you want
+<br>
+Clicking the item again allows you to confirm the viewing angle you're setting.
+A. Clicking "Jump" will move the camera to the set viewing angle.
+B. Clicking "Edit" will allow you to reconfigure the viewing angle.
 
-![45 1.png](Scene/45_1%201.png)
+- Image (New)
 
-### **Enter the ground**
+<br>
 
-Set the true to allow the camera to enter the surface of the earth by clicking on The Enter the ground toggle on/off on allow / off not allow
+## B. Enter the Gorund
+
+By turning on the button, you can enter the ground level.
 
 ![basic 1.png](Scene/basic_1%202.png)
 
-### Scene mode
+<br>
 
-In Scene mode, we get three options are different viewing modes you can use to visualize 3D data
+### C. Scene Mode 
+
+You can change how the map is displayed. You can choose from "Scene 3D," "Scene 2D," and "Columbus View."
+
+- Scene 3D<br>
+This is the traditional 3D perspective view of the Earth. Working in 3D allows you to incorporate real-world elements into your content by emphasizing the effects of terrain movement and the distinctive 3D sizes of features like trees, buildings, and subsurface geology.
 
 ![sdf 1.png](Scene/sdf_1.png)
 
-### Scene 3D
-
-3D mode. A traditional 3D perspective view of the globe.
-Working in 3D can incorporate real-world elements with your content, highlighting influences such as the movement of the terrain and the 3D extent of features such as trees, buildings, and subsurface geology.
-
-![sdf 1.png](Scene/sdf_1%201.png)
-
-### Scene 2D
-
-2D mode. The map is viewed top-down with an orthographic projection
-This option can acquire high-quality 2D images at various angles of the place the paper focuses on. Identifying the feature points from a 2D image acquired from the calibrated camera and reconstructing those features using depth analysis to obtain the 3D view of the object or image
+- Scene 2D <br>
+The map is displayed from top to bottom in an orthographic projection. This option allows you to obtain high-quality 2D images at various angles of the location the paper is focusing on.
 
 ![2 D 1.png](Scene/2_D_1.png)
 
-### Columbus View
-
-Columbus View mode. A 2.5D perspective view where the map is laid out flat and objects with nonzero height are drawn above it.
+- Columbus View<br>
+This is a 2.5D perspective view where the map is laid out flat and objects with non-zero height are drawn on top of it. It is like a "bird's-eye view" where you look down at an angle from above. It is also called a panoramic view.
 
 ![View 1.png](Scene/View_1.png)
 
-### Sky
+### D. Sky 
 
-The Sky toggle enables using space as the background.
+'Sky' setting allows you to toggle the display of outer space on or off.
 
-![basic 1.png](Scene/basic_1%203.png)
-
-Click the (Sky) toggle Such as (on) enabled the Sky and  Stars 
-
-![fhg.png](Scene/fhg.png)
+- Enabled
 
 ![3_009-73a86289356eefe7d32c1e3379cdd8a4.png](Scene/3_009-73a86289356eefe7d32c1e3379cdd8a4.png)
 
-Click the (Sky) toggle Such as (off) disabled the Sky and  Stars
 
-![dfgd.png](Scene/dfgd.png)
+- Disabled
 
 ![3_008-a4738709e14b68815caa38a060cd0661.png](Scene/3_008-a4738709e14b68815caa38a060cd0661.png)
 
-### Background color
 
-Set background color
+### Background Color Settings
 
-![basic 1.png](Scene/basic_1%204.png)
+'Background Color' Setting allows you to set the background color when sky display is turned off.
 
-Disable the Sky and Click (not set) for the background color.
+- Disabled the "Sky Setting" and click on "not set" within background colour settings.
 
 ![wre.png](Scene/wre.png)
 
-With the background color setting, you can set the background color seen if the sky is not enabled.
-
-![sdf.png](Scene/sdf.png)
-
-Select any color from the displayed color panel and click Save
+- Choose your desired color from the color panel that appears and click "Save".
 
 ![864 1.png](Scene/864_1.png)
 
-The background color will be changed immediately
-
-![Screenshot 2023-02-03 113048.png](Scene/Screenshot_2023-02-03_113048.png)
-
-Before Setting the Color 
+- Without Background Color
 
 ![sdf.png](Scene/sdf%201.png)
 
-After Setting the Color 
+- With Background Color
 
 ![Screenshot 2023-02-03 113231.png](Scene/Screenshot_2023-02-03_113231.png)
 
-### Cesium Ion API access token
 
-Access tokens provide authentication when using Cesium ion’s REST API and are used to link API requests to your account. Access tokens allow you to integrate ion into your workflows and apps, including things like automating asset uploads and accessing your assets. 
+### F. Cesium Ion API Access Token
 
-This guide provides information about how to create and manage access tokens, and best practices to ensure account security.
+We recommend setting a Cesium token when using Cesium, as it allows you to quickly adapt to Cesium version upgrades. Not setting a token will not affect Re:Earth's functionality.
 
-The Cesium ion API access token enables the use of Cesium ion assets (map tile data, 3D data, etc.).
+You can obtain the token by logging into Cesium ion and visiting the 'Access Token; page.
 
-To do so, register with Cesium Ion and set the API key issued by your Cesium Ion account to your project.
+![image.png](https://github.com/CS-eukarya/User-Manual-English-/blob/Scene-Properties/Scene/image.png)
 
-![basic 1.png](Scene/basic_1%205.png)
+### G. VR
 
-### VR
-
-Enable VR mode to split the screen info left and right
-
-![574.png](Scene/574.png)
-
-Enable the toggle
-
-![564.png](Scene/564.png)
-
-Disable the toggle
-
-![574.png](Scene/574%201.png)
+**🔥 Caution🔥
+This feature is still under development and cannot be used at this time. Please note that turning it on may cause issues such as the globe disappearing.**
