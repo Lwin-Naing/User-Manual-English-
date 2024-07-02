@@ -6,7 +6,7 @@ You can change settings related to the entire project and the digital earth back
 
 This section introduces the functions and effects that can be set in the "Scene" part of the Scene section.
 
-![basic 1.png](Overview%2002596916c49f49cca15a6040edb0c583/basic_1.png)
+![basic 1.png](Scene/basic_1.png)
 
 Scene allows you to experience geographic information similarly to the way you would in the real world.
 
@@ -16,96 +16,96 @@ This helps you to understand large and complex data and its spatial relationship
 
 ### Set the initial camera position
 
-![basic 1.png](Overview%2002596916c49f49cca15a6040edb0c583/basic_1%201.png)
+![basic 1.png](Scene/basic_1%201.png)
 
 In Re-Earth the default setting is to display all of North America. You can change the camera position to be displayed on the page load by setting the initial camera position.
 and Click on (not set)
 
-![45 1.png](Overview%2002596916c49f49cca15a6040edb0c583/45_1.png)
+![45 1.png](Scene/45_1.png)
 
 Move the digital earth to the desired location. Click (Capture) to add the coordinates that you want
 
-![45 1.png](Overview%2002596916c49f49cca15a6040edb0c583/45_1%201.png)
+![45 1.png](Scene/45_1%201.png)
 
 ### **Enter the ground**
 
 Set the true to allow the camera to enter the surface of the earth by clicking on The Enter the ground toggle on/off on allow / off not allow
 
-![basic 1.png](Overview%2002596916c49f49cca15a6040edb0c583/basic_1%202.png)
+![basic 1.png](Scene/basic_1%202.png)
 
 ### Scene mode
 
 In Scene mode, we get three options are different viewing modes you can use to visualize 3D data
 
-![sdf 1.png](Overview%2002596916c49f49cca15a6040edb0c583/sdf_1.png)
+![sdf 1.png](Scene/sdf_1.png)
 
 ### Scene 3D
 
 3D mode. A traditional 3D perspective view of the globe.
 Working in 3D can incorporate real-world elements with your content, highlighting influences such as the movement of the terrain and the 3D extent of features such as trees, buildings, and subsurface geology.
 
-![sdf 1.png](Overview%2002596916c49f49cca15a6040edb0c583/sdf_1%201.png)
+![sdf 1.png](Scene/sdf_1%201.png)
 
 ### Scene 2D
 
 2D mode. The map is viewed top-down with an orthographic projection
 This option can acquire high-quality 2D images at various angles of the place the paper focuses on. Identifying the feature points from a 2D image acquired from the calibrated camera and reconstructing those features using depth analysis to obtain the 3D view of the object or image
 
-![2 D 1.png](Overview%2002596916c49f49cca15a6040edb0c583/2_D_1.png)
+![2 D 1.png](Scene/2_D_1.png)
 
 ### Columbus View
 
 Columbus View mode. A 2.5D perspective view where the map is laid out flat and objects with nonzero height are drawn above it.
 
-![View 1.png](Overview%2002596916c49f49cca15a6040edb0c583/View_1.png)
+![View 1.png](Scene/View_1.png)
 
 ### Sky
 
 The Sky toggle enables using space as the background.
 
-![basic 1.png](Overview%2002596916c49f49cca15a6040edb0c583/basic_1%203.png)
+![basic 1.png](Scene/basic_1%203.png)
 
 Click the (Sky) toggle Such as (on) enabled the Sky and  Stars 
 
-![fhg.png](Overview%2002596916c49f49cca15a6040edb0c583/fhg.png)
+![fhg.png](Scene/fhg.png)
 
-![3_009-73a86289356eefe7d32c1e3379cdd8a4.png](Overview%2002596916c49f49cca15a6040edb0c583/3_009-73a86289356eefe7d32c1e3379cdd8a4.png)
+![3_009-73a86289356eefe7d32c1e3379cdd8a4.png](Scene/3_009-73a86289356eefe7d32c1e3379cdd8a4.png)
 
 Click the (Sky) toggle Such as (off) disabled the Sky and  Stars
 
-![dfgd.png](Overview%2002596916c49f49cca15a6040edb0c583/dfgd.png)
+![dfgd.png](Scene/dfgd.png)
 
-![3_008-a4738709e14b68815caa38a060cd0661.png](Overview%2002596916c49f49cca15a6040edb0c583/3_008-a4738709e14b68815caa38a060cd0661.png)
+![3_008-a4738709e14b68815caa38a060cd0661.png](Scene/3_008-a4738709e14b68815caa38a060cd0661.png)
 
 ### Background color
 
 Set background color
 
-![basic 1.png](Overview%2002596916c49f49cca15a6040edb0c583/basic_1%204.png)
+![basic 1.png](Scene/basic_1%204.png)
 
 Disable the Sky and Click (not set) for the background color.
 
-![wre.png](Overview%2002596916c49f49cca15a6040edb0c583/wre.png)
+![wre.png](Scene/wre.png)
 
 With the background color setting, you can set the background color seen if the sky is not enabled.
 
-![sdf.png](Overview%2002596916c49f49cca15a6040edb0c583/sdf.png)
+![sdf.png](Scene/sdf.png)
 
 Select any color from the displayed color panel and click Save
 
-![864 1.png](Overview%2002596916c49f49cca15a6040edb0c583/864_1.png)
+![864 1.png](Scene/864_1.png)
 
 The background color will be changed immediately
 
-![Screenshot 2023-02-03 113048.png](Overview%2002596916c49f49cca15a6040edb0c583/Screenshot_2023-02-03_113048.png)
+![Screenshot 2023-02-03 113048.png](Scene/Screenshot_2023-02-03_113048.png)
 
 Before Setting the Color 
 
-![sdf.png](Overview%2002596916c49f49cca15a6040edb0c583/sdf%201.png)
+![sdf.png](Scene/sdf%201.png)
 
 After Setting the Color 
 
-![Screenshot 2023-02-03 113231.png](Overview%2002596916c49f49cca15a6040edb0c583/Screenshot_2023-02-03_113231.png)
+![Screenshot 2023-02-03 113231.png](Scene/Screenshot_2023-02-03_113231.png)
 
 ### Cesium Ion API access token
 
@@ -117,18 +117,18 @@ The Cesium ion API access token enables the use of Cesium ion assets (map tile d
 
 To do so, register with Cesium Ion and set the API key issued by your Cesium Ion account to your project.
 
-![basic 1.png](Overview%2002596916c49f49cca15a6040edb0c583/basic_1%205.png)
+![basic 1.png](Scene/basic_1%205.png)
 
 ### VR
 
 Enable VR mode to split the screen info left and right
 
-![574.png](Overview%2002596916c49f49cca15a6040edb0c583/574.png)
+![574.png](Scene/574.png)
 
 Enable the toggle
 
-![564.png](Overview%2002596916c49f49cca15a6040edb0c583/564.png)
+![564.png](Scene/564.png)
 
 Disable the toggle
 
-![574.png](Overview%2002596916c49f49cca15a6040edb0c583/574%201.png)
+![574.png](Scene/574%201.png)
