@@ -55,7 +55,9 @@
         [Overview](https://github.com/CS-eukarya/User-Manual-English-/blob/Scene/Overview%20for%20Scene.md)
         
         - Scene Properties
-            
+ 
+            [Scene](https://github.com/CS-eukarya/User-Manual-English-/blob/Scene-Properties/Scene.md)
+          
             [Tiles ](https://github.com/CS-eukarya/User-Manual-English-/blob/Scene-Properties/Tiles.md)
             
             [Terrain](https://github.com/CS-eukarya/User-Manual-English-/blob/Scene-Properties/Terrain.md)
