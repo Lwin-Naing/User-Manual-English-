@@ -177,6 +177,8 @@
 - Asset
     
     [Idea Of Assets](https://github.com/CS-eukarya/User-Manual-English-/blob/Asset/Idea%20Of%20Assets.md)
+
+    [Adding and Deleting Assets](https://github.com/CS-eukarya/User-Manual-English-/blob/Asset/Adding%20and%20Removing%20Assets.md)
     
     [Manage Assets](https://github.com/CS-eukarya/User-Manual-English-/blob/Asset/Manage%20Assets.md)
     
