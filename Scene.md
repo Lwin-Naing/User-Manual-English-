@@ -1,12 +1,10 @@
-# Overview
+# Scene
 
-## Scene
+## About Scene
 
-You can modify settings related to the entire project and the Digital Earth background in the scene.
+You can change settings related to the entire project and the digital earth background. The Scene section has nine operable boxes.
 
-This section explains how to locate the scene. 
-
-I**n the scene, there are Nine Boxes that you can manipulate :**
+This section introduces the functions and effects that can be set in the "Scene" part of the Scene section.
 
 ![basic 1.png](Overview%2002596916c49f49cca15a6040edb0c583/basic_1.png)
 
