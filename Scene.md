@@ -34,9 +34,9 @@ This setting determines the initial viewing angle when the project is opened. By
 <br>
 Clicking the item again allows you to confirm the viewing angle you're setting.
 A. Clicking "Jump" will move the camera to the set viewing angle.
-B. Clicking "Edit" will allow you to reconfigure the viewing angle.
+B. Clicking "Edit Position" will allow you to reconfigure the viewing angle.
 
-- Image (New)
+![Edit.png](https://github.com/CS-eukarya/User-Manual-English-/blob/Scene-Properties/Scene/Edit.png)
 
 <br>
 
