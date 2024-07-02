@@ -23,6 +23,8 @@ Re:Earthではその属性を表示する機能もついており、インフォ
 
 地図上の各建物をクリックすると、先ほど作成したインフォボックス内に建物の属性が表示されます。
 
+<br>
+
 例）東京タワーをクリックすると、このようにインフォボックス内に東京タワーの属性を表示させることができます。
 
 ![建物の属性3⃣.png](Display%20building%20attributes%2058a60bf2e9044de39c52397a1def4053/%25E5%25BB%25BA%25E7%2589%25A9%25E3%2581%25AE%25E5%25B1%259E%25E6%2580%25A73.png)
@@ -33,4 +35,4 @@ Re:Earthではその属性を表示する機能もついており、インフォ
 | --- | --- | --- |
 |  | テクスチャなし | https://plateau.geospatial.jp/main/data/3d-tiles/bldg/13100_tokyo/13103_minato-ku/notexture/tileset.json |
 |  | テクスチャ付き | https://plateau.geospatial.jp/main/data/3d-tiles/bldg/13100_tokyo/13103_minato-ku/texture/tileset.json |
-|  | テクスチャ付き（低解像度） | https://plateau.geospatial.jp/main/data/3d-tiles/bldg/13100_tokyo/13103_minato-ku/low_resolution/tileset.json |
+|  | テクスチャ付き　　　　　　（低解像度） | https://plateau.geospatial.jp/main/data/3d-tiles/bldg/13100_tokyo/13103_minato-ku/low_resolution/tileset.json |
