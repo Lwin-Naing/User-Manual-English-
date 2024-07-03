@@ -71,7 +71,11 @@
             [Timeline ](https://github.com/CS-eukarya/User-Manual-English-/blob/Scene-Properties/Timeline%20for%20Scene.md)
             
             [Camera Limiter](https://github.com/CS-eukarya/User-Manual-English-/blob/Scene-Properties/Camera%20Limiter.md)
-            
+
+            Google Anlaytics
+
+            Advanced
+
     - Layers
         
         [Overview](https://github.com/CS-eukarya/User-Manual-English-/blob/Layers/Overview%20for%20Layer.md)
