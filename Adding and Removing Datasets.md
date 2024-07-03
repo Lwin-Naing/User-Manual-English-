@@ -1,8 +1,9 @@
 # Adding and Removing Datasets
 
-- Image
+![Dataset 1](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/9c697874-cfb5-4a92-ab5b-0600fb3fa561)
 
 A. Add Dataset: You can import data from your local PC.
+
 B. Delete Button: This button appears when you hover your mouse over a dataset card.
 
 Currently, dataset management is limited to adding (importing) and deleting datasets.<br>
@@ -12,40 +13,34 @@ We plan to expand these features in future development.
 
 1. Click "Datasets" from the dropdown menu next to the title.
 
-- Image
+![Dataset 2](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/cfdf259c-85e6-44b2-a025-a296448dace5)
 
 2. Click "Add Dataset."
 
-- Image
+![Dataset 3](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/eb2f06e1-06ef-42c2-96ef-5b394a98d280)
 
 3. Select the file and click "Open."
 
-- Image
+![Dataset 4](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/26ad7e58-a9d4-4e61-8cd3-da0f5540dd2c)
 
 4. The CSV data will be added. Click the "Edit" button (the pencil icon) on the globe to return to the editing page.
 
-- Image
+![Dataset 5](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/8fd296e7-7854-41b0-99b4-55f333fdd8c0)
 
 
 ## How to Import an Uploaded Dataset
 
-
-
 1. Click on the CSV data that was added in the "Datasets" tab in the left panel.
 
-- Image 
-
-
-
+![Dataset 6](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/60baedcb-8759-4e2a-a3ae-3c8a898aa879)
+ 
 2. Confirm that there are no garbled characters and click on "Layer Type."
 
-- Image
+![Dataset 7](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/79cf23fb-9bb0-470c-aeae-09149b942062)
 
 3. Select the layer type.
 
-- Image
-
-
+![Dataset 8](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/495dbd26-3e53-4edd-8283-a0e3dca6dea7)
 
 You can choose from the following six layer types:
 
@@ -63,8 +58,8 @@ You can choose from the following six layer types:
 
 4. Click "Import."
 
-- Image 
-
+![Dataset 8](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/f59a9f2c-7a0d-462f-890b-2528e4da4dae)
+ 
 5. The selected layer will be added to the map.
 In the case of a sphere, it will be displayed like this.
 
