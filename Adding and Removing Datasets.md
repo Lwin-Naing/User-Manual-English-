@@ -58,7 +58,7 @@ You can choose from the following six layer types:
 
 4. Click "Import."
 
-![Dataset 8](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/f59a9f2c-7a0d-462f-890b-2528e4da4dae)
+![Dataset 9](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/d1fbd20a-93fa-4ee1-830f-a8b16bdee4ad)
  
 5. The selected layer will be added to the map.
 In the case of a sphere, it will be displayed like this.
