@@ -1,4 +1,4 @@
-# 複数の属性で色分け
+# Color-coded with multiple attributes 
 
 PLATEAUの3D都市モデルの色付けでは、前のページで行った「高さ」属性のみではなく、
 
@@ -43,7 +43,7 @@ PLATEAUの3D都市モデルの色付けでは、前のページで行った「�
 
 
 3. 3Dtilesレイヤーの設定項目のスタイルURLを選択します。
-
+<br>
 
 <img width="980" alt="Color-coded with multiple attributes 3 " src="https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/673683b8-3e08-4c82-a166-4754f53f1aab">
 
@@ -52,15 +52,15 @@ PLATEAUの3D都市モデルの色付けでは、前のページで行った「�
 
 
 4. ファイルアップロードよりファイルがアセットに追加されるので、クリックして選択します。
+<br>
 
-
-<img width="980" alt="Color-coded with multiple attributes 4" src="https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/a07032a1-c81f-4d99-b284-eff4c5105068">
+<img width="980" alt="stteing 4" src="https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/281c2b95-06fc-4de1-946d-3f47b12655a4">
 
 <br>
 <br>
 
 
 すると、このように表示されます。
-
+<br>
 
 <img width="980" alt="Color-coded with multiple attributes last" src="https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/d9b5bbb4-94a8-4d23-ac53-39a565fff522">
