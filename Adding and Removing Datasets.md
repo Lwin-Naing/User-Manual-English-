@@ -43,18 +43,12 @@ We plan to expand these features in future development.
 ![Dataset 8](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/495dbd26-3e53-4edd-8283-a0e3dca6dea7)
 
 You can choose from the following six layer types:
-
-   - [Marker](https://github.com/CS-eukarya/User-Manual-English-/blob/Re-Earth-layers/Marker.md) 
-
-   - [Photo Overlay](https://github.com/CS-eukarya/User-Manual-English-/blob/Re-Earth-layers/Photo%20Overlay.md)
-
-   - [Sphere](https://github.com/CS-eukarya/User-Manual-English-/blob/Re-Earth-layers/Sphere.md)
-
-   - [3D Model](https://github.com/CS-eukarya/User-Manual-English-/blob/Re-Earth-layers/3D%20Model.md)
-
-   - [3D Tiles](https://github.com/CS-eukarya/User-Manual-English-/blob/Re-Earth-layers/3D%20Tiles.md)
-
-   - [File](https://github.com/CS-eukarya/User-Manual-English-/blob/Re-Earth-layers/File.md)
+- [Marker](https://github.com/CS-eukarya/User-Manual-English-/blob/Re-Earth-layers/Marker.md) 
+- [Photo Overlay](https://github.com/CS-eukarya/User-Manual-English-/blob/Re-Earth-layers/Photo%20Overlay.md)
+- [Sphere](https://github.com/CS-eukarya/User-Manual-English-/blob/Re-Earth-layers/Sphere.md)
+- [3D Model](https://github.com/CS-eukarya/User-Manual-English-/blob/Re-Earth-layers/3D%20Model.md)
+- [3D Tiles](https://github.com/CS-eukarya/User-Manual-English-/blob/Re-Earth-layers/3D%20Tiles.md)
+- [File](https://github.com/CS-eukarya/User-Manual-English-/blob/Re-Earth-layers/File.md)
 
 4. Click "Import."
 
@@ -63,14 +57,13 @@ You can choose from the following six layer types:
 5. The selected layer will be added to the map.
 In the case of a sphere, it will be displayed like this.
 
--Image
-
+![Dataset 10](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/2245b939-7947-4198-891d-d50a10ab93fd)
 
 ## How to Set Properties for All Layers in a Batch
 
 1. Click on the "Outline" tab in the left panel, then select the CSV data that has been added to the layer.
 
-- Image
+![Dataset 11](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/50f5c404-9c79-4ff9-a277-3d28e30da661)
 
 
 2. Move to the right panel and click on the text you want to set.<br>
