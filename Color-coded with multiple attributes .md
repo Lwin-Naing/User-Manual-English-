@@ -63,4 +63,5 @@ PLATEAUの3D都市モデルの色付けでは、前のページで行った「�
 すると、このように表示されます。
 <br>
 
-<img width="980" alt="Color-coded with multiple attributes last" src="https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/d9b5bbb4-94a8-4d23-ac53-39a565fff522">
+
+<img width="980" alt="Color-coded with multiple attributes last（revised ver ）" src="https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/16bed301-00fc-46fd-a53e-955035c57cd7">
