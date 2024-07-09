@@ -1,19 +1,14 @@
 # Color-coded with multiple attributes 
 
-PLATEAUの3D都市モデルの色付けでは、前のページで行った「高さ」属性のみではなく、
+In the coloring of the PLATEAU 3D city model, you can combine attributes and color-code buildings, not just using the "height" attribute as done on the previous page.
 
-属性を組み合わせ、建物の色分けをすることが可能です。
+Here, in addition to the "height" attribute, the "use" attribute will also be used for coloring.
 
-ここでは「高さ」属性に加えて、「用途」という属性も使用し色分けをします。
+1. Open your favorite text editor (Notepad is fine). Please paste the following code:
 
-<br>
-<br>
-
-1. お好みのテキストエディターを開きます。（メモ帳でも大丈夫です）<br>以下のコードを貼付してください。
-
-- _heightの値が50以上で、用途が業務施設は`#f8a99c`
+- For buildings with a _height value of 50 or more and used as business facilities use: `#f8a99c`
   
-- _heightの値が10以下で、用途が商業施設は`#923b2d`
+- For buildings with a _height value of 10 or less and used as commercial facilities use: `#923b2d`
 
 ```jsx
 {
@@ -35,14 +30,14 @@ PLATEAUの3D都市モデルの色付けでは、前のページで行った「�
 <br>
 <br>
 
-2. 名前をつけて保存してください。拡張子は.jsonにしてください。ファイル名は自由です。
+2. Save the file with the name of your choice and use the .json extension.
 
 <img width="250" alt="jsonファイル画像" src="https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/263c2958-97cd-4f70-9359-4541cbf08dea">
 <br>
 <br>
 
 
-3. 3Dtilesレイヤーの設定項目のスタイルURLを選択します。
+3. Select the style URL in the settings for the 3D Tiles layer.
 <br>
 
 <img width="980" alt="Color-coded with multiple attributes 3 " src="https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/673683b8-3e08-4c82-a166-4754f53f1aab">
@@ -51,7 +46,7 @@ PLATEAUの3D都市モデルの色付けでは、前のページで行った「�
 <br>
 
 
-4. ファイルアップロードよりファイルがアセットに追加されるので、クリックして選択します。
+4. Once the file is added to the assets through file upload, click to select it.
 <br>
 
 <img width="980" alt="stteing 4" src="https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/281c2b95-06fc-4de1-946d-3f47b12655a4">
@@ -60,7 +55,7 @@ PLATEAUの3D都市モデルの色付けでは、前のページで行った「�
 <br>
 
 
-すると、このように表示されます。
+Then, it will be displayed like this.
 <br>
 
 
