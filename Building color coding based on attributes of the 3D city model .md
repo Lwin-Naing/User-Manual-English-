@@ -8,11 +8,11 @@ You can use this attribute to color-code based on height.
 Open your favorite text editor (Notepad is fine).
 Please paste the following code:
 
--Items with a _height value less than 60: #13293D
+- Items with a _height value less than 60: #13293D
 
--Items with a _height value between 60 and less than 120: #1B98E0
+- Items with a _height value between 60 and less than 120: #1B98E0
 
--All others: #E8F1F2 with an opacity of 0.5.
+- All others: #E8F1F2 with an opacity of 0.5.
 
 ```
 {
