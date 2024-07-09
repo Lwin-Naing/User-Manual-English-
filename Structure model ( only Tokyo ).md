@@ -32,7 +32,7 @@ For example, you might use the Tokyo bridge model as a reference.
 
 <br>
 
-Other regional PLATEAU 3D Tiles data is[**HERE**](https://github.com/Project-PLATEAU/plateau-streaming-tutorial/blob/main/3d-tiles/plateau-3dtiles-streaming.md) available from there.
+Other regional PLATEAU 3D Tiles data is [**HERE**] (https://github.com/Project-PLATEAU/plateau-streaming-tutorial/blob/main/3d-tiles/plateau-3dtiles-streaming.md) available from there.
 
 ![2024-07-01_23h36_53.png](Structure%20model%20(%20only%20Tokyo%20)%203c3537550f4f43818de3a58c03041683/2024-07-01_23h36_53.png)
 
