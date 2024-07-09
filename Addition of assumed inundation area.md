@@ -1,23 +1,19 @@
-# Addition of assumed inundation area
+## Addition of assumed inundation area
 
-浸水災害時の想定範囲を可視化することが可能です。
+# You can visualize the expected range of flooding during a disaster.
 
-<br>
-<br>
+1. On the digital earth, drag and drop the 3D Tiles icon to any location.
+   (The icon will not appear like a marker.)
 
-1.　デジタルアース上で、任意の場所に3Dタイルのアイコンをドラッグ＆ドロップします。
-
-　（マーカーのようにアイコンの表示はされません。）
-
-2.　左側パネルのレイヤーの欄に新しく青色の帯がついた「3Dタイル」の項目が追加されます。
+2. A new item labeled "3D Tiles" with a blue band will be added to the layer section on the left panel.
 
 ![2024-06-23_11h43_27.png](Addition%20of%20assumed%20inundation%20area%206468d8b91403461d92998d6b81a55439/2024-06-23_11h43_27.png)
 
 <br>
 <br>
 
-3.　右側パネルに3Dタイルの設定画面（プロパティ）が表示されますので、「タイルセットURL」をクリックします。
-
+3. The settings screen (properties) for the 3D Tiles will appear on the right panel. Click on "Tileset URL.
+   
 ![2024-06-23_11h44_13.png](Addition%20of%20assumed%20inundation%20area%206468d8b91403461d92998d6b81a55439/2024-06-23_11h44_13.png)
 
 ![2024-06-23_12h49_38.png](Addition%20of%20assumed%20inundation%20area%206468d8b91403461d92998d6b81a55439/2024-06-23_12h49_38.png)
@@ -25,9 +21,10 @@
 <br>
 <br>
 
-4.　URLタブをクリックし、該当のURLを貼付し、選択をクリックします。
+4. Click on the URL tab, paste the relevant URL, and click select.
 
-例）荒川の浸水想定範囲（3D-tiles）を参考にしています。
+For example, you could use the expected flood range of the Arakawa River (3D-tiles) as a reference.
+
 
 🌊 [https://plateau.geospatial.jp/main/data/3d-tiles/fld/13100_tokyo/texture/arakawa_l1/tileset.json](https://plateau.geospatial.jp/main/data/3d-tiles/fld/13100_tokyo/texture/arakawa_l1/tileset.json)
 
@@ -36,6 +33,6 @@
 <br>
 <br>
 
-荒川にズームしていくと荒川浸水想定範囲が表示されます。
+When you zoom in on the Arakawa River, the expected flood range of the Arakawa will be displayed.
 
 ![Untitled_(2).png](Addition%20of%20assumed%20inundation%20area%206468d8b91403461d92998d6b81a55439/Untitled_(2).png)
