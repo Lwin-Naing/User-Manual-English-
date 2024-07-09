@@ -11,30 +11,62 @@
 
 ## How to use 3D tiles in Re-Earth App.
 
-### Adding a 3D tile
+1. Drag and drop the 3D tile icon anywhere on the globe. (**Note**: The icon will not be displayed like a marker.)
 
-- Drag and drop the 3D tile icon anywhere on the globe. (**Note**: The icon will not be displayed like a marker.)
+- Image
 
-![Untitled 1](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/3f449005-25fd-4e1f-a1ce-ed86b482f91f)
 <br>
 <br>
 
-- When a 3D tile is dropped on the globe in the Re-Earth App, the word "3D tile" appears in blue in the layer on the left panel. The more 3D tiles you drop on the Re-earth app, the more 3D tiles appear in the layer.
+2. A new item labeled "3D Tiles" with a blue stripe will be added to the layer section of the left panel.
+3. The 3D Tiles settings screen (properties) will be displayed in the right panel.
 
-![Untitled 2](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/00160d7f-a9da-44ab-a8e8-bd00455c2e51)
+- Image
+  
 <br>
 <br>
-### Renaming a 3D tile
 
-To rename a 3D Tile layer, double-click on the text of the 3D tile. This switches to an editable view where you can enter the new name and confirm by pressing Enter.
+## 3D Tiles Properties
+
+In the 3D Tiles properties, you can configure the following items:
+
+- Image
+
+A. Source Type : Select either URL or OSMBuildings.
+
+*OSMBuildings is an open-source project that generates 3D models of buildings using data from OpenStreetMap (OSM). OSMBuildings can be integrated into web maps and mobile applications, allowing users to freely change the height, color, shape, and texture of buildings. This makes it possible to implement information useful for purposes such as urban planning and architectural design.*
+
+B. Tileset URL: Specify the URL where the 3D Tiles are being served. Make sure the URL ends with "tileset.json". 
+
+  1. Clicking the URL input field will display a modal dialog. 
+  2. Select the URL tab within the modal dialog. 
+  3. You can enter the URL. 
+  4. Click the "Select" button at the bottom right.
+
+- Image
+
+C. Styling URL: Specify the URL of a JSON file in 3D Tiles Styles format if you want to change the style of 3D Tiles, such as by color or attribute. 
+
+  1. Clicking the URL input field will display a modal dialog. 
+  2. Upload the 3D Tiles Styles JSON file by clicking "Upload File". 
+  3. Select the uploaded JSON file from your assets. 
+  4. Click the "Select" button at the bottom right.
+
+- Image
+
+D. 影：3Dオブジェクトなどに対して影の表現の有無を設定します。<br>
+影を有効にしたい場合、シーンの設定でも影を有効にする必要があるのでご注意ください。
+
+## Renaming a 3D tile
+
+To rename a layer, double-click on the text "3D Tiles." This will make the text editable. Input the new name and press Enter to confirm.
 
 ![Untitled 3](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/ff6b0027-91e0-460a-a6ff-045003c4fb80)
 <br>
-<Br>
 
 ### Hiding the 3D tiles
 
-Click on the eye symbol on the right side of the 3D tile in the left panel to make the 3D portion of the globe disappear in the Re-earth APP.
+Clicking the eye icon to the right of the 3D Tiles layer in the left panel will hide the 3D portion on the globe.
 <br>
 <br>
 
@@ -54,7 +86,7 @@ Click on the eye symbol on the right side of the 3D tile in the left panel to ma
 
 ### Deleting a 3D tile
 
-To delete a 3D tile, click on the 3D tile you wish to delete in the layers in the left panel, make sure it is selected in blue, and then press the "trash can" symbol on the right side of the layer to delete it.
+To delete a displayed 3D Tiles layer, click the layer you want to delete in the left panel to highlight it in blue. Then, click the trash can icon to the right of the layer to delete it.
 
 ![3Dtile7](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/a8c0560f-5a68-49ee-bc06-62ec411be36a)
 
