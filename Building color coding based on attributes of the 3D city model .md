@@ -1,21 +1,18 @@
 # Building color coding based on attributes of the 3D city model 
 
-PLATEAUの3D都市モデルには「_height」という高さの値が入った属性があります。<br>
 
-この属性を使って高さ別に色分けをすることが可能です。
+The 3D city model of PLATEAU has an attribute with height values called "_height."
 
-<br>
-<br>
+You can use this attribute to color-code based on height.
 
-1. お好みのテキストエディターを開きます。（メモ帳でも大丈夫です）
+Open your favorite text editor (Notepad is fine).
+Please paste the following code:
 
-以下のコードを貼付してください。
+-Items with a _height value less than 60: #13293D
 
-- _heightの値が60未満のものは`#13293D`
+-Items with a _height value between 60 and less than 120: #1B98E0
 
-- 60以上120未満のものは`#1B98E0`
-  
-- それ以外は`#E8F1F2`、透明度0.5として設定されます。
+-All others: #E8F1F2 with an opacity of 0.5.
 
 ```
 {
