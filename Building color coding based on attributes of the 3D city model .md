@@ -39,14 +39,14 @@ Please paste the following code:
 <br>
 <br>
 
-2. 名前をつけて保存してください。拡張子は.jsonにしてください。ファイル名は自由です。
+2. Please save the file with the name of your choice. The file extension should be .json.
 
    <img width="250" alt="json file image" src="https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/ef45d928-c46a-40c9-8c00-b7b6fff2074f">
 
 <br>
 <br>
 
-3. 3Dtilesレイヤーの設定項目のスタイルURLを選択します。
+3. Select the style URL in the settings for the 3D Tiles layer.
 <br>
 
 <img width="980" alt="setting 3 " src="https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/3a784ce2-f188-495e-b878-793341be34ad">
@@ -54,7 +54,7 @@ Please paste the following code:
 <br>
 <br>
 
-4. ファイルアップロードよりファイルがアセットに追加されるので、クリックして選択します。
+4. After the file is added to the assets through file upload, click to select it.
 <br>
 
 <img width="980" alt="stteing 4" src="https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/5f823808-d2a9-4bc1-a222-c78b5fbf845b">
@@ -62,7 +62,7 @@ Please paste the following code:
 <br>
 <br>
 
-すると、このように表示されます。
+Then, it will be displayed like this.
 
 <img width="980" alt="Building color coding based on attributes of the 3D city model last" src="https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/f04db219-71c2-4e2f-9262-452257f02aa1">
 
