@@ -18,7 +18,7 @@ The Re:Earth Marketplace will open in a new tab.
 <br>
 <br>
 
-## How to add a plugin
+## How to Upload a New plugin
 
 1. Browse the available plugins using search filters, and categories, or enter keywords in the search window to search for plug-ins.
 
@@ -50,13 +50,15 @@ The Re:Earth Marketplace will open in a new tab.
 
 6. Click on **install** button.
 
-![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/2042eb60-93d4-4d1d-9605-1bc7066666aa)
+![install plugin](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/226ef279-54aa-4824-89ae-223b06f313af)
+
 <br>
 <br>
 
 7. If you see a notification that the installation is complete, the plugin has been installed successfully.
 
-![Marketplace7](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/3f83a256-376f-4fd4-8a58-546f6938d0e3)
+![plugin installed](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/979992b8-a415-462b-8664-a510fd408eb1)
+
 <br>
 <br>
 
