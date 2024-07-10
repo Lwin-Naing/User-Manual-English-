@@ -1,6 +1,6 @@
 ## Addition of assumed inundation area
 
-# You can visualize the expected range of flooding during a disaster.
+You can visualize the expected range of flooding during a disaster.
 
 1. On the digital earth, drag and drop the 3D Tiles icon to any location.
    (The icon will not appear like a marker.)
