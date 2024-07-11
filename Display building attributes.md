@@ -31,9 +31,7 @@ For example, when you click on the Tokyo Tower, its attributes will be displayed
 
 For example, it is based on the 3D city model of Minato Ward (3D-tiles) with textures.
 
-|Building Model (Minato Ward)
-
-| Description | URL |
+| Building Model (Minato Ward)| URL |
 |-------------|-----|
 | Without Texture | https://plateau.geospatial.jp/main/data/3d-tiles/bldg/13100_tokyo/13103_minato-ku/notexture/tileset.json |
 | With Texture | https://plateau.geospatial.jp/main/data/3d-tiles/bldg/13100_tokyo/13103_minato-ku/texture/tileset.json |
