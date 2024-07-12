@@ -1,7 +1,5 @@
 # File
 
-## What is a file?
-
 You can import files from external sources.
 
 By specifying a URL, you can load external data.
