@@ -2,7 +2,6 @@
 
 ![Dataset 1](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/9c697874-cfb5-4a92-ab5b-0600fb3fa561)
 
-![スクリーンショット 2024-07-04 225653.png](Adding%20and%20Deleting%20Dataset%202d35fb380d1a43b08fd853acd717769d/%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%25B3%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%2583%25E3%2583%2588_2024-07-04_225653.png)
 
 A. Add Dataset: You can import data from your local PC.
 
@@ -17,31 +16,20 @@ We plan to expand these features in future development.
 
 ![Dataset 2](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/cfdf259c-85e6-44b2-a025-a296448dace5)
 
-![2024-07-04_23h03_49.png](Adding%20and%20Deleting%20Dataset%202d35fb380d1a43b08fd853acd717769d/2024-07-04_23h03_49.png)
-
 
 2. Click "Add Dataset."
 
 ![Dataset 3](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/eb2f06e1-06ef-42c2-96ef-5b394a98d280)
-
-![2024-07-04_23h19_33.png](Adding%20and%20Deleting%20Dataset%202d35fb380d1a43b08fd853acd717769d/2024-07-04_23h19_33.png)
-
 
 
 3. Select the file and click "Open."
 
 ![Dataset 4](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/26ad7e58-a9d4-4e61-8cd3-da0f5540dd2c)
 
-![2024-06-06_15h25_36.png](Adding%20and%20Deleting%20Dataset%202d35fb380d1a43b08fd853acd717769d/2024-06-06_15h25_36.png)
-
-
 
 4. The CSV data will be added. Click the "Edit" button (the pencil icon) on the globe to return to the editing page.
 
 ![Dataset 5](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/8fd296e7-7854-41b0-99b4-55f333fdd8c0)
-
-![2024-07-04_23h46_03.png](Adding%20and%20Deleting%20Dataset%202d35fb380d1a43b08fd853acd717769d/2024-07-04_23h46_03.png)
-
 
 
 ## How to Import an Uploaded Dataset
