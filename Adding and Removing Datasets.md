@@ -138,7 +138,7 @@ In the case of a sphere, it will be displayed like this.
 
 <br>
 
-3. Select the [block]() you want to add to the infobox.
+3. Select the [block](https://github.com/CS-eukarya/User-Manual-English-/tree/Blocks) you want to add to the infobox.
 
 ![2024-07-09_22h41_24.png](Adding%20and%20Removing%20Datasets%202d35fb380d1a43b08fd853acd717769d/2024-07-09_22h41_24.png)
 
