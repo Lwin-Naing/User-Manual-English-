@@ -21,8 +21,7 @@
 
 2. 名前をつけて保存してください。拡張子は.jsonにしてください。ファイル名は自由です。
 
-<img width="250" alt="jsonファイル画像" src="[https://github.com/CS-eukarya/User-Manual-Japanese-/assets/154571156/e36df45d-8cb3-4e86-af7a-eeb56b009f27](https://github.com/CS-eukarya/User-Manual-Japanese-/assets/154571156/e36df45d-8cb3-4e86-af7a-eeb56b009f27)">
-
+<img width="250" alt="styljsonアイコン" src="https://github.com/user-attachments/assets/267f793b-2ec5-4e26-9b01-e3244db72afb">
 <br>
 <br>
 
