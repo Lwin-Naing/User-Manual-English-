@@ -37,7 +37,7 @@ PLATEAUの3D都市モデルの色付けでは、前のページで行った「�
 
 2. 名前をつけて保存してください。拡張子は.jsonにしてください。ファイル名は自由です。
 
-<img width="94" alt="styljsonアイコン" src="https://github.com/user-attachments/assets/b287be03-7bd8-4e95-b267-79ba284492bc">
+<img width="250" alt="styljsonアイコン" src="https://github.com/user-attachments/assets/b287be03-7bd8-4e95-b267-79ba284492bc">
 
 <br>
 <br>
