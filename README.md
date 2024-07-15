@@ -8,6 +8,6 @@
 
   [Color-coded with multiple attributes](https://github.com/CS-eukarya/User-Manual-English-/blob/Data-Style-Changes/Color-coded%20with%20multiple%20attributes%20.md)
 
-  Show only specific buildings
+  [Show only specific buildings](https://github.com/CS-eukarya/User-Manual-English-/blob/Data-Style-Changes/Show%20only%20specific%20buildings.md)
 
-  Set the color of the flooded area
+  [Set the color of the flooded area](https://github.com/CS-eukarya/User-Manual-English-/blob/Data-Style-Changes/Set%20the%20color%20of%20the%20flooded%20area.md)
