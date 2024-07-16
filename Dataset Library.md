@@ -1,35 +1,14 @@
 # Dataset Library
 
-All imported data is stored in Re:Earth as a dataset. For more information, see [Datasets]. 
+All imported data is saved within Re:Earth as datasets.
 
 You can find the Dataset library here: Editor page —> Header menu —> Datasets
 
 ![sdf_3_(1)](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/0b12d377-f7ca-427d-a8d3-b705089e1e87)
 
-The Dataset Library allows you to view and manage all datasets that you have imported into the current project.
+<br>
+The dataset library allows you to view and manage all datasets imported into the current project. For more information, please refer to [Adding and Deleting Datasets](https://github.com/CS-eukarya/User-Manual-English-/blob/Layers/Adding%20and%20Removing%20Datasets.md).
 
 ![83_1](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/3392b8fd-d7e4-4252-b407-135472ee5937)
 <br>
 <br>
-
-## Adding and deleting Datasets[](https://docs.reearth.io/user-manual/project-and-workspace/project/dataset-library#addind-and-deleting-datasets)
-
-![asf](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/21512a89-604a-4766-a0a2-a28c6ee7e2d5)
-
-**A** . **Add dataset (import) button** allows you to import data from your local machine.
-
-**B** . **Delete button** is found by hovering the mouse over the Dataset card.
-
-At the moment, managing Datasets consists of only adding (importing) and deleting them. We will expand the functionality in future development.
-<br>
-<br>
-
-
-<aside>
-  
-⚠️**Caution**⚠️
-
-**When deleting a dataset, ensure that it is not in use within any project. If the dataset is linked, removing it could potentially corrupt the connected project.**
-
-
-</aside>
