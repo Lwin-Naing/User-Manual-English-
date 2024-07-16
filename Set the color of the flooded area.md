@@ -45,15 +45,14 @@ PLATEAUの3D都市モデルの色付けでは、前のページで行った「�
 3. 3Dtilesレイヤーの設定項目のスタイルURLを選択します。
 
 
-![複数の属性で色分け３](https://github.com/CS-eukarya/User-Manual-Japanese-/assets/154571156/a6dbf5ec-6410-47cf-a7b9-b33e28f44577)
+![３](https://github.com/user-attachments/assets/6d3f4fce-6db7-4ea7-a32a-1599d5bbbfa3)
 
 <br>
 <br>
 
 4. ファイルアップロードよりファイルがアセットに追加されるので、クリックして選択します。
 
-
-![複数の属性で色分け４](https://github.com/CS-eukarya/User-Manual-Japanese-/assets/154571156/0c4652eb-60f1-43aa-bacf-033abb8ccab9)
+![４](https://github.com/user-attachments/assets/4f02d780-cc0c-450c-af86-655bf55f4344)
 
 <br>
 <br>
@@ -61,4 +60,4 @@ PLATEAUの3D都市モデルの色付けでは、前のページで行った「�
 すると、このように表示されます。
 
 
-<img width="980" alt="複数の属性で色分け完了（変更版）" src="https://github.com/CS-eukarya/User-Manual-Japanese-/assets/154571156/14724870-20b5-4d7a-8776-4f99bb53eddc">
+<img width="980" alt="5" src="https://github.com/user-attachments/assets/162e9acf-7149-4eb4-9e58-678f0d647e5b">
