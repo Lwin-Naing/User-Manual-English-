@@ -9,11 +9,11 @@
 <br>
 <br>
 
-## How to use 3D tiles in Re-Earth App.
+## How to Setup 
 
 1. Drag and drop the 3D tile icon anywhere on the globe. (**Note**: The icon will not be displayed like a marker.)
 
-- Image
+![image](https://github.com/user-attachments/assets/76be353c-2fc8-4f62-a18e-08bfd77dbec5)
 
 <br>
 <br>
@@ -21,75 +21,8 @@
 2. A new item labeled "3D Tiles" with a blue stripe will be added to the layer section of the left panel.
 3. The 3D Tiles settings screen (properties) will be displayed in the right panel.
 
-- Image
+![image](https://github.com/user-attachments/assets/b5c2645b-7360-4d14-a7b0-f2a564dbdd75)
   
-<br>
-<br>
-
-## 3D Tiles Properties
-
-In the 3D Tiles properties, you can configure the following items:
-
-- Image
-
-A. Source Type : Select either URL or OSMBuildings.
-
-*OSMBuildings is an open-source project that generates 3D models of buildings using data from OpenStreetMap (OSM). OSMBuildings can be integrated into web maps and mobile applications, allowing users to freely change the height, color, shape, and texture of buildings. This makes it possible to implement information useful for purposes such as urban planning and architectural design.*
-
-B. Tileset URL: Specify the URL where the 3D Tiles are being served. Make sure the URL ends with "tileset.json". 
-
-  1. Clicking the URL input field will display a modal dialog. 
-  2. Select the URL tab within the modal dialog. 
-  3. You can enter the URL. 
-  4. Click the "Select" button at the bottom right.
-
-- Image
-
-C. Styling URL: Specify the URL of a JSON file in 3D Tiles Styles format if you want to change the style of 3D Tiles, such as by color or attribute. 
-
-  1. Clicking the URL input field will display a modal dialog. 
-  2. Upload the 3D Tiles Styles JSON file by clicking "Upload File". 
-  3. Select the uploaded JSON file from your assets. 
-  4. Click the "Select" button at the bottom right.
-
-- Image
-
-D. 影：3Dオブジェクトなどに対して影の表現の有無を設定します。<br>
-影を有効にしたい場合、シーンの設定でも影を有効にする必要があるのでご注意ください。
-
-## Renaming a 3D tile
-
-To rename a layer, double-click on the text "3D Tiles." This will make the text editable. Input the new name and press Enter to confirm.
-
-![Untitled 3](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/ff6b0027-91e0-460a-a6ff-045003c4fb80)
-<br>
-
-### Hiding the 3D tiles
-
-Clicking the eye icon to the right of the 3D Tiles layer in the left panel will hide the 3D portion on the globe.
-<br>
-<br>
-
-**Before Hiding 3D Tiles**
-
-![3Dtile5](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/3f4319c4-2a1e-4ab0-8318-1002172e46d1)
-
-<br>
-<br>
-
-**After Hiding 3D Tiles**
-
-![3Dtile6](https://github.com/CS-eukarya/User-Manual-Japanese-/assets/154571156/9564aabd-b6c8-4c4b-8a92-ef7cadc53a6c)
-
-<br>
-<br>
-
-### Deleting a 3D tile
-
-To delete a displayed 3D Tiles layer, click the layer you want to delete in the left panel to highlight it in blue. Then, click the trash can icon to the right of the layer to delete it.
-
-![3Dtile7](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/a8c0560f-5a68-49ee-bc06-62ec411be36a)
-
 <br>
 <br>
 
@@ -130,6 +63,60 @@ OSM Buildings is an open-source project that uses OpenStreetMap (OSM) data to ge
 <br>
 
 **D. Shadow:** Enable/disable shadow expression for 3D objects and other objects. Note that if you want to enable shadows, you must also enable shadows in the scene settings.
+
+## Renaming a 3D tile
+
+To rename a layer, double-click on the text "3D Tiles." This will make the text editable. Input the new name and press Enter to confirm.
+
+![Untitled 3](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/ff6b0027-91e0-460a-a6ff-045003c4fb80)
+<br>
+
+### Hiding the 3D tiles
+
+Clicking the eye icon to the right of the 3D Tiles layer in the left panel will hide the 3D portion on the globe.
+<br>
+<br>
+
+**Before Hiding 3D Tiles**
+
+![3Dtile5](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/3f4319c4-2a1e-4ab0-8318-1002172e46d1)
+
+<br>
+<br>
+
+**After Hiding 3D Tiles**
+
+![3Dtile6](https://github.com/CS-eukarya/User-Manual-Japanese-/assets/154571156/9564aabd-b6c8-4c4b-8a92-ef7cadc53a6c)
+
+<br>
+<br>
+
+## Deleting a 3D tile
+
+To delete a displayed 3D Tiles layer, click the layer you want to delete in the left panel to highlight it in blue. Then, click the trash can icon to the right of the layer to delete it.
+
+![3Dtile7](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/a8c0560f-5a68-49ee-bc06-62ec411be36a)
+
+<br>
+<br>
+
+## PLATEAU-Terrain Settings
+
+By default, terrain data is turned off, so buildings appear to float above the ground.
+To resolve this, click on "Scene" in the left panel, and the settings for that scene will be displayed in the right panel.
+By turning on [Terrain](https://github.com/CS-eukarya/User-Manual-English-/blob/Scene-Properties/Terrain.md), detailed geographic information including terrain undulation and elevation will be displayed correctly, enabling realistic terrain representation.
+
+![image](https://github.com/user-attachments/assets/8f698b9c-9f74-4341-85f5-a76343c31a31)
+
+### Terrain ON
+
+![image](https://github.com/user-attachments/assets/dc262dfa-6abe-44f6-83ea-c67dccea4ce8)
+<br>
+
+### Terrain OFF
+
+![image](https://github.com/user-attachments/assets/14c9d91c-048d-4999-85b0-fc9fc991dc27)
+
 <br>
 <br>
 <br>
