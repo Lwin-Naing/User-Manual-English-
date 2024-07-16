@@ -27,18 +27,18 @@
 
 3. 3Dタイルレイヤーのプロパティの「スタイルURL」を選択します。
 
-[https://github.com/CS-eukarya/User-Manual-Japanese-/assets/154571156/54684c50-b792-4c53-bc49-b6f825d3c8f2](https://github.com/CS-eukarya/User-Manual-Japanese-/assets/154571156/54684c50-b792-4c53-bc49-b6f825d3c8f2)
+![３](https://github.com/user-attachments/assets/ebe174fd-223f-4ead-ac8d-84aa74078b74)
 
 <br>
 <br>
 
 4. ファイルアップロードよりファイルがアセットに追加されるので、クリックして選択します。
 
-[https://github.com/CS-eukarya/User-Manual-Japanese-/assets/154571156/c9e9271c-1674-4b28-82d8-ea51ee6349b3](https://github.com/CS-eukarya/User-Manual-Japanese-/assets/154571156/c9e9271c-1674-4b28-82d8-ea51ee6349b3)
+![４](https://github.com/user-attachments/assets/5ee8def9-315a-49d0-a9a1-4576393bd942)
 
 <br>
 <br>
 
 すると、このように表示されます。
 
-<img width="950" alt="特定の建物のみ表示の反映後" src="[https://github.com/CS-eukarya/User-Manual-Japanese-/assets/154571156/9b844385-e3db-4788-ad53-f7fc2f57997b](https://github.com/CS-eukarya/User-Manual-Japanese-/assets/154571156/9b844385-e3db-4788-ad53-f7fc2f57997b)">
+<img width="950" alt="５" src="https://github.com/user-attachments/assets/d6c57c93-53c9-485d-83a3-2f45c6529d7a">
