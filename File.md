@@ -6,18 +6,17 @@ By specifying a URL, you can load external data.
 
 ![Untitled](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/10fc4aa8-5a5f-4858-b6b0-e5fbd30087d8)
 
-## How to use files
+##Setup Steps
 
-### Adding a file
-
-- In the Re-Earth globe, drag and drop the file icon to the desired location. (No symbol will appear at the time of drag and drop.)
+1. Drag and drop the file icon to the desired location. (No symbol will appear at the time of drag and drop.)
 
 ![File2](https://github.com/CS-eukarya/User-Manual-Japanese-/assets/154571156/2d8de00a-eee2-4915-a9d7-2c5150f5b9ed)
 
 <br>
 <br>
 
-- When a file is dropped into the Re-Earth globe, the word "file" appears in blue in the layer on the left panel. This is the file that was dropped  in the Re-Earth globe. Also, as you drop More file icons, the more 3D tiles will appear in the layer.
+2. A new "File" item with a blue bar will be added to the layer column on the left.
+3. The file settings screen (properties) will be displayed in the panel on the right side of the screen.
 
 ![File3](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/9db37b6e-094e-4727-bd35-0c10a6f8e52c)
 
