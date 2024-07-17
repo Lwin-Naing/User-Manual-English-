@@ -46,6 +46,7 @@ By specifying a URL, you can load external data.
 
 **C. Fixed to ground surface**: If it is 'ON', polygons and other data can be displayed along the unevenness of the ground surface.
 
+
 ### Renaming a file
 
 Double-click on the letter of the file you want to rename in the layer, and you will be able to rename it.
@@ -54,7 +55,7 @@ Double-click on the letter of the file you want to rename in the layer, and you 
 <br>
 <br>
 
-### Hiding files
+### Hiding a files
 
 Click on the eye symbol on the right side of the file in the left panel to make the 3D part on the globe disappear.
 
