@@ -4,18 +4,17 @@
 
 In this section, we will guide you through the process of creating an account to start Re:Earth.
 
-Create your own account and enjoy the world of Re:Earth.
+Let's make your account and have fun with Re:Earth!
 <br>
-
-
 **Let's start!**
+
 <br>
 <br>
 
 ## Account Creation
 
+1. Please open [https://app.reearth.io/](https://app.reearth.io/) and click on "Sign in" in the upper right corner of the screen.
 
-1. please open [https://app.reearth.io/](https://app.reearth.io/) and click on "Sign in" in the upper right corner of the screen.
 ![image](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/563c3e52-0f37-430a-937d-89f4081ae709)
 
 <br>
