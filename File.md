@@ -6,7 +6,7 @@ By specifying a URL, you can load external data.
 
 ![Untitled](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/10fc4aa8-5a5f-4858-b6b0-e5fbd30087d8)
 
-##Setup Steps
+## Setup Steps
 
 1. Drag and drop the file icon to the desired location. (No symbol will appear at the time of drag and drop.)
 
