@@ -22,6 +22,30 @@ By specifying a URL, you can load external data.
 
 <br>
 <br>
+
+## File Properties
+**The following items can be set in the file properties:**
+
+![Untitled 7](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/3141616d-3254-48e8-aa5d-edd459ef4d10)
+<br>
+<br>
+
+**A. File URL:** File data can be uploaded by specifying a file URL.
+
+1. click on the URL input field to display the SET modal. 
+2. select the URL tab in the SET modal.
+3. You can enter a URL. 
+4. Click the Select button in the lower right corner.
+
+![File9](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/05039fb1-1362-4bce-a16b-d9b876f8e02c)
+
+<br>
+<br>
+
+**B. File format:** Select file format from (**Auto, KML, GeoJSON/TopoJSON, or CZML)**.
+
+**C. Fixed to ground surface**: If it is 'ON', polygons and other data can be displayed along the unevenness of the ground surface.
+
 ### Renaming a file
 
 Double-click on the letter of the file you want to rename in the layer, and you will be able to rename it.
@@ -43,7 +67,7 @@ Click on the eye symbol on the right side of the file in the left panel to make 
 
 ### Deleting a file
 
-To delete a file, click on the file you wish to delete in the layers in the left panel, make sure it is selected in blue, and then press the "trash can" symbol on the right side of the layer to delete it.
+If you want to delete a displayed file, click on the file you want to delete in the layers on the left panel so that it is selected in blue, then click on the "trash can" icon to the right of the layer to delete it.
 
 ![File7](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/5e80aa26-db86-4bb8-a173-a270a4dce881)
 
@@ -51,25 +75,3 @@ To delete a file, click on the file you wish to delete in the layers in the left
 <br>
 <br>
 
-## File Properties
-**File properties allow you to set the following items**
-
-![Untitled 7](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/3141616d-3254-48e8-aa5d-edd459ef4d10)
-<br>
-<br>
-
-**A. File URL:** File data can be uploaded by specifying a file URL.
-
-1. click on the URL input field to display the SET modal. 
-2. select the URL tab in the SET modal.
-3. You can enter a URL. 
-4. Click the Select button in the lower right corner.
-
-![File9](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/05039fb1-1362-4bce-a16b-d9b876f8e02c)
-
-<br>
-<br>
-
-**B. File format:** Select file format from (**Auto, KML, GeoJSON/TopoJSON, or CZML)**.
-
-**C. Fixed to ground surface**: If it is 'ON', polygons and other data can be displayed along the unevenness of the ground surface.
