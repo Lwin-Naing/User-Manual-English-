@@ -28,18 +28,18 @@
 
 3. In the settings for the 3D tiles layer, select the Style URL option.
 
-![３](https://github.com/user-attachments/assets/6d3f4fce-6db7-4ea7-a32a-1599d5bbbfa3)
+![3](https://github.com/user-attachments/assets/8204b7d2-b76e-4d5d-b7c4-ce93f84d0773)
 
 <br>
 <br>
 
 4. From the file upload option, add the file to the assets. Click on it to select it.
 
-![４](https://github.com/user-attachments/assets/4f02d780-cc0c-450c-af86-655bf55f4344)
+![4](https://github.com/user-attachments/assets/f8c49a13-7ab6-48c4-9441-b9d09d3822d3)
 
 <br>
 <br>
 
 Then, it will be displayed like this.
 
-<img width="980" alt="5" src="https://github.com/user-attachments/assets/162e9acf-7149-4eb4-9e58-678f0d647e5b">
+<img width="980" alt="5" src="https://github.com/user-attachments/assets/cd4db8ab-268d-442e-a4de-597b4e30dbbc">
