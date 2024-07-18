@@ -39,6 +39,6 @@ Paste the following code:
 <br>
 <br>
 
-すると、このように表示されます。
+Then, it will be displayed like this.
 
 <img width="950" alt="５" src="https://github.com/user-attachments/assets/d6c57c93-53c9-485d-83a3-2f45c6529d7a">
