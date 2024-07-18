@@ -1,34 +1,21 @@
-# Color-Coding by Multiple Attributes
-In the color coding of PLATEAU's 3D city model, it is possible to combine attributes and color-code buildings, not only using the "height" attribute as done on the previous page.
+# Set the color of the flooded area
 
-Here, in addition to the "height" attribute, we will also use the "usage" attribute for color coding.
+浸水想定範囲を3DTilesで反映した際、浸水の色の変更や色を透過させたりすることができます。
 
 <br>
 <br>
 
 1. Open your preferred text editor (Notepad is fine).<br>Paste the following code:
 
-- If the value of _height is 50 or more and the usage is office facility, use `#f8a99c`
-  
-- If the value of _height is 10 or less and the usage is commercial facility, use `#923b2d`
 
-```jsx
+
+```
 {
     "show": "true",
-    "color": {
-        "conditions": [
-	    [
-                "(${_height} > 50) && (${`usage} === 'office facility')",
-                "color('#f8a99c')"
-            ],
-            [
-                "(${_height} < 10) && ($`{usage} === 'commercial facility`)",
-                "color('#923b2d')"
-            ]
-        ]
-    }
+    "color": "color('#60b9ebff',0.7)"
 }
 ```
+
 <br>
 <br>
 
