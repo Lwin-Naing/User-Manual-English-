@@ -1,6 +1,6 @@
 # Set the color of the flooded area
 
-When reflecting the expected inundation area in 3DTiles, the color of the inundation can be changed and the color can be made transparent.
+When you reflect the expected inundation area in 3DTiles, you can change the color of the inundation can be changed and make colors transparent.
 
 <br>
 <br>
