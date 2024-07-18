@@ -1,4 +1,4 @@
-# Adding and Removing Datasets
+# Add and Removing Datasets
 
 <img width="1050" alt="スクリーンショット 2024-07-04 225653" src="https://github.com/user-attachments/assets/4cd51527-ef38-46c3-b38a-fce6b3550295">
 
