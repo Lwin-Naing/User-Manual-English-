@@ -18,7 +18,7 @@ By specifying a URL, you can load external data.
 2. A new "File" item with a blue bar will be added to the layer column on the left.
 3. The file settings screen (properties) will be displayed in the panel on the right side of the screen.
 
-![File3](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/9db37b6e-094e-4727-bd35-0c10a6f8e52c)
+![3](https://github.com/user-attachments/assets/bc177f8f-f125-4408-afcb-6752c97c32b5)
 
 <br>
 <br>
