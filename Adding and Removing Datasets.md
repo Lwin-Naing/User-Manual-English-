@@ -48,7 +48,7 @@ We plan to expand these features in future development.
 
 <br>
 
-2. Confirm that there are no garbled characters and click on "Layer style".
+2. Confirm that there are no corrupted characters and click on "Layer style".
 
 ![2024-07-11_22h06_00.png](Adding%20and%20Removing%20Datasets%202d35fb380d1a43b08fd853acd717769d/2024-07-11_22h06_00.png)
 
@@ -83,7 +83,7 @@ In the case of a sphere, it will be displayed like this.
 
 <br>
 
-## How to Set Properties for All Layers in a Batch
+## How to Set Properties for All Layers simultaneously
 
 1. Click on the "Outline" tab in the left panel, then select the CSV data that has been added to the layer.
 
@@ -112,7 +112,7 @@ In the case of a sphere, it will be displayed like this.
 <br>
 
  - Set "Link to dataset" for all the items you want to link.
- - Be sure to select the parent tree of the layer in the left panel before setting "Link to dataset."
+ - Be sure to select the parent layer of the layer in the left panel before setting "Link to dataset."
 
 ![2024-07-09_22h31_19.png](Adding%20and%20Removing%20Datasets%202d35fb380d1a43b08fd853acd717769d/2024-07-09_22h31_19.png)
 
