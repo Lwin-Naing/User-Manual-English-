@@ -1,6 +1,6 @@
 # Set the color of the flooded area
 
-浸水想定範囲を3DTilesで反映した際、浸水の色の変更や色を透過させたりすることができます。
+When reflecting the expected inundation area in 3DTiles, the color of the inundation can be changed and the color can be made transparent.
 
 <br>
 <br>
@@ -26,7 +26,8 @@
 <br>
 <br>
 
-3. In the settings for the 3D tiles layer, select the Style URL option.
+3. In the settings for the 3D tiles layer, select the Style URL option.<br>
+ (The tileset URL has the assumed inundation area of the Arakawa River (3DTiles)).
 
 ![3](https://github.com/user-attachments/assets/8204b7d2-b76e-4d5d-b7c4-ce93f84d0773)
 
