@@ -15,10 +15,9 @@ Assets are linked to workspaces, allowing them to be shared and used across proj
 <br>
 
 
-## 画像アセットとして使用できるもの
+## Usable Image Assets
 
-- プロジェクトのサムネイル
-
+- Project Thumbnail
 
 ![asset1](https://github.com/user-attachments/assets/77a7b5eb-abcc-4a8e-810d-f7a1d355101d)
  
@@ -27,7 +26,7 @@ Assets are linked to workspaces, allowing them to be shared and used across proj
 <br>
 <br>
 
-- インフォボックスのイメージブロック画像
+- Image block for the info box
 
  ![asset3](https://github.com/user-attachments/assets/c5fe9100-e607-48d6-bb34-fb09a8de785a)
 
@@ -41,7 +40,7 @@ Assets are linked to workspaces, allowing them to be shared and used across proj
 <br>
 <br>
 
-- レイヤーアイコン（該当する場合）
+- Layer icon (if applicable)
 
  ![asset5](https://github.com/user-attachments/assets/c0447e16-7610-4684-820c-093239eac33a)
 
@@ -54,7 +53,7 @@ Assets are linked to workspaces, allowing them to be shared and used across proj
 
 
 
-  設定後プロジェクトを開く際に画像が表示されます。
+  When you open the project after configuring these settings, the images will be displayed.
 
 
   ![asset7](https://github.com/user-attachments/assets/97f198b7-0169-486c-90c3-3b37ac19201b)
