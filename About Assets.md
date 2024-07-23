@@ -26,7 +26,7 @@ Assets are linked to workspaces, allowing them to be shared and used across proj
 <br>
 <br>
 
-- Image block for the info box
+- Image block for the infobox
 
  ![asset3](https://github.com/user-attachments/assets/c5fe9100-e607-48d6-bb34-fb09a8de785a)
 
