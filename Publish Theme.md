@@ -1,7 +1,7 @@
 # Publish Theme
 
 
-With Publish Theme, you can choose from different themes designed to suit your needs. Selecting a publish Theme lets you change the look of your project in the Re-Earth app. The difficult theme for the Re-Earth app is the ReEarth Dark Theme
+Re:Earth offers Publish Themes that let you customize the look of your project. You can choose from a variety of themes, each designed to enhance the visual appeal of your work.
 <br>
 <br>
 
@@ -33,11 +33,12 @@ Let's take the storytelling control buttons as an example and look at each featu
 
 ![Type of Themes](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/a95f91b6-9440-4cd4-9ed1-c5d1b2d8e989)
 
-### A. Re: Earth Dark Theme:
+### A. Re: Earth Dark
 
-   The Re: Earth Dark Theme is the first type of theme in the Re-earth App. it is the difficult theme for Re-earth. 
+   This theme defines the default color for the control buttons.
 
-   It's a beautiful, immersive dark mode that's optimized for low-light settings, with enhanced color contrast and improved readability. 
+   It's a beautiful, immersive dark mode that's optimized for low-light settings, with 
+enhanced color contrast and improved readability. 
 
   ![Image test 1](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/066e052b-d58c-4f9c-a10c-5e35f79c2cd1)
 
@@ -45,7 +46,7 @@ Let's take the storytelling control buttons as an example and look at each featu
 <br>
 <br>
 
-### B. Re: Earth Light Theme:
+### B. Re:Earth Light 
 
 This Theme displays a beautiful light theme color.
 
@@ -54,18 +55,17 @@ This Theme displays a beautiful light theme color.
 <br>
 <br>
 
-### C. Forest Theme:
+### C. Forest
 
-This Theme gives green beautiful earth in the Re-earth App. 
+This theme allows you to customize the digital earth with a vibrant green color. 
 
 ![Image test 3](https://github.com/CS-eukarya/User-Manual-English-/assets/154571156/c509271d-0d0d-4d17-896d-a96cb895373a)
 
 <br>
 <br>
 
-### D. Custom Theme:
-In the Custom Theme, you can Customize the Re-earth app Theme to your own tasty, 
-The Custom theme gives you different functions to select from, Such as Text color, Select color, and Background color 
+### D. Custom Theme
+You can customize the theme using custom theme option to match your preferences. You can select the text color, select color, and background color. 
 
 ![Untitled](Publish%20Theme%2038b039be6d104dabbcd885d5e72eadb8/Untitled%202.png)
 
